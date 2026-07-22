@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "english": "I'm on my way.",
+    "korean": "지금 가는 중이야.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "Use when you are heading somewhere and want to reassure the other person."
+  },
+  {
+    "id": 2,
+    "english": "Could you speak a little slower?",
+    "korean": "조금만 천천히 말씀해 주실래요?",
+    "category": "Conversation",
+    "level": "Beginner",
+    "situation": "Useful when you need clearer listening support in a real conversation."
+  },
+  {
+    "id": 3,
+    "english": "I need a few more minutes.",
+    "korean": "조금만 더 시간이 필요해.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "Use when you are almost ready but need a short delay."
+  },
+  {
+    "id": 4,
+    "english": "Let's grab coffee after work.",
+    "korean": "일 끝나고 커피 한잔하자.",
+    "category": "Social",
+    "level": "Beginner",
+    "situation": "A casual invitation for an after-work meetup."
+  },
+  {
+    "id": 5,
+    "english": "I forgot to bring my charger.",
+    "korean": "충전기를 가져오는 걸 깜빡했어.",
+    "category": "Travel",
+    "level": "Beginner",
+    "situation": "Useful when something important is missing."
+  },
+  {
+    "id": 6,
+    "english": "What time does the train leave?",
+    "korean": "기차가 몇 시에 출발하나요?",
+    "category": "Travel",
+    "level": "Beginner",
+    "situation": "Good for asking schedules in stations or terminals."
+  },
+  {
+    "id": 7,
+    "english": "I have already finished my homework.",
+    "korean": "나는 벌써 숙제를 끝냈어.",
+    "category": "Study",
+    "level": "Beginner",
+    "situation": "A simple statement about completed work."
+  },
+  {
+    "id": 8,
+    "english": "This idea sounds interesting.",
+    "korean": "이 아이디어는 흥미롭게 들려.",
+    "category": "Work",
+    "level": "Beginner",
+    "situation": "Use when you want to respond positively to a suggestion."
+  },
+  {
+    "id": 9,
+    "english": "Could I ask you one quick question?",
+    "korean": "간단히 하나만 여쭤봐도 될까요?",
+    "category": "Conversation",
+    "level": "Beginner",
+    "situation": "Polite and natural for opening a short question."
+  },
+  {
+    "id": 10,
+    "english": "I think we should wait a little longer.",
+    "korean": "조금 더 기다려야 한다고 생각해.",
+    "category": "Opinion",
+    "level": "Beginner",
+    "situation": "A gentle way to suggest patience."
+  },
+  {
+    "id": 11,
+    "english": "I am looking for a quieter place to work.",
+    "korean": "조용하게 일할 수 있는 곳을 찾고 있어.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "Useful for describing your environment preference."
+  },
+  {
+    "id": 12,
+    "english": "The meeting has been moved to tomorrow morning.",
+    "korean": "회의가 내일 아침으로 옮겨졌어.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "A practical update about schedule changes."
+  },
+  {
+    "id": 13,
+    "english": "I was wondering if you could help me with this.",
+    "korean": "이거 좀 도와주실 수 있는지 궁금했어요.",
+    "category": "Conversation",
+    "level": "Intermediate",
+    "situation": "A polite and natural request for help."
+  },
+  {
+    "id": 14,
+    "english": "She explained the problem very clearly.",
+    "korean": "그녀는 문제를 아주 명확하게 설명했다.",
+    "category": "Study",
+    "level": "Intermediate",
+    "situation": "Useful when describing how well someone communicated."
+  },
+  {
+    "id": 15,
+    "english": "I will send you the updated file by noon.",
+    "korean": "정오까지 수정된 파일을 보내줄게.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "A common workplace promise with a deadline."
+  },
+  {
+    "id": 16,
+    "english": "It took longer than I expected.",
+    "korean": "생각보다 더 오래 걸렸어.",
+    "category": "Daily life",
+    "level": "Intermediate",
+    "situation": "A natural way to express an unexpected delay."
+  },
+  {
+    "id": 17,
+    "english": "We should probably make a backup first.",
+    "korean": "일단 백업부터 하는 게 좋겠어.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "Practical advice before changing important files."
+  },
+  {
+    "id": 18,
+    "english": "The restaurant was surprisingly crowded.",
+    "korean": "그 식당은 놀랄 만큼 붐볐어.",
+    "category": "Daily life",
+    "level": "Intermediate",
+    "situation": "Use to describe an unexpectedly busy place."
+  },
+  {
+    "id": 19,
+    "english": "I am not sure whether this is the best option.",
+    "korean": "이게 최선의 선택인지 잘 모르겠어.",
+    "category": "Opinion",
+    "level": "Intermediate",
+    "situation": "Useful when you want to express hesitation."
+  },
+  {
+    "id": 20,
+    "english": "Could you recommend a good place nearby?",
+    "korean": "근처에 괜찮은 곳 추천해 주실 수 있나요?",
+    "category": "Travel",
+    "level": "Intermediate",
+    "situation": "Great for asking for local recommendations."
+  },
+  {
+    "id": 21,
+    "english": "I have been practicing English every morning.",
+    "korean": "나는 매일 아침 영어를 연습하고 있어.",
+    "category": "Study",
+    "level": "Beginner",
+    "situation": "A present perfect continuous sentence about habit."
+  },
+  {
+    "id": 22,
+    "english": "The instructions were easier than I thought.",
+    "korean": "설명은 생각보다 쉬웠어.",
+    "category": "Study",
+    "level": "Intermediate",
+    "situation": "Useful when reflecting on learning materials."
+  },
+  {
+    "id": 23,
+    "english": "I am trying to stay organized this week.",
+    "korean": "이번 주에는 정리 정돈을 잘하려고 노력 중이야.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "A natural sentence about personal routine."
+  },
+  {
+    "id": 24,
+    "english": "Please let me know if anything changes.",
+    "korean": "변경되는 게 있으면 알려 주세요.",
+    "category": "Work",
+    "level": "Beginner",
+    "situation": "A polite request for updates."
+  },
+  {
+    "id": 25,
+    "english": "The weather suddenly got much colder.",
+    "korean": "날씨가 갑자기 훨씬 추워졌어.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "Good for describing a quick weather change."
+  },
+  {
+    "id": 26,
+    "english": "I would like to try something new today.",
+    "korean": "오늘은 뭔가 새로운 걸 해보고 싶어.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "Useful for making a positive plan."
+  },
+  {
+    "id": 27,
+    "english": "Can we move this conversation to later?",
+    "korean": "이 대화를 나중으로 미룰 수 있을까요?",
+    "category": "Conversation",
+    "level": "Intermediate",
+    "situation": "Polite when you need to pause a talk."
+  },
+  {
+    "id": 28,
+    "english": "I finally found the document I was looking for.",
+    "korean": "드디어 찾던 문서를 찾았어.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "A satisfying update about finding something."
+  },
+  {
+    "id": 29,
+    "english": "The app keeps crashing whenever I open it.",
+    "korean": "그 앱은 열기만 하면 계속 멈춰.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "A realistic sentence for reporting a bug."
+  },
+  {
+    "id": 30,
+    "english": "I am happy to help if you need anything.",
+    "korean": "필요한 게 있으면 기꺼이 도와줄게.",
+    "category": "Conversation",
+    "level": "Beginner",
+    "situation": "Warm and friendly for offering support."
+  },
+  {
+    "id": 31,
+    "english": "The guide covered the main points very well.",
+    "korean": "그 안내서는 핵심 내용을 아주 잘 다뤘어.",
+    "category": "Study",
+    "level": "Intermediate",
+    "situation": "Useful when evaluating learning material."
+  },
+  {
+    "id": 32,
+    "english": "We arrived earlier than planned.",
+    "korean": "우리는 계획보다 일찍 도착했어.",
+    "category": "Travel",
+    "level": "Beginner",
+    "situation": "A simple travel update."
+  },
+  {
+    "id": 33,
+    "english": "He gave me a very practical suggestion.",
+    "korean": "그는 아주 실용적인 제안을 해줬어.",
+    "category": "Opinion",
+    "level": "Intermediate",
+    "situation": "Useful when you want to praise advice."
+  },
+  {
+    "id": 34,
+    "english": "I need to double-check the numbers before I answer.",
+    "korean": "답하기 전에 숫자를 다시 확인해야 해.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "A careful response when accuracy matters."
+  },
+  {
+    "id": 35,
+    "english": "The line was longer than I expected.",
+    "korean": "줄이 생각보다 더 길었어.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "Useful for describing waiting situations."
+  },
+  {
+    "id": 36,
+    "english": "I am interested in learning how this works.",
+    "korean": "이게 어떻게 작동하는지 배우고 싶어.",
+    "category": "Work",
+    "level": "Beginner",
+    "situation": "Good for asking about a system or device."
+  },
+  {
+    "id": 37,
+    "english": "The conversation became more relaxed after dinner.",
+    "korean": "저녁 식사 후에 대화가 더 편해졌어.",
+    "category": "Social",
+    "level": "Intermediate",
+    "situation": "Useful for describing a mood change."
+  },
+  {
+    "id": 38,
+    "english": "She was confident even under pressure.",
+    "korean": "그녀는 압박 속에서도 자신감이 있었어.",
+    "category": "Opinion",
+    "level": "Intermediate",
+    "situation": "Useful when describing someone's attitude."
+  },
+  {
+    "id": 39,
+    "english": "I left my umbrella at home again.",
+    "korean": "나 또 우산을 집에 두고 왔어.",
+    "category": "Daily life",
+    "level": "Beginner",
+    "situation": "A casual sentence about a small mistake."
+  },
+  {
+    "id": 40,
+    "english": "The report needs one more careful edit.",
+    "korean": "보고서는 한 번만 더 꼼꼼하게 수정하면 돼.",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "Great for speaking about revision."
+  },
+  {
+    "id": 41,
+    "english": "I did not notice the difference at first.",
+    "korean": "처음에는 그 차이를 알아차리지 못했어.",
+    "category": "Study",
+    "level": "Intermediate",
+    "situation": "Useful when comparing two things."
+  },
+  {
+    "id": 42,
+    "english": "Let's meet somewhere with a nice view.",
+    "korean": "경치 좋은 곳에서 만나자.",
+    "category": "Social",
+    "level": "Beginner",
+    "situation": "A friendly suggestion for a meetup location."
+  },
+  {
+    "id": 43,
+    "english": "I was surprised by how fast it happened.",
+    "korean": "그 일이 얼마나 빨리 일어났는지 놀랐어.",
+    "category": "Opinion",
+    "level": "Intermediate",
+    "situation": "Useful for expressing surprise."
+  },
+  {
+    "id": 44,
+    "english": "The package should arrive sometime this afternoon.",
+    "korean": "소포는 오늘 오후쯤 도착할 거야.",
+    "category": "Daily life",
+    "level": "Intermediate",
+    "situation": "Useful when tracking a delivery."
+  },
+  {
+    "id": 45,
+    "english": "I would rather stay home and rest tonight.",
+    "korean": "오늘 밤은 집에서 쉬는 게 더 좋아.",
+    "category": "Daily life",
+    "level": "Intermediate",
+    "situation": "Natural way to express preference."
+  },
+  {
+    "id": 46,
+    "english": "Could you send me a screenshot of the issue?",
+    "korean": "문제 화면 캡처를 보내주실 수 있나요?",
+    "category": "Work",
+    "level": "Intermediate",
+    "situation": "Very useful for technical support."
+  },
+  {
+    "id": 47,
+    "english": "I feel more focused when the room is quiet.",
+    "korean": "방이 조용하면 더 집중이 잘 돼.",
+    "category": "Study",
+    "level": "Beginner",
+    "situation": "Use to describe your ideal study environment."
+  },
+  {
+    "id": 48,
+    "english": "The conversation drifted away from the original topic.",
+    "korean": "대화가 원래 주제에서 벗어났어.",
+    "category": "Conversation",
+    "level": "Advanced",
+    "situation": "Useful when a discussion goes off track."
+  },
+  {
+    "id": 49,
+    "english": "I need to make sure I understand the details correctly.",
+    "korean": "세부 사항을 정확히 이해했는지 확인해야 해.",
+    "category": "Work",
+    "level": "Advanced",
+    "situation": "Useful for careful communication."
+  },
+  {
+    "id": 50,
+    "english": "The solution was simpler than everyone expected.",
+    "korean": "해결책은 모두가 예상한 것보다 더 단순했어.",
+    "category": "Opinion",
+    "level": "Advanced",
+    "situation": "Good for describing an unexpected outcome."
+  },
+  {
+    "id": 51,
+    "english": "After a short walk, the noise started to fade.",
+    "korean": "잠깐 걸으니 소음이 서서히 줄어들기 시작했어.",
+    "category": "Daily life",
+    "level": "Advanced",
+    "situation": "Useful for describing gradual change."
+  },
+  {
+    "id": 52,
+    "english": "He handled the situation with calm confidence.",
+    "korean": "그는 침착한 자신감으로 상황을 처리했어.",
+    "category": "Opinion",
+    "level": "Advanced",
+    "situation": "A polished phrase for describing behavior."
+  },
+  {
+    "id": 53,
+    "english": "I am considering whether to apply for the position.",
+    "korean": "그 직무에 지원할지 고민 중이야.",
+    "category": "Work",
+    "level": "Advanced",
+    "situation": "Useful for discussing an important decision."
+  },
+  {
+    "id": 54,
+    "english": "The museum was packed with visitors all afternoon.",
+    "korean": "그 박물관은 오후 내내 방문객들로 가득했어.",
+    "category": "Travel",
+    "level": "Advanced",
+    "situation": "Good for describing a busy place in a travel context."
+  },
+  {
+    "id": 55,
+    "english": "I would appreciate a quick update when you have time.",
+    "korean": "시간 되실 때 간단히 상황 알려주시면 감사하겠습니다.",
+    "category": "Conversation",
+    "level": "Advanced",
+    "situation": "Polite and professional in messages."
+  },
+  {
+    "id": 56,
+    "english": "The article raised more questions than it answered.",
+    "korean": "그 글은 답보다 질문을 더 많이 남겼어.",
+    "category": "Study",
+    "level": "Advanced",
+    "situation": "A useful pattern for critical reading."
+  },
+  {
+    "id": 57,
+    "english": "It might be better to leave this for tomorrow.",
+    "korean": "이건 내일로 미루는 게 더 나을지도 몰라.",
+    "category": "Opinion",
+    "level": "Advanced",
+    "situation": "A soft and cautious suggestion."
+  },
+  {
+    "id": 58,
+    "english": "The team reached a compromise after a long discussion.",
+    "korean": "팀은 긴 논의 끝에 타협점을 찾았다.",
+    "category": "Work",
+    "level": "Advanced",
+    "situation": "Useful in business or group decision-making."
+  },
+  {
+    "id": 59,
+    "english": "I am trying to build a habit that actually lasts.",
+    "korean": "나는 진짜로 오래가는 습관을 만들려고 노력 중이야.",
+    "category": "Daily life",
+    "level": "Advanced",
+    "situation": "Great for talking about personal growth."
+  },
+  {
+    "id": 60,
+    "english": "This is the kind of practice that pays off over time.",
+    "korean": "이런 연습은 시간이 지나면 분명 효과가 있어.",
+    "category": "Study",
+    "level": "Advanced",
+    "situation": "A motivating sentence for learning consistency."
+  }
+]

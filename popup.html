@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily English Tab</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="popup-sizer" aria-hidden="true">Daily English Tab Daily English Tab Daily English Tab Daily English Tab</div>
+    <main class="popup-shell">
+      <section class="hero-card is-loading" id="hero-card">
+        <div class="topline">
+          <div>
+            <p class="eyebrow">Daily English Tab</p>
+            <h1>Speak one sentence today.</h1>
+          </div>
+          <div class="top-stats" aria-label="Progress summary">
+            <div class="stat">
+              <span>Today</span>
+              <strong id="daily-count">0</strong>
+            </div>
+            <div class="stat">
+              <span>Review</span>
+              <strong id="review-count">0</strong>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-strip" aria-label="Sentence filters">
+          <label class="filter-field">
+            <span>Category</span>
+            <select id="category-filter" aria-label="Filter by category"></select>
+          </label>
+          <label class="filter-field">
+            <span>Level</span>
+            <select id="level-filter" aria-label="Filter by level"></select>
+          </label>
+        </div>
+
+        <div class="sentence-card" aria-live="polite" aria-busy="true">
+          <div class="sentence-meta">
+            <span class="badge" id="sentence-category">All</span>
+            <span class="badge badge-soft" id="sentence-level">Beginner</span>
+          </div>
+          <div class="sentence-copy">
+            <h2 id="sentence-title">Loading sentence...</h2>
+            <p id="sentence-korean" class="translation">Loading translation...</p>
+          </div>
+          <div class="loading-skeleton" aria-hidden="true">
+            <div class="skeleton-line skeleton-title"></div>
+            <div class="skeleton-line skeleton-copy"></div>
+            <div class="skeleton-line skeleton-copy short"></div>
+          </div>
+        </div>
+
+        <div class="action-row">
+          <button type="button" class="primary-button" data-action="next">Next</button>
+          <button type="button" class="secondary-button" data-action="speak">Speak</button>
+          <button type="button" class="secondary-button" data-action="review">Review</button>
+          <button type="button" class="secondary-button" data-action="settings">Settings</button>
+          <button type="button" class="secondary-button" data-action="translation">Hide translation</button>
+        </div>
+
+        <div class="footer">
+          <p id="dataset-line" class="muted dataset-line"></p>
+        </div>
+      </section>
+    </main>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

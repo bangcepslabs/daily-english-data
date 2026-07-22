@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily English Tab Settings</title>
+    <link rel="stylesheet" href="shared.css" />
+    <link rel="stylesheet" href="options.css" />
+  </head>
+  <body>
+    <div class="background" aria-hidden="true">
+      <div class="orb orb-a"></div>
+      <div class="orb orb-b"></div>
+      <div class="grid"></div>
+    </div>
+
+    <main class="app-shell options-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Daily English Tab</p>
+          <h1>Settings and data sync</h1>
+        </div>
+        <div class="topbar-actions">
+          <button class="chip-button" type="button" data-action="open-preview">Popup preview</button>
+          <button class="chip-button" type="button" data-action="sync-now">Sync now</button>
+        </div>
+      </header>
+
+      <section class="options-layout">
+        <section class="panel options-panel">
+          <div class="section-heading">
+            <h3>Remote data</h3>
+            <span class="pill" id="sync-state-label">Local</span>
+          </div>
+
+          <label class="field">
+            <span>Remote JSON URL</span>
+            <input id="sync-url" type="url" placeholder="https://raw.githubusercontent.com/user/repo/main/examples/github-raw/sentences.json" />
+          </label>
+
+          <label class="field">
+            <span>Check interval (hours)</span>
+            <input id="sync-interval" type="number" min="1" max="168" step="1" />
+          </label>
+
+          <div class="sync-row">
+            <label class="toggle">
+              <input id="sync-enabled" type="checkbox" />
+              <span>Auto update</span>
+            </label>
+            <button class="secondary-button" type="button" data-action="clear-cache">Clear cache</button>
+          </div>
+
+          <p class="sync-note" id="sync-note">Use a hosted JSON file to keep the sentence set updated automatically. When enabled, the browser refreshes the cache in the background.</p>
+        </section>
+
+        <section class="panel options-panel">
+          <div class="section-heading">
+            <h3>Example structure</h3>
+            <span class="pill">GitHub raw</span>
+          </div>
+
+          <div class="code-sample">
+            <pre><code>{
+  "version": "2026.07.21",
+  "updatedAt": "2026-07-21T00:00:00Z",
+  "sentences": [
+    {
+      "id": 1,
+      "english": "I'm on my way.",
+      "korean": "I'm on my way.",
+      "category": "Daily life",
+      "level": "Beginner",
+      "situation": "Use when you are heading somewhere."
+    }
+  ]
+}</code></pre>
+          </div>
+
+          <div class="example-links">
+            <a class="link-button" href="examples/github-raw/README.md" target="_blank" rel="noreferrer">Open example folder guide</a>
+            <span class="meta-line" id="dataset-meta">No remote data loaded yet.</span>
+          </div>
+        </section>
+      </section>
+
+      <p class="status-line options-status" id="status-line">Ready.</p>
+    </main>
+
+    <script src="options.js"></script>
+  </body>
+</html>

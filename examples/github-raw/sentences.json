@@ -1,0 +1,46 @@
+{
+  "version": "2026.07.21",
+  "updatedAt": "2026-07-21T00:00:00Z",
+  "sentences": [
+    {
+      "id": 1,
+      "english": "I'm on my way.",
+      "korean": "지금 가는 중이야.",
+      "category": "Daily life",
+      "level": "Beginner",
+      "situation": "Use when you are heading somewhere."
+    },
+    {
+      "id": 2,
+      "english": "Could you speak a little slower?",
+      "korean": "조금만 천천히 말씀해 주실래요?",
+      "category": "Conversation",
+      "level": "Beginner",
+      "situation": "Use when you need clearer listening support."
+    },
+    {
+      "id": 3,
+      "english": "I was wondering if you could help me with this.",
+      "korean": "이거 좀 도와주실 수 있는지 궁금했어요.",
+      "category": "Conversation",
+      "level": "Intermediate",
+      "situation": "A polite and natural request for help."
+    },
+    {
+      "id": 4,
+      "english": "The app keeps crashing whenever I open it.",
+      "korean": "그 앱은 열기만 하면 계속 멈춰.",
+      "category": "Work",
+      "level": "Intermediate",
+      "situation": "Useful for reporting a technical issue."
+    },
+    {
+      "id": 5,
+      "english": "This is the kind of practice that pays off over time.",
+      "korean": "이런 연습은 시간이 지나면 분명 효과가 있어.",
+      "category": "Study",
+      "level": "Advanced",
+      "situation": "A motivating sentence for learning consistency."
+    }
+  ]
+}
