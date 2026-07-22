@@ -1,6 +1,6 @@
-{
-  "version": "2026.07.21",
-  "updatedAt": "2026-07-21T00:00:00Z",
-  "count": 5,
-  "notes": "Optional companion metadata file for your own publishing workflow."
+﻿{
+    "version":  "2026.07.22",
+    "updatedAt":  "2026-07-22T00:00:00Z",
+    "count":  120,
+    "notes":  "Optional companion metadata file for your own publishing workflow."
 }

@@ -1,46 +1,967 @@
-{
-  "version": "2026.07.21",
-  "updatedAt": "2026-07-21T00:00:00Z",
-  "sentences": [
-    {
-      "id": 1,
-      "english": "I'm on my way.",
-      "korean": "지금 가는 중이야.",
-      "category": "Daily life",
-      "level": "Beginner",
-      "situation": "Use when you are heading somewhere."
-    },
-    {
-      "id": 2,
-      "english": "Could you speak a little slower?",
-      "korean": "조금만 천천히 말씀해 주실래요?",
-      "category": "Conversation",
-      "level": "Beginner",
-      "situation": "Use when you need clearer listening support."
-    },
-    {
-      "id": 3,
-      "english": "I was wondering if you could help me with this.",
-      "korean": "이거 좀 도와주실 수 있는지 궁금했어요.",
-      "category": "Conversation",
-      "level": "Intermediate",
-      "situation": "A polite and natural request for help."
-    },
-    {
-      "id": 4,
-      "english": "The app keeps crashing whenever I open it.",
-      "korean": "그 앱은 열기만 하면 계속 멈춰.",
-      "category": "Work",
-      "level": "Intermediate",
-      "situation": "Useful for reporting a technical issue."
-    },
-    {
-      "id": 5,
-      "english": "This is the kind of practice that pays off over time.",
-      "korean": "이런 연습은 시간이 지나면 분명 효과가 있어.",
-      "category": "Study",
-      "level": "Advanced",
-      "situation": "A motivating sentence for learning consistency."
-    }
-  ]
+﻿{
+    "version":  "2026.07.22",
+    "updatedAt":  "2026-07-22T00:00:00Z",
+    "count":  120,
+    "sentences":  [
+                      {
+                          "id":  1,
+                          "english":  "I\u0027m on my way.",
+                          "korean":  "吏湲?媛??以묒씠??",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are heading somewhere and want to reassure the other person."
+                      },
+                      {
+                          "id":  2,
+                          "english":  "Could you speak a little slower?",
+                          "korean":  "議곌툑留?泥쒖쿇??留먯???二쇱떎?섏슂?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Useful when you need clearer listening support in a real conversation."
+                      },
+                      {
+                          "id":  3,
+                          "english":  "I need a few more minutes.",
+                          "korean":  "議곌툑留????쒓컙???꾩슂??",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are almost ready but need a short delay."
+                      },
+                      {
+                          "id":  4,
+                          "english":  "Let\u0027s grab coffee after work.",
+                          "korean":  "???앸굹怨?而ㅽ뵾 ?쒖옍?섏옄.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "A casual invitation for an after-work meetup."
+                      },
+                      {
+                          "id":  5,
+                          "english":  "I forgot to bring my charger.",
+                          "korean":  "異⑹쟾湲곕? 媛?몄삤??嫄?源쒕묀?덉뼱.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Useful when something important is missing."
+                      },
+                      {
+                          "id":  6,
+                          "english":  "What time does the train leave?",
+                          "korean":  "湲곗감媛 紐??쒖뿉 異쒕컻?섎굹??",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Good for asking schedules in stations or terminals."
+                      },
+                      {
+                          "id":  7,
+                          "english":  "I have already finished my homework.",
+                          "korean":  "?섎뒗 踰뚯뜥 ?숈젣瑜??앸깉??",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "A simple statement about completed work."
+                      },
+                      {
+                          "id":  8,
+                          "english":  "This idea sounds interesting.",
+                          "korean":  "???꾩씠?붿뼱???λ?濡?쾶 ?ㅻ젮.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to respond positively to a suggestion."
+                      },
+                      {
+                          "id":  9,
+                          "english":  "Could I ask you one quick question?",
+                          "korean":  "媛꾨떒???섎굹留??ъ?遊먮룄 ?좉퉴??",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Polite and natural for opening a short question."
+                      },
+                      {
+                          "id":  10,
+                          "english":  "I think we should wait a little longer.",
+                          "korean":  "議곌툑 ??湲곕떎?ㅼ빞 ?쒕떎怨??앷컖??",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "A gentle way to suggest patience."
+                      },
+                      {
+                          "id":  11,
+                          "english":  "I am looking for a quieter place to work.",
+                          "korean":  "議곗슜?섍쾶 ?쇳븷 ???덈뒗 怨녹쓣 李얘퀬 ?덉뼱.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for describing your environment preference."
+                      },
+                      {
+                          "id":  12,
+                          "english":  "The meeting has been moved to tomorrow morning.",
+                          "korean":  "?뚯쓽媛 ?댁씪 ?꾩묠?쇰줈 ??꺼議뚯뼱.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "A practical update about schedule changes."
+                      },
+                      {
+                          "id":  13,
+                          "english":  "I was wondering if you could help me with this.",
+                          "korean":  "?닿굅 醫 ?꾩?二쇱떎 ???덈뒗吏 沅곴툑?덉뼱??",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "A polite and natural request for help."
+                      },
+                      {
+                          "id":  14,
+                          "english":  "She explained the problem very clearly.",
+                          "korean":  "洹몃???臾몄젣瑜??꾩＜ 紐낇솗?섍쾶 ?ㅻ챸?덈떎.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when describing how well someone communicated."
+                      },
+                      {
+                          "id":  15,
+                          "english":  "I will send you the updated file by noon.",
+                          "korean":  "?뺤삤源뚯? ?섏젙???뚯씪??蹂대궡以꾧쾶.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "A common workplace promise with a deadline."
+                      },
+                      {
+                          "id":  16,
+                          "english":  "It took longer than I expected.",
+                          "korean":  "?앷컖蹂대떎 ???ㅻ옒 嫄몃졇??",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "A natural way to express an unexpected delay."
+                      },
+                      {
+                          "id":  17,
+                          "english":  "We should probably make a backup first.",
+                          "korean":  "?쇰떒 諛깆뾽遺???섎뒗 寃?醫뗪쿋??",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Practical advice before changing important files."
+                      },
+                      {
+                          "id":  18,
+                          "english":  "The restaurant was surprisingly crowded.",
+                          "korean":  "洹??앸떦? ???留뚰겮 遺먮퀜??",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use to describe an unexpectedly busy place."
+                      },
+                      {
+                          "id":  19,
+                          "english":  "I am not sure whether this is the best option.",
+                          "korean":  "?닿쾶 理쒖꽑???좏깮?몄? ??紐⑤Ⅴ寃좎뼱.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when you want to express hesitation."
+                      },
+                      {
+                          "id":  20,
+                          "english":  "Could you recommend a good place nearby?",
+                          "korean":  "洹쇱쿂??愿쒖갖? 怨?異붿쿇??二쇱떎 ???덈굹??",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Great for asking for local recommendations."
+                      },
+                      {
+                          "id":  21,
+                          "english":  "I have been practicing English every morning.",
+                          "korean":  "?섎뒗 留ㅼ씪 ?꾩묠 ?곸뼱瑜??곗뒿?섍퀬 ?덉뼱.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "A present perfect continuous sentence about habit."
+                      },
+                      {
+                          "id":  22,
+                          "english":  "The instructions were easier than I thought.",
+                          "korean":  "?ㅻ챸? ?앷컖蹂대떎 ?ъ썱??",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when reflecting on learning materials."
+                      },
+                      {
+                          "id":  23,
+                          "english":  "I am trying to stay organized this week.",
+                          "korean":  "?대쾲 二쇱뿉???뺣━ ?뺣룉???섑븯?ㅺ퀬 ?몃젰 以묒씠??",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A natural sentence about personal routine."
+                      },
+                      {
+                          "id":  24,
+                          "english":  "Please let me know if anything changes.",
+                          "korean":  "蹂寃쎈릺??寃??덉쑝硫??뚮젮 二쇱꽭??",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "A polite request for updates."
+                      },
+                      {
+                          "id":  25,
+                          "english":  "The weather suddenly got much colder.",
+                          "korean":  "?좎뵪媛 媛묒옄湲??⑥뵮 異붿썙議뚯뼱.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Good for describing a quick weather change."
+                      },
+                      {
+                          "id":  26,
+                          "english":  "I would like to try something new today.",
+                          "korean":  "?ㅻ뒛? 萸붽? ?덈줈??嫄??대낫怨??띠뼱.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Useful for making a positive plan."
+                      },
+                      {
+                          "id":  27,
+                          "english":  "Can we move this conversation to later?",
+                          "korean":  "????붾? ?섏쨷?쇰줈 誘몃０ ???덉쓣源뚯슂?",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Polite when you need to pause a talk."
+                      },
+                      {
+                          "id":  28,
+                          "english":  "I finally found the document I was looking for.",
+                          "korean":  "?쒕뵒??李얜뜕 臾몄꽌瑜?李얠븯??",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "A satisfying update about finding something."
+                      },
+                      {
+                          "id":  29,
+                          "english":  "The app keeps crashing whenever I open it.",
+                          "korean":  "洹??깆? ?닿린留??섎㈃ 怨꾩냽 硫덉떠.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "A realistic sentence for reporting a bug."
+                      },
+                      {
+                          "id":  30,
+                          "english":  "I am happy to help if you need anything.",
+                          "korean":  "?꾩슂??寃??덉쑝硫?湲곌볼???꾩?以꾧쾶.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Warm and friendly for offering support."
+                      },
+                      {
+                          "id":  31,
+                          "english":  "The guide covered the main points very well.",
+                          "korean":  "洹??덈궡?쒕뒗 ?듭떖 ?댁슜???꾩＜ ???ㅻ쨾??",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when evaluating learning material."
+                      },
+                      {
+                          "id":  32,
+                          "english":  "We arrived earlier than planned.",
+                          "korean":  "?곕━??怨꾪쉷蹂대떎 ?쇱컢 ?꾩갑?덉뼱.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "A simple travel update."
+                      },
+                      {
+                          "id":  33,
+                          "english":  "He gave me a very practical suggestion.",
+                          "korean":  "洹몃뒗 ?꾩＜ ?ㅼ슜?곸씤 ?쒖븞???댁ㄼ??",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when you want to praise advice."
+                      },
+                      {
+                          "id":  34,
+                          "english":  "I need to double-check the numbers before I answer.",
+                          "korean":  "?듯븯湲??꾩뿉 ?レ옄瑜??ㅼ떆 ?뺤씤?댁빞 ??",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "A careful response when accuracy matters."
+                      },
+                      {
+                          "id":  35,
+                          "english":  "The line was longer than I expected.",
+                          "korean":  "以꾩씠 ?앷컖蹂대떎 ??湲몄뿀??",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Useful for describing waiting situations."
+                      },
+                      {
+                          "id":  36,
+                          "english":  "I am interested in learning how this works.",
+                          "korean":  "?닿쾶 ?대뼸寃??묐룞?섎뒗吏 諛곗슦怨??띠뼱.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Good for asking about a system or device."
+                      },
+                      {
+                          "id":  37,
+                          "english":  "The conversation became more relaxed after dinner.",
+                          "korean":  "????앹궗 ?꾩뿉 ??붽? ???명빐議뚯뼱.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for describing a mood change."
+                      },
+                      {
+                          "id":  38,
+                          "english":  "She was confident even under pressure.",
+                          "korean":  "洹몃????뺣컯 ?띿뿉?쒕룄 ?먯떊媛먯씠 ?덉뿀??",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when describing someone\u0027s attitude."
+                      },
+                      {
+                          "id":  39,
+                          "english":  "I left my umbrella at home again.",
+                          "korean":  "?????곗궛??吏묒뿉 ?먭퀬 ?붿뼱.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A casual sentence about a small mistake."
+                      },
+                      {
+                          "id":  40,
+                          "english":  "The report needs one more careful edit.",
+                          "korean":  "蹂닿퀬?쒕뒗 ??踰덈쭔 ??瑗쇨세?섍쾶 ?섏젙?섎㈃ ??",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Great for speaking about revision."
+                      },
+                      {
+                          "id":  41,
+                          "english":  "I did not notice the difference at first.",
+                          "korean":  "泥섏쓬?먮뒗 洹?李⑥씠瑜??뚯븘李⑤━吏 紐삵뻽??",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when comparing two things."
+                      },
+                      {
+                          "id":  42,
+                          "english":  "Let\u0027s meet somewhere with a nice view.",
+                          "korean":  "寃쎌튂 醫뗭? 怨녹뿉??留뚮굹??",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "A friendly suggestion for a meetup location."
+                      },
+                      {
+                          "id":  43,
+                          "english":  "I was surprised by how fast it happened.",
+                          "korean":  "洹??쇱씠 ?쇰쭏??鍮⑤━ ?쇱뼱?щ뒗吏 ??먯뼱.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for expressing surprise."
+                      },
+                      {
+                          "id":  44,
+                          "english":  "The package should arrive sometime this afternoon.",
+                          "korean":  "?뚰룷???ㅻ뒛 ?ㅽ썑易??꾩갑??嫄곗빞.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when tracking a delivery."
+                      },
+                      {
+                          "id":  45,
+                          "english":  "I would rather stay home and rest tonight.",
+                          "korean":  "?ㅻ뒛 諛ㅼ? 吏묒뿉???щ뒗 寃???醫뗭븘.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Natural way to express preference."
+                      },
+                      {
+                          "id":  46,
+                          "english":  "Could you send me a screenshot of the issue?",
+                          "korean":  "臾몄젣 ?붾㈃ 罹≪쿂瑜?蹂대궡二쇱떎 ???덈굹??",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Very useful for technical support."
+                      },
+                      {
+                          "id":  47,
+                          "english":  "I feel more focused when the room is quiet.",
+                          "korean":  "諛⑹씠 議곗슜?섎㈃ ??吏묒쨷??????",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use to describe your ideal study environment."
+                      },
+                      {
+                          "id":  48,
+                          "english":  "The conversation drifted away from the original topic.",
+                          "korean":  "??붽? ?먮옒 二쇱젣?먯꽌 踰쀬뼱?ъ뼱.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Useful when a discussion goes off track."
+                      },
+                      {
+                          "id":  49,
+                          "english":  "I need to make sure I understand the details correctly.",
+                          "korean":  "?몃? ?ы빆???뺥솗???댄빐?덈뒗吏 ?뺤씤?댁빞 ??",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Useful for careful communication."
+                      },
+                      {
+                          "id":  50,
+                          "english":  "The solution was simpler than everyone expected.",
+                          "korean":  "?닿껐梨낆? 紐⑤몢媛 ?덉긽??寃껊낫?????⑥닚?덉뼱.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Good for describing an unexpected outcome."
+                      },
+                      {
+                          "id":  51,
+                          "english":  "After a short walk, the noise started to fade.",
+                          "korean":  "?좉퉸 嫄몄쑝???뚯쓬???쒖꽌??以꾩뼱?ㅺ린 ?쒖옉?덉뼱.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Useful for describing gradual change."
+                      },
+                      {
+                          "id":  52,
+                          "english":  "He handled the situation with calm confidence.",
+                          "korean":  "洹몃뒗 移⑥갑???먯떊媛먯쑝濡??곹솴??泥섎━?덉뼱.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "A polished phrase for describing behavior."
+                      },
+                      {
+                          "id":  53,
+                          "english":  "I am considering whether to apply for the position.",
+                          "korean":  "洹?吏곷Т??吏?먰븷吏 怨좊? 以묒씠??",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Useful for discussing an important decision."
+                      },
+                      {
+                          "id":  54,
+                          "english":  "The museum was packed with visitors all afternoon.",
+                          "korean":  "洹?諛뺣Ъ愿? ?ㅽ썑 ?대궡 諛⑸Ц媛앸뱾濡?媛?앺뻽??",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Good for describing a busy place in a travel context."
+                      },
+                      {
+                          "id":  55,
+                          "english":  "I would appreciate a quick update when you have time.",
+                          "korean":  "?쒓컙 ?섏떎 ??媛꾨떒???곹솴 ?뚮젮二쇱떆硫?媛먯궗?섍쿋?듬땲??",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Polite and professional in messages."
+                      },
+                      {
+                          "id":  56,
+                          "english":  "The article raised more questions than it answered.",
+                          "korean":  "洹?湲? ?듬낫??吏덈Ц????留롮씠 ?④꼈??",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "A useful pattern for critical reading."
+                      },
+                      {
+                          "id":  57,
+                          "english":  "It might be better to leave this for tomorrow.",
+                          "korean":  "?닿굔 ?댁씪濡?誘몃（??寃????섏쓣吏??紐곕씪.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "A soft and cautious suggestion."
+                      },
+                      {
+                          "id":  58,
+                          "english":  "The team reached a compromise after a long discussion.",
+                          "korean":  "?? 湲??쇱쓽 ?앹뿉 ??묒젏??李얠븯??",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Useful in business or group decision-making."
+                      },
+                      {
+                          "id":  59,
+                          "english":  "I am trying to build a habit that actually lasts.",
+                          "korean":  "?섎뒗 吏꾩쭨濡??ㅻ옒媛???듦???留뚮뱾?ㅺ퀬 ?몃젰 以묒씠??",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Great for talking about personal growth."
+                      },
+                      {
+                          "id":  60,
+                          "english":  "This is the kind of practice that pays off over time.",
+                          "korean":  "?대윴 ?곗뒿? ?쒓컙??吏?섎㈃ 遺꾨챸 ?④낵媛 ?덉뼱.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "A motivating sentence for learning consistency."
+                      },
+                      {
+                          "id":  61,
+                          "english":  "I need to finish this before lunch.",
+                          "korean":  "점심 전에 이거 끝내야 해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you have a deadline before midday."
+                      },
+                      {
+                          "id":  62,
+                          "english":  "Can you check it once more?",
+                          "korean":  "한 번만 더 확인해줄래?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "A simple way to ask for another review."
+                      },
+                      {
+                          "id":  63,
+                          "english":  "I already sent the message.",
+                          "korean":  "나는 이미 메시지를 보냈어.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to confirm a message was sent."
+                      },
+                      {
+                          "id":  64,
+                          "english":  "The bus is running a little late.",
+                          "korean":  "버스가 조금 늦게 오고 있어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Useful for explaining a small delay."
+                      },
+                      {
+                          "id":  65,
+                          "english":  "I prefer tea over coffee in the morning.",
+                          "korean":  "나는 아침엔 커피보다 차를 더 선호해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use to state a personal preference."
+                      },
+                      {
+                          "id":  66,
+                          "english":  "This shirt feels too tight.",
+                          "korean":  "이 셔츠가 너무 꽉 끼어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Useful when talking about clothes."
+                      },
+                      {
+                          "id":  67,
+                          "english":  "I left my keys in the car.",
+                          "korean":  "차 안에 열쇠를 두고 왔어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A common everyday mistake."
+                      },
+                      {
+                          "id":  68,
+                          "english":  "We should start with the basics.",
+                          "korean":  "기본부터 시작해야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "A helpful sentence for learning plans."
+                      },
+                      {
+                          "id":  69,
+                          "english":  "The file is too large to send by email.",
+                          "korean":  "이 파일은 이메일로 보내기엔 너무 커.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when discussing file sharing."
+                      },
+                      {
+                          "id":  70,
+                          "english":  "I am learning how to use this tool.",
+                          "korean":  "나는 이 도구 사용법을 배우고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are studying a new app or tool."
+                      },
+                      {
+                          "id":  71,
+                          "english":  "That sounds like a good plan.",
+                          "korean":  "그거 괜찮은 계획 같아.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "A friendly response to a suggestion."
+                      },
+                      {
+                          "id":  72,
+                          "english":  "I need to buy groceries after work.",
+                          "korean":  "퇴근 후에 장을 봐야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A simple after-work plan."
+                      },
+                      {
+                          "id":  73,
+                          "english":  "The room is much brighter now.",
+                          "korean":  "방이 지금 훨씬 밝아졌어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing a change in lighting."
+                      },
+                      {
+                          "id":  74,
+                          "english":  "Please keep me posted.",
+                          "korean":  "진행 상황 계속 알려줘.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "A short request for updates."
+                      },
+                      {
+                          "id":  75,
+                          "english":  "I was stuck in traffic for an hour.",
+                          "korean":  "한 시간 동안 교통 체증에 갇혀 있었어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for describing a commute delay."
+                      },
+                      {
+                          "id":  76,
+                          "english":  "I can take care of it.",
+                          "korean":  "내가 처리할 수 있어.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when offering to handle a task."
+                      },
+                      {
+                          "id":  77,
+                          "english":  "She is good at explaining difficult ideas.",
+                          "korean":  "그녀는 어려운 개념을 설명하는 데 능숙해.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when praising someone\u0027s teaching ability."
+                      },
+                      {
+                          "id":  78,
+                          "english":  "Let me know when you\u0027re free.",
+                          "korean":  "시간 될 때 알려줘.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "A casual way to ask for availability."
+                      },
+                      {
+                          "id":  79,
+                          "english":  "I have to wake up early tomorrow.",
+                          "korean":  "내일 일찍 일어나야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use to mention an early start."
+                      },
+                      {
+                          "id":  80,
+                          "english":  "The meeting was canceled at the last minute.",
+                          "korean":  "회의가 막판에 취소됐어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when an event is canceled unexpectedly."
+                      },
+                      {
+                          "id":  81,
+                          "english":  "I want to improve my pronunciation.",
+                          "korean":  "발음을 더 좋아지고 싶어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "A learning goal sentence."
+                      },
+                      {
+                          "id":  82,
+                          "english":  "Could you show me an example?",
+                          "korean":  "예시를 보여줄 수 있나요?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "A polite request for a demonstration."
+                      },
+                      {
+                          "id":  83,
+                          "english":  "I am trying to cut back on snacks.",
+                          "korean":  "간식을 줄이려고 노력 중이야.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for talking about a habit change."
+                      },
+                      {
+                          "id":  84,
+                          "english":  "The weather looks perfect for a walk.",
+                          "korean":  "산책하기 딱 좋은 날씨야.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when the weather feels ideal."
+                      },
+                      {
+                          "id":  85,
+                          "english":  "We ran out of time.",
+                          "korean":  "시간이 부족해졌어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A short way to say time was not enough."
+                      },
+                      {
+                          "id":  86,
+                          "english":  "I forgot to reply yesterday.",
+                          "korean":  "어제 답장하는 걸 깜빡했어.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Useful when apologizing for a late reply."
+                      },
+                      {
+                          "id":  87,
+                          "english":  "This is easier than I expected.",
+                          "korean":  "이건 생각보다 쉬워.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when something turns out simpler than expected."
+                      },
+                      {
+                          "id":  88,
+                          "english":  "I need a break before I continue.",
+                          "korean":  "계속하기 전에 휴식이 필요해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need a short pause."
+                      },
+                      {
+                          "id":  89,
+                          "english":  "They agreed to meet next week.",
+                          "korean":  "그들은 다음 주에 만나기로 했어.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for describing an agreement."
+                      },
+                      {
+                          "id":  90,
+                          "english":  "I am not familiar with that term.",
+                          "korean":  "나는 그 용어에 익숙하지 않아.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a word or term is new to you."
+                      },
+                      {
+                          "id":  91,
+                          "english":  "The instructions were clear enough.",
+                          "korean":  "설명은 충분히 명확했어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Useful for evaluating directions."
+                      },
+                      {
+                          "id":  92,
+                          "english":  "Let\u0027s keep this simple.",
+                          "korean":  "이건 단순하게 가자.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "A good sentence for simplifying a plan."
+                      },
+                      {
+                          "id":  93,
+                          "english":  "I\u0027ll double-check the address.",
+                          "korean":  "주소를 다시 확인할게.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to verify details."
+                      },
+                      {
+                          "id":  94,
+                          "english":  "The line moved faster than I thought.",
+                          "korean":  "줄이 생각보다 빨리 줄었어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when waiting in a queue."
+                      },
+                      {
+                          "id":  95,
+                          "english":  "I need to update my calendar.",
+                          "korean":  "내 일정을 업데이트해야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Useful for scheduling tasks and events."
+                      },
+                      {
+                          "id":  96,
+                          "english":  "The speaker gave a great talk.",
+                          "korean":  "연사가 훌륭한 발표를 했어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when praising a presentation."
+                      },
+                      {
+                          "id":  97,
+                          "english":  "I am working on a new habit.",
+                          "korean":  "나는 새로운 습관을 만들고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A sentence about personal growth."
+                      },
+                      {
+                          "id":  98,
+                          "english":  "Could you help me carry this?",
+                          "korean":  "이거 나르는 거 좀 도와줄래?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "A simple request for help."
+                      },
+                      {
+                          "id":  99,
+                          "english":  "I feel more confident now.",
+                          "korean":  "지금은 더 자신감이 생겼어.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when your comfort level improves."
+                      },
+                      {
+                          "id":  100,
+                          "english":  "The store opens at ten.",
+                          "korean":  "그 가게는 열 시에 열어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Useful for giving store hours."
+                      },
+                      {
+                          "id":  101,
+                          "english":  "I am waiting for a package.",
+                          "korean":  "택배를 기다리고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about deliveries."
+                      },
+                      {
+                          "id":  102,
+                          "english":  "This app saves me a lot of time.",
+                          "korean":  "이 앱이 내 시간을 많이 아껴줘.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when something improves efficiency."
+                      },
+                      {
+                          "id":  103,
+                          "english":  "We need a better solution.",
+                          "korean":  "더 나은 해결책이 필요해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Useful in planning or problem solving."
+                      },
+                      {
+                          "id":  104,
+                          "english":  "I like how simple this looks.",
+                          "korean":  "이게 단순하게 보여서 좋아.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you appreciate a clean design."
+                      },
+                      {
+                          "id":  105,
+                          "english":  "The coffee is still too hot.",
+                          "korean":  "커피가 아직 너무 뜨거워.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "A common everyday observation."
+                      },
+                      {
+                          "id":  106,
+                          "english":  "I will join you in a minute.",
+                          "korean":  "1분 후에 합류할게.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Useful when you need a moment before joining."
+                      },
+                      {
+                          "id":  107,
+                          "english":  "He asked for a second opinion.",
+                          "korean":  "그는 두 번째 의견을 물었어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when someone wants another viewpoint."
+                      },
+                      {
+                          "id":  108,
+                          "english":  "I cannot hear you very well.",
+                          "korean":  "잘 안 들려.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when audio or connection is poor."
+                      },
+                      {
+                          "id":  109,
+                          "english":  "Let\u0027s keep practicing every day.",
+                          "korean":  "매일 계속 연습하자.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "A motivating sentence for consistency."
+                      },
+                      {
+                          "id":  110,
+                          "english":  "I am looking forward to the weekend.",
+                          "korean":  "주말이 기다려져.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you\u0027re excited about the weekend."
+                      },
+                      {
+                          "id":  111,
+                          "english":  "The project is moving in the right direction.",
+                          "korean":  "프로젝트가 올바른 방향으로 진행되고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when progress is encouraging."
+                      },
+                      {
+                          "id":  112,
+                          "english":  "I need to finish one last task.",
+                          "korean":  "마지막 작업 하나를 끝내야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "A short sentence about wrapping up."
+                      },
+                      {
+                          "id":  113,
+                          "english":  "The answer came to me slowly.",
+                          "korean":  "답이 천천히 떠올랐어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when an idea develops gradually."
+                      },
+                      {
+                          "id":  114,
+                          "english":  "Could we reschedule our call?",
+                          "korean":  "통화 일정 다시 잡을 수 있을까요?",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when changing a planned call."
+                      },
+                      {
+                          "id":  115,
+                          "english":  "I tried a different approach.",
+                          "korean":  "다른 방식을 시도해봤어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Useful when explaining an experiment."
+                      },
+                      {
+                          "id":  116,
+                          "english":  "This is a common mistake.",
+                          "korean":  "이건 흔한 실수야.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Helpful for learning and correction."
+                      },
+                      {
+                          "id":  117,
+                          "english":  "I am taking notes as I listen.",
+                          "korean":  "들으면서 메모하고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when studying actively."
+                      },
+                      {
+                          "id":  118,
+                          "english":  "We should keep an open mind.",
+                          "korean":  "열린 마음을 가져야 해.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Useful for discussing flexibility."
+                      },
+                      {
+                          "id":  119,
+                          "english":  "The report is ready for review.",
+                          "korean":  "보고서는 검토할 준비가 됐어.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Useful for sharing work status."
+                      },
+                      {
+                          "id":  120,
+                          "english":  "I learned a lot from this experience.",
+                          "korean":  "이 경험에서 많은 걸 배웠어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reflecting on a learning experience."
+                      }
+                  ]
 }
