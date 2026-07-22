@@ -1,27 +1,44 @@
 # GitHub Raw Example
 
-This folder shows the simplest layout for hosting sentence data on GitHub so the extension can fetch it through a raw URL.
+This folder shows the simplest public-repo layout for sentence data.
 
-## Suggested structure
+## Files
 
-- `sentences.json`
-- `sentences.meta.json`
+- `sentences.json` - the raw file the extension fetches
+- `sentences.meta.json` - optional metadata for your own publishing flow
 
-## How to use
+## Recommended flow
 
-1. Put the files in a public GitHub repository.
-2. Open `sentences.json` through the raw file URL.
-3. Paste that raw URL into the extension's `Data sync` settings.
-4. Turn on `Auto update`.
+1. Put this folder into a public GitHub repository.
+2. Copy the raw URL for `sentences.json`.
+3. Paste that URL into the extension settings.
+4. Turn on auto update.
+5. Click `Sync now` once to verify the source.
 
-The raw JSON file can be either:
+## Supported shapes
+
+The raw JSON can be either:
 
 - A plain array of sentence objects
-- Or an object with a `sentences` array
+- Or an object with a `sentences` array and optional metadata
+
+## Keep these fields stable
+
+- `id`
+- `english`
+- `korean`
+- `category`
+- `level`
+- `situation`
+
+## Example raw URL
+
+```text
+https://raw.githubusercontent.com/your-name/daily-english-data/main/examples/github-raw/sentences.json
+```
 
 ## Notes
 
-- The URL must be publicly reachable.
-- The raw response should allow cross-origin fetching.
-- Keep the sentence fields consistent with the bundled data shape.
-
+- The raw file must be publicly reachable.
+- The browser must be allowed to fetch it with CORS.
+- Bump `version` and `updatedAt` when you publish new content.

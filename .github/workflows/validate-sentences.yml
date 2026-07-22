@@ -1,0 +1,74 @@
+name: Validate sentence data
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          files = [
+              Path("data/sentences.json"),
+              Path("examples/github-raw/sentences.json"),
+              Path("examples/github-raw/sentences.meta.json"),
+          ]
+
+          required = {"id", "english", "korean", "category", "level", "situation"}
+
+          def load(path):
+              with path.open("r", encoding="utf-8") as fh:
+                  return json.load(fh)
+
+          def extract_sentences(payload):
+              if isinstance(payload, list):
+                  return payload
+              if isinstance(payload, dict) and isinstance(payload.get("sentences"), list):
+                  return payload["sentences"]
+              return None
+
+          for path in files:
+              payload = load(path)
+              if path.name == "sentences.meta.json":
+                  if not isinstance(payload, dict):
+                      raise SystemExit(f"{path}: metadata file must be an object")
+                  continue
+
+              sentences = extract_sentences(payload)
+              if sentences is None:
+                  raise SystemExit(f"{path}: expected an array or an object with a sentences array")
+              if not sentences:
+                  raise SystemExit(f"{path}: sentence list is empty")
+
+              seen_ids = set()
+              for index, item in enumerate(sentences, start=1):
+                  if not isinstance(item, dict):
+                      raise SystemExit(f"{path}: item {index} is not an object")
+                  missing = sorted(required - set(item))
+                  if missing:
+                      raise SystemExit(f"{path}: item {index} is missing fields: {', '.join(missing)}")
+                  if not str(item["english"]).strip() or not str(item["korean"]).strip():
+                      raise SystemExit(f"{path}: item {index} has an empty sentence")
+                  try:
+                      sentence_id = int(item["id"])
+                  except Exception as exc:
+                      raise SystemExit(f"{path}: item {index} has invalid id") from exc
+                  if sentence_id in seen_ids:
+                      raise SystemExit(f"{path}: duplicate id {sentence_id}")
+                  seen_ids.add(sentence_id)
+
+          print("Sentence files validated successfully.")
+          PY
