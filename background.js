@@ -4,14 +4,18 @@
     sync: "dailyEnglish.sync"
   };
 
+  const DEFAULT_REMOTE_URL =
+    "https://raw.githubusercontent.com/jeongbyeongho/daily-english-data/main/examples/github-raw/sentences.json";
+
   const DEFAULT_SYNC = {
-    enabled: false,
-    url: "",
+    enabled: true,
+    url: DEFAULT_REMOTE_URL,
     intervalHours: 24,
     lastCheckedAt: 0
   };
 
   const ALARM_NAME = "dailyEnglish.remoteSync";
+  let suppressSyncChangeHandler = false;
 
   function normalizeSentence(raw) {
     return {
@@ -73,10 +77,16 @@
 
   async function loadSyncState() {
     const stored = await storageGet([STORAGE_KEYS.sync]);
-    return {
+    const sync = {
       ...DEFAULT_SYNC,
       ...(stored[STORAGE_KEYS.sync] || {})
     };
+
+    if (!sync.url) {
+      sync.url = DEFAULT_REMOTE_URL;
+    }
+
+    return sync;
   }
 
   async function syncRemoteDataset({ force = false } = {}) {
@@ -130,7 +140,14 @@
 
   async function refreshScheduleAndMaybeSync({ force = false } = {}) {
     const sync = await loadSyncState();
-    await scheduleSyncAlarm(sync);
+    suppressSyncChangeHandler = true;
+    try {
+      await storageSet({ [STORAGE_KEYS.sync]: sync });
+      await scheduleSyncAlarm(sync);
+    } finally {
+      suppressSyncChangeHandler = false;
+    }
+
     if (sync.enabled && sync.url) {
       await syncRemoteDataset({ force });
     }
@@ -151,7 +168,7 @@
   });
 
   chrome.storage.onChanged.addListener((changes, areaName) => {
-    if (areaName !== "local" || !changes[STORAGE_KEYS.sync]) {
+    if (areaName !== "local" || suppressSyncChangeHandler || !changes[STORAGE_KEYS.sync]) {
       return;
     }
 

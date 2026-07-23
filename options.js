@@ -4,9 +4,12 @@
     sync: "dailyEnglish.sync"
   };
 
+  const DEFAULT_REMOTE_URL =
+    "https://raw.githubusercontent.com/jeongbyeongho/daily-english-data/main/examples/github-raw/sentences.json";
+
   const DEFAULT_SYNC = {
-    enabled: false,
-    url: "",
+    enabled: true,
+    url: DEFAULT_REMOTE_URL,
     intervalHours: 24,
     lastCheckedAt: 0
   };
@@ -108,6 +111,9 @@
   async function loadState() {
     const stored = await storageGet([STORAGE_KEYS.sync, STORAGE_KEYS.dataset]);
     state.sync = { ...DEFAULT_SYNC, ...(stored[STORAGE_KEYS.sync] || {}) };
+    if (!state.sync.url) {
+      state.sync.url = DEFAULT_REMOTE_URL;
+    }
 
     const dataset = stored[STORAGE_KEYS.dataset];
     if (dataset && Array.isArray(dataset.sentences) && dataset.sentences.length) {

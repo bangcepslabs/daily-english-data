@@ -57,9 +57,9 @@ If you want to test the extension with this repo:
 
 1. Open the browser extension page
 2. Load the extension unpacked from this folder
-3. Set the raw JSON URL in the options page
-4. Turn on auto update
-5. Click `Sync now` once
+3. The default raw JSON URL is already prefilled in the options page
+4. Auto update is enabled by default
+5. Click `Sync now` once if you want to force an immediate refresh
 
 ## Notes
 
