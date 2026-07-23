@@ -19,7 +19,7 @@ This repository stores the sentence data used by the Daily English Tab browser e
 1. Edit `examples/github-raw/sentences.json`
 2. Update `version` and `updatedAt`
 3. Push to `main`
-4. Paste the raw URL into the extension settings
+4. The extension uses the built-in raw URL by default, so no user setup is needed
 
 ## Raw URL example
 
@@ -57,9 +57,9 @@ If you want to test the extension with this repo:
 
 1. Open the browser extension page
 2. Load the extension unpacked from this folder
-3. The default raw JSON URL is already prefilled in the options page
+3. The extension will use the built-in raw JSON URL automatically
 4. Auto update is enabled by default
-5. Click `Sync now` once if you want to force an immediate refresh
+5. Click `Sync now` only if you want to force an immediate refresh during development
 
 ## Notes
 

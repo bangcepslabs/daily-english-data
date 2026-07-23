@@ -487,8 +487,6 @@
         speak();
       } else if (action === "review") {
         await toggleReview();
-      } else if (action === "settings") {
-        chrome.runtime.openOptionsPage();
       } else if (action === "translation") {
         await toggleTranslation();
       }
