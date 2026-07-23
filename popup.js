@@ -507,6 +507,7 @@
       const datasetPromise = loadDatasetState();
       updateCounts();
       setLoading(true);
+      setStatus("Loading latest sentences...");
 
       await loadBootstrapState();
       attachEvents();
@@ -521,6 +522,7 @@
           buildFilterOptions();
           buildFilteredSentences();
           updateDatasetLine();
+          setStatus("Synced automatically from GitHub.", "success");
           if (!state.currentSentence) {
             updateSentenceCard();
           } else {
@@ -531,6 +533,7 @@
         })
         .catch((error) => {
           console.error("[Daily English Tab Popup] Dataset load failed:", error);
+          setStatus("Using the cached sentence pack.", "warning");
           setLoading(false);
         });
 

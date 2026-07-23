@@ -5,7 +5,7 @@
   };
 
   const DEFAULT_REMOTE_URL =
-    "https://raw.githubusercontent.com/jeongbyeongho/daily-english-data/main/examples/github-raw/sentences.json";
+    "https://raw.githubusercontent.com/bangcepslabs/daily-english-data/main/examples/github-raw/sentences.json";
 
   const DEFAULT_SYNC = {
     enabled: true,

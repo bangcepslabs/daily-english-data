@@ -24,7 +24,7 @@ This repository stores the sentence data used by the Daily English Tab browser e
 ## Raw URL example
 
 ```text
-https://raw.githubusercontent.com/jeongbyeongho/daily-english-data/main/examples/github-raw/sentences.json
+https://raw.githubusercontent.com/bangcepslabs/daily-english-data/main/examples/github-raw/sentences.json
 ```
 
 ## Sentence format
@@ -50,6 +50,13 @@ The raw file can be either:
 - Use the same category and level labels consistently
 - Bump `version` whenever you publish a meaningful update
 - Leave the app to read the latest cached dataset automatically
+
+## User-facing behavior
+
+- Users do not need to open any settings page
+- The extension ships with automatic GitHub sync enabled by default
+- The popup shows a short sync status and falls back to cached data if needed
+- Repository updates become visible in the extension after the next refresh cycle
 
 ## Local testing
 

@@ -34,7 +34,7 @@ The raw JSON can be either:
 ## Example raw URL
 
 ```text
-https://raw.githubusercontent.com/your-name/daily-english-data/main/examples/github-raw/sentences.json
+https://raw.githubusercontent.com/bangcepslabs/daily-english-data/main/examples/github-raw/sentences.json
 ```
 
 ## Notes
