@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily English Tab</title>
+    <meta
+      name="description"
+      content="Daily English Tab 공식 소개 페이지입니다. 영어 문장 학습, 복습, 발음 듣기, 자동 업데이트를 제공합니다."
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f6f1e8;
+        --bg-accent: #efe3ce;
+        --card: rgba(255, 255, 255, 0.72);
+        --text: #2d261f;
+        --muted: #6a5f53;
+        --accent: #d97706;
+        --accent-strong: #92400e;
+        --border: rgba(74, 58, 43, 0.12);
+        --shadow: 0 20px 60px rgba(103, 76, 33, 0.14);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: Inter, "Noto Sans KR", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(217, 119, 6, 0.16), transparent 32%),
+          radial-gradient(circle at bottom right, rgba(146, 64, 14, 0.1), transparent 30%),
+          linear-gradient(180deg, var(--bg), #fffaf2 72%);
+      }
+
+      .wrap {
+        width: min(980px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 32px 0 56px;
+      }
+
+      .hero {
+        padding: 34px;
+        border: 1px solid var(--border);
+        border-radius: 28px;
+        background: var(--card);
+        backdrop-filter: blur(14px);
+        box-shadow: var(--shadow);
+      }
+
+      .eyebrow {
+        margin: 0 0 14px;
+        color: var(--accent-strong);
+        font-size: 0.9rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(2.2rem, 5vw, 4.6rem);
+        line-height: 0.98;
+        letter-spacing: -0.05em;
+      }
+
+      .lead {
+        max-width: 62ch;
+        margin: 18px 0 0;
+        font-size: 1.08rem;
+        line-height: 1.75;
+        color: var(--muted);
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 26px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 46px;
+        padding: 0 18px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        text-decoration: none;
+        font-weight: 700;
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.7);
+      }
+
+      .button.primary {
+        color: #fff;
+        background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+        border-color: transparent;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+        margin-top: 18px;
+      }
+
+      .card {
+        padding: 22px;
+        border: 1px solid var(--border);
+        border-radius: 22px;
+        background: rgba(255, 255, 255, 0.66);
+        box-shadow: 0 10px 30px rgba(103, 76, 33, 0.08);
+      }
+
+      .card h2 {
+        margin: 0 0 10px;
+        font-size: 1.1rem;
+      }
+
+      .card p,
+      .card li {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+
+      .card ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      .section {
+        margin-top: 18px;
+      }
+
+      .section-title {
+        margin: 0 0 12px;
+        font-size: 1.25rem;
+      }
+
+      footer {
+        margin-top: 24px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      @media (max-width: 860px) {
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <section class="hero">
+        <p class="eyebrow">Daily English Tab</p>
+        <h1>새 탭에서 영어 문장을 가볍게 익히는 확장 프로그램</h1>
+        <p class="lead">
+          Daily English Tab은 영어 문장, 한국어 번역, 발음 듣기, 복습 큐, 자동 업데이트를 한곳에 담은 브라우저 확장
+          프로그램입니다. 복잡한 설정 없이 열자마자 바로 학습을 시작할 수 있도록 설계했습니다.
+        </p>
+        <div class="actions">
+          <a class="button primary" href="./privacy.html">개인정보처리방침</a>
+          <a class="button" href="./support.html">지원</a>
+          <a class="button" href="https://github.com/bangcepslabs/daily-english-data" target="_blank" rel="noreferrer">GitHub Repository</a>
+        </div>
+      </section>
+
+      <section class="grid section" aria-label="Highlights">
+        <article class="card">
+          <h2>핵심 기능</h2>
+          <ul>
+            <li>매일 영어 문장 제공</li>
+            <li>한국어 번역 표시/숨기기</li>
+            <li>발음 듣기</li>
+            <li>복습 목록 저장</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h2>자동 업데이트</h2>
+          <p>
+            문장 데이터는 GitHub의 JSON 파일에서 자동으로 갱신됩니다. 사용자는 별도 설정 없이 최신 콘텐츠를 받을 수
+            있습니다.
+          </p>
+        </article>
+        <article class="card">
+          <h2>신뢰와 개인정보</h2>
+          <p>
+            확장 프로그램은 로컬 저장소만 사용해 학습 상태를 저장합니다. 개인 정보를 수집하거나 외부 서버로 전송하지
+            않습니다.
+          </p>
+        </article>
+      </section>
+
+      <footer>Project site for Daily English Tab. Built for browser store listing and support links.</footer>
+    </main>
+  </body>
+</html>

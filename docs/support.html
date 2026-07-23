@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Support | Daily English Tab</title>
+    <meta name="description" content="Daily English Tab 지원 페이지입니다. 문의와 문제 보고는 GitHub 저장소를 이용하세요." />
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f7f3eb;
+        --card: #ffffff;
+        --text: #2d261f;
+        --muted: #665a4e;
+        --accent: #b45309;
+        --border: rgba(74, 58, 43, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, "Noto Sans KR", system-ui, sans-serif;
+        color: var(--text);
+        background: var(--bg);
+      }
+
+      main {
+        width: min(840px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 40px 0 64px;
+      }
+
+      .card {
+        padding: 32px;
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        background: var(--card);
+      }
+
+      h1,
+      h2 {
+        margin: 0 0 14px;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 4vw, 3rem);
+      }
+
+      p,
+      li {
+        color: var(--muted);
+        line-height: 1.8;
+      }
+
+      ul {
+        padding-left: 20px;
+      }
+
+      a {
+        color: var(--accent);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="card">
+        <h1>지원</h1>
+        <p>
+          문제가 있거나 개선 아이디어가 있으면 GitHub 저장소에서 이슈를 남겨주세요.
+        </p>
+
+        <h2>문의 경로</h2>
+        <ul>
+          <li>
+            GitHub Repository:
+            <a href="https://github.com/bangcepslabs/daily-english-data" target="_blank" rel="noreferrer">
+              github.com/bangcepslabs/daily-english-data
+            </a>
+          </li>
+          <li>새 탭 표시 오류, 동기화 오류, 번역/발음 문제를 함께 적어주시면 더 빨리 확인할 수 있습니다.</li>
+        </ul>
+
+        <h2>자주 확인할 내용</h2>
+        <ul>
+          <li>확장 프로그램을 다시 로드했는지</li>
+          <li>브라우저에서 팝업이 차단되지 않았는지</li>
+          <li>원격 JSON 파일이 최신 상태인지</li>
+        </ul>
+
+        <p><a href="./index.html">홈으로 돌아가기</a></p>
+      </section>
+    </main>
+  </body>
+</html>

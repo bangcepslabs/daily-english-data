@@ -58,6 +58,14 @@ The raw file can be either:
 - The popup shows a short sync status and falls back to cached data if needed
 - Repository updates become visible in the extension after the next refresh cycle
 
+## Project site
+
+If you publish this repository with GitHub Pages from the `docs/` folder, the recommended store URLs are:
+
+- Site: `https://bangcepslabs.github.io/daily-english-data/`
+- Privacy policy: `https://bangcepslabs.github.io/daily-english-data/privacy.html`
+- Support: `https://bangcepslabs.github.io/daily-english-data/support.html`
+
 ## Local testing
 
 If you want to test the extension with this repo:
