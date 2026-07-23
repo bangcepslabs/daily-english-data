@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Daily English Tab",
   "version": "1.3.1",
-  "description": "A focused popup English learning extension with daily sentences, review queue, theme control, speech playback, and automatic remote data sync.",
+  "description": "English learning popup with daily sentences, review queue, speech playback, and automatic GitHub sync.",
   "action": {
     "default_title": "Daily English Tab",
     "default_popup": "popup.html"
