@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.24.2",
-    "updatedAt":  "2026-07-24T13:30:00Z",
-    "count":  520,
+    "version":  "2026.07.24.3",
+    "updatedAt":  "2026-07-24T15:30:00Z",
+    "count":  720,
     "sentences":  [
                       {
                           "id":  1,
@@ -965,955 +965,955 @@
                       },
                       {
                           "id":  121,
-                          "english":  "I need to check my bag before before lunch.",
-                          "korean":  "점심 전에 내 가방을 확인해야 해.",
+                          "english":  "I need to check my bag before lunch.",
+                          "korean":  "점심 전에 가방을 확인해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when you want to remember a small but important task."
                       },
                       {
                           "id":  122,
-                          "english":  "I forgot to check my bag.",
-                          "korean":  "내 가방을 확인하는 걸 깜빡했어.",
+                          "english":  "I forgot to check my bag before I left the house.",
+                          "korean":  "집에서 나오기 전에 가방을 확인하는 걸 깜빡했어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about a simple mistake before leaving."
                       },
                       {
                           "id":  123,
-                          "english":  "I\u0027ve checked my bag twice, but I still feel like I\u0027m forgetting something.",
-                          "korean":  "가방을 두 번이나 확인했는데도 아직 뭔가 빠뜨린 것 같은 기분이 들어.",
+                          "english":  "I\u0027m trying to keep my bag organized so I can find things quickly.",
+                          "korean":  "필요한 걸 빨리 찾을 수 있도록 가방을 정리해 두려고 해.",
                           "category":  "Daily life",
-                          "level":  "Advanced",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing an everyday organizing habit."
                       },
                       {
                           "id":  124,
-                          "english":  "I want to check after before lunch.",
-                          "korean":  "점심 후에 확인하고 싶어.",
+                          "english":  "There are a few things in my bag that I should probably throw away.",
+                          "korean":  "가방 안에 이제는 버려야 할 것들이 몇 개 들어 있어.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "A simple plan for later in the day."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when talking about clutter and small cleanups."
                       },
                       {
                           "id":  125,
-                          "english":  "The bag is messy.",
-                          "korean":  "내 가방이 엉망이야.",
+                          "english":  "I checked my bag twice, but I still feel like I\u0027m forgetting something.",
+                          "korean":  "가방을 두 번이나 확인했는데도 아직 뭔가 빠뜨린 것 같은 기분이 들어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when you want to express lingering uncertainty."
                       },
                       {
                           "id":  126,
-                          "english":  "My bag is so cluttered that I can never find what I need in a hurry.",
-                          "korean":  "가방이 너무 어수선해서 급할 때 필요한 걸 도무지 못 찾겠어.",
+                          "english":  "My bag gets so cluttered during the week that it slows me down every morning.",
+                          "korean":  "주중에 가방이 너무 어수선해져서 아침마다 준비 속도가 느려져.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Useful when something appears a certain way."
+                          "situation":  "Useful when describing how small habits affect your routine."
                       },
                       {
                           "id":  127,
-                          "english":  "I need to tidy my desk before after work.",
-                          "korean":  "퇴근 후 전에 내 책상을 정리해야 해.",
+                          "english":  "I need to tidy my desk before I start working.",
+                          "korean":  "일을 시작하기 전에 책상을 정리해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when you need a clean space before starting."
                       },
                       {
                           "id":  128,
-                          "english":  "I forgot to tidy my desk.",
-                          "korean":  "내 책상을 정리하는 걸 깜빡했어.",
+                          "english":  "I left my desk messy again last night.",
+                          "korean":  "어젯밤에 또 책상을 어질러 놓고 말았어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for admitting a simple habit or mistake."
                       },
                       {
                           "id":  129,
+                          "english":  "I work better when my desk is clear and everything is in the right place.",
+                          "korean":  "책상이 깔끔하고 물건이 제자리에 있을 때 일이 더 잘돼.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about what helps you focus."
+                      },
+                      {
+                          "id":  130,
+                          "english":  "My desk gets messy whenever I try to do too many things at once.",
+                          "korean":  "한꺼번에 너무 많은 일을 하려고 하면 책상이 금방 어질러져.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Useful for describing how your environment reflects your workload."
+                      },
+                      {
+                          "id":  131,
                           "english":  "I finally cleared off my desk after putting it off all week.",
                           "korean":  "일주일 내내 미루다가 드디어 책상을 말끔히 정리했어.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Useful for saying the task is finished."
-                      },
-                      {
-                          "id":  130,
-                          "english":  "I want to tidy after after work.",
-                          "korean":  "퇴근 후 후에 정리하고 싶어.",
-                          "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "A simple plan for later in the day."
-                      },
-                      {
-                          "id":  131,
-                          "english":  "The desk is clean.",
-                          "korean":  "내 책상이 깨끗해.",
-                          "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for describing a simple condition."
+                          "situation":  "Use when describing delayed but satisfying progress."
                       },
                       {
                           "id":  132,
-                          "english":  "The desk is tidy now, which makes it much easier to focus.",
-                          "korean":  "이제 책상이 정돈돼서 훨씬 집중하기 쉬워졌어.",
+                          "english":  "Now that my desk is tidy, I can focus without getting distracted every few minutes.",
+                          "korean":  "이제 책상이 정돈돼서 몇 분마다 흐름이 끊기지 않고 집중할 수 있어.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Useful when something appears a certain way."
+                          "situation":  "Useful when connecting your environment to concentration."
                       },
                       {
                           "id":  133,
-                          "english":  "I need to charge my phone before tonight.",
-                          "korean":  "오늘 밤 전에 내 휴대폰을 충전해야 해.",
+                          "english":  "I need to charge my phone before I go to bed.",
+                          "korean":  "자기 전에 휴대폰을 충전해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when talking about a basic nightly routine."
                       },
                       {
                           "id":  134,
-                          "english":  "I forgot to charge my phone.",
-                          "korean":  "내 휴대폰을 충전하는 걸 깜빡했어.",
+                          "english":  "I forgot to charge my phone, so the battery is almost dead.",
+                          "korean":  "휴대폰 충전을 깜빡해서 배터리가 거의 다 닳았어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for explaining a simple everyday problem."
                       },
                       {
                           "id":  135,
-                          "english":  "I charged my phone overnight, so I shouldn\u0027t run out of battery today.",
-                          "korean":  "밤새 휴대폰을 충전해 둬서 오늘은 배터리가 부족할 일 없을 거야.",
+                          "english":  "I usually charge my phone overnight so I don\u0027t have to think about it in the morning.",
+                          "korean":  "아침에 신경 쓰지 않으려고 보통 밤새 휴대폰을 충전해 둬.",
                           "category":  "Daily life",
-                          "level":  "Advanced",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing a practical habit."
                       },
                       {
                           "id":  136,
-                          "english":  "I want to charge after tonight.",
-                          "korean":  "오늘 밤 후에 충전하고 싶어.",
+                          "english":  "My battery has been running out faster than usual lately.",
+                          "korean":  "요즘 배터리가 평소보다 더 빨리 닳고 있어.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "A simple plan for later in the day."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when noticing a small but annoying change."
                       },
                       {
                           "id":  137,
-                          "english":  "The phone is low.",
-                          "korean":  "내 휴대폰이 배터리가 부족해.",
+                          "english":  "I charged my phone overnight, but it still dropped below fifty percent before noon.",
+                          "korean":  "밤새 충전했는데도 점심도 되기 전에 배터리가 절반 아래로 떨어졌어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing an unexpected device issue."
                       },
                       {
                           "id":  138,
-                          "english":  "My phone battery is draining faster than usual, and I can\u0027t figure out why.",
-                          "korean":  "휴대폰 배터리가 평소보다 훨씬 빨리 닳는데 왜 그런지 모르겠어.",
+                          "english":  "My phone battery drains so unpredictably that I always carry a charger just in case.",
+                          "korean":  "휴대폰 배터리가 너무 예측 안 되게 닳아서 혹시 몰라 항상 충전기를 들고 다녀.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Useful when something appears a certain way."
+                          "situation":  "Useful when explaining a precautionary habit."
                       },
                       {
                           "id":  139,
-                          "english":  "I need to clean my room before tomorrow morning.",
-                          "korean":  "내일 아침 전에 내 방을 청소해야 해.",
+                          "english":  "I need to clean my room this evening.",
+                          "korean":  "오늘 저녁에는 방을 청소해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when talking about a basic home chore."
                       },
                       {
                           "id":  140,
-                          "english":  "I forgot to clean my room.",
-                          "korean":  "내 방을 청소하는 걸 깜빡했어.",
+                          "english":  "I haven\u0027t cleaned my room in a few days.",
+                          "korean":  "며칠째 방 청소를 못 했어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about chores you delayed."
                       },
                       {
                           "id":  141,
-                          "english":  "I cleaned my room earlier, but it already looks messy again.",
-                          "korean":  "아까 방을 치웠는데 벌써 다시 어질러진 것처럼 보여.",
+                          "english":  "I want my room to feel less cluttered before the weekend starts.",
+                          "korean":  "주말이 시작되기 전에 방이 덜 어수선했으면 좋겠어.",
                           "category":  "Daily life",
-                          "level":  "Advanced",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about preparing your space ahead of time."
                       },
                       {
                           "id":  142,
-                          "english":  "I want to clean after tomorrow morning.",
-                          "korean":  "내일 아침 후에 청소하고 싶어.",
+                          "english":  "Cleaning my room always takes longer than I think it will.",
+                          "korean":  "방 청소는 늘 생각보다 오래 걸려.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "A simple plan for later in the day."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when talking about chores that expand unexpectedly."
                       },
                       {
                           "id":  143,
-                          "english":  "The room is quiet.",
-                          "korean":  "내 방이 조용해.",
+                          "english":  "I cleaned my room earlier, but it already looks messy again somehow.",
+                          "korean":  "아까 방을 치웠는데도 이상하게 벌써 다시 어질러진 것처럼 보여.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when something feels frustratingly temporary."
                       },
                       {
                           "id":  144,
-                          "english":  "The room is quiet enough now that I can finally concentrate.",
-                          "korean":  "이제 방이 충분히 조용해서 드디어 집중할 수 있겠어.",
+                          "english":  "A clean room makes a bigger difference to my mood than I usually admit.",
+                          "korean":  "방이 깨끗하면 기분에 미치는 영향이 생각보다 훨씬 커.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Useful when something appears a certain way."
+                          "situation":  "Useful when reflecting on how your space affects you."
                       },
                       {
                           "id":  145,
-                          "english":  "I need to review my schedule before right now.",
-                          "korean":  "지금 전에 내 일정을 검토해야 해.",
+                          "english":  "I need to check my schedule for tomorrow.",
+                          "korean":  "내일 일정을 확인해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when planning the next day."
                       },
                       {
                           "id":  146,
-                          "english":  "I forgot to review my schedule.",
-                          "korean":  "내 일정을 검토하는 걸 깜빡했어.",
+                          "english":  "I forgot that I already had plans tomorrow morning.",
+                          "korean":  "내일 아침에 이미 약속이 있다는 걸 깜빡했어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about a scheduling mistake."
                       },
                       {
                           "id":  147,
-                          "english":  "I\u0027ve gone over my schedule a few times, and it still feels too packed.",
-                          "korean":  "일정을 몇 번이나 다시 봤는데도 여전히 너무 빡빡한 느낌이야.",
+                          "english":  "My schedule is starting to fill up, so I need to be more careful with my time.",
+                          "korean":  "일정이 점점 차기 시작해서 시간을 더 신중하게 써야 해.",
                           "category":  "Daily life",
-                          "level":  "Advanced",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when planning becomes more important."
                       },
                       {
                           "id":  148,
-                          "english":  "I want to review after right now.",
-                          "korean":  "지금 후에 검토하고 싶어.",
+                          "english":  "I try to review my schedule at night so the next day feels less rushed.",
+                          "korean":  "다음 날이 덜 바쁘게 느껴지도록 밤마다 일정을 확인하려고 해.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "A simple plan for later in the day."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when describing a time-management habit."
                       },
                       {
                           "id":  149,
-                          "english":  "The schedule is busy.",
-                          "korean":  "내 일정이 바빠.",
+                          "english":  "I\u0027ve gone over my schedule several times, and it still feels too packed.",
+                          "korean":  "일정을 몇 번이나 다시 봤는데도 여전히 너무 빡빡하게 느껴져.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when you want to express pressure from a full calendar."
                       },
                       {
                           "id":  150,
-                          "english":  "My schedule is so full this week that I barely have time to breathe.",
-                          "korean":  "이번 주 일정이 너무 꽉 차 있어서 숨 돌릴 틈도 거의 없어.",
+                          "english":  "This week\u0027s schedule is so tight that even a small delay could throw everything off.",
+                          "korean":  "이번 주 일정이 너무 촘촘해서 작은 지연만 생겨도 전체가 꼬일 수 있어.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Useful when something appears a certain way."
+                          "situation":  "Useful when describing how fragile a packed plan can be."
                       },
                       {
                           "id":  151,
-                          "english":  "I need to pack my charger before before I leave.",
-                          "korean":  "나가기 전에 전에 내 충전기를 챙겨해야 해.",
+                          "english":  "I need to pack my charger before I leave.",
+                          "korean":  "나가기 전에 충전기를 챙겨야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when remembering a basic travel or work item."
                       },
                       {
                           "id":  152,
-                          "english":  "I forgot to pack my charger.",
-                          "korean":  "내 충전기를 챙겨하는 걸 깜빡했어.",
+                          "english":  "I almost left without my charger again.",
+                          "korean":  "또 충전기 없이 나갈 뻔했어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about a repeated small mistake."
                       },
                       {
                           "id":  153,
-                          "english":  "I already packed my charger.",
-                          "korean":  "나는 이미 내 충전기를 챙겼어.",
+                          "english":  "I keep an extra charger in my bag because I forget things too easily.",
+                          "korean":  "자꾸 깜빡해서 가방에 여분 충전기를 하나 넣어 두고 다녀.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining a simple preventive habit."
                       },
                       {
                           "id":  154,
-                          "english":  "I want to pack after before I leave.",
-                          "korean":  "나가기 전에 후에 챙겨하고 싶어.",
+                          "english":  "Packing the night before helps me avoid rushing around in the morning.",
+                          "korean":  "전날 밤에 챙겨 두면 아침에 허둥대지 않게 돼.",
                           "category":  "Daily life",
                           "level":  "Intermediate",
-                          "situation":  "A simple plan for later in the day."
+                          "situation":  "Useful when talking about preparing in advance."
                       },
                       {
                           "id":  155,
-                          "english":  "The charger is ready.",
-                          "korean":  "내 충전기가 준비됐어.",
+                          "english":  "I thought I packed everything, but the charger was the one thing I overlooked.",
+                          "korean":  "다 챙겼다고 생각했는데 충전기만 빠뜨렸더라.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing a frustrating oversight."
                       },
                       {
                           "id":  156,
-                          "english":  "The charger seems ready.",
-                          "korean":  "내 충전기가 준비됐어 보여.",
+                          "english":  "Forgetting one small item can be surprisingly inconvenient when the whole day depends on it.",
+                          "korean":  "하루 일정이 그 물건에 달려 있을 때는 작은 물건 하나 빠뜨리는 것도 의외로 크게 불편해.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something appears a certain way."
+                          "level":  "Advanced",
+                          "situation":  "Useful when reflecting on why small items matter."
                       },
                       {
                           "id":  157,
-                          "english":  "I need to find my keys before this afternoon.",
-                          "korean":  "오늘 오후 전에 내 열쇠를 찾아해야 해.",
+                          "english":  "I need to find my keys before we leave.",
+                          "korean":  "출발하기 전에 열쇠를 찾아야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when looking for something essential."
                       },
                       {
                           "id":  158,
-                          "english":  "I forgot to find my keys.",
-                          "korean":  "내 열쇠를 찾아하는 걸 깜빡했어.",
+                          "english":  "I left my keys somewhere in the living room.",
+                          "korean":  "열쇠를 거실 어딘가에 두고 왔어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about misplaced items."
                       },
                       {
                           "id":  159,
-                          "english":  "I already finded my keys.",
-                          "korean":  "나는 이미 내 열쇠를 찾았어.",
+                          "english":  "I always waste time looking for my keys when I\u0027m already running late.",
+                          "korean":  "이미 늦고 있을 때마다 열쇠 찾느라 시간을 허비해.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing a repeated habit."
                       },
                       {
                           "id":  160,
-                          "english":  "I want to find after this afternoon.",
-                          "korean":  "오늘 오후 후에 찾아하고 싶어.",
+                          "english":  "I should probably choose one place and always leave my keys there.",
+                          "korean":  "열쇠 둘 자리를 하나 정해서 항상 거기에 두는 게 좋을 것 같아.",
                           "category":  "Daily life",
                           "level":  "Intermediate",
-                          "situation":  "A simple plan for later in the day."
+                          "situation":  "Useful when talking about creating a better system."
                       },
                       {
                           "id":  161,
-                          "english":  "The keys is missing.",
-                          "korean":  "내 열쇠가 안 보여.",
+                          "english":  "I found my keys in the last place I expected, which somehow made me more annoyed.",
+                          "korean":  "전혀 예상 못 한 곳에서 열쇠를 찾았는데 오히려 더 짜증이 났어.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when something simple becomes unexpectedly frustrating."
                       },
                       {
                           "id":  162,
-                          "english":  "The keys seems missing.",
-                          "korean":  "내 열쇠가 안 보여 보여.",
+                          "english":  "Losing my keys isn\u0027t a big disaster, but it throws off my whole rhythm for the day.",
+                          "korean":  "열쇠를 잃어버리는 게 큰일은 아니어도 하루 리듬이 통째로 흐트러져.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something appears a certain way."
+                          "level":  "Advanced",
+                          "situation":  "Useful when small problems affect the rest of your day."
                       },
                       {
                           "id":  163,
-                          "english":  "I need to update my calendar before this week.",
-                          "korean":  "이번 주 전에 내 달력을 업데이트해야 해.",
+                          "english":  "I need to update my calendar tonight.",
+                          "korean":  "오늘 밤에 캘린더를 업데이트해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when planning upcoming tasks or events."
                       },
                       {
                           "id":  164,
-                          "english":  "I forgot to update my calendar.",
-                          "korean":  "내 달력을 업데이트하는 걸 깜빡했어.",
+                          "english":  "I forgot to add that appointment to my calendar.",
+                          "korean":  "그 약속을 캘린더에 적는 걸 깜빡했어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about a simple planning mistake."
                       },
                       {
                           "id":  165,
-                          "english":  "I already updateed my calendar.",
-                          "korean":  "나는 이미 내 달력을 업데이트했어.",
+                          "english":  "I rely on my calendar more when things start piling up.",
+                          "korean":  "일정이 쌓이기 시작하면 캘린더에 더 많이 의지하게 돼.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing how your planning habits change under pressure."
                       },
                       {
                           "id":  166,
-                          "english":  "I want to update after this week.",
-                          "korean":  "이번 주 후에 업데이트하고 싶어.",
+                          "english":  "Adding even small tasks to my calendar helps me stay realistic about my time.",
+                          "korean":  "작은 일이라도 캘린더에 적어 두면 시간을 더 현실적으로 보게 돼.",
                           "category":  "Daily life",
                           "level":  "Intermediate",
-                          "situation":  "A simple plan for later in the day."
+                          "situation":  "Useful when talking about practical time management."
                       },
                       {
                           "id":  167,
-                          "english":  "The calendar is organized.",
-                          "korean":  "내 달력이 정리돼.",
+                          "english":  "My calendar looks manageable at first glance, but the gaps are shorter than they seem.",
+                          "korean":  "캘린더만 얼핏 보면 괜찮아 보이는데 실제 빈 시간은 생각보다 짧아.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about hidden pressure in a schedule."
                       },
                       {
                           "id":  168,
-                          "english":  "The calendar seems organized.",
-                          "korean":  "내 달력이 정리돼 보여.",
+                          "english":  "If I don\u0027t update my calendar right away, I end up relying on memory and forgetting important details.",
+                          "korean":  "캘린더를 바로바로 업데이트하지 않으면 결국 기억에만 의존하게 되고 중요한 걸 놓치게 돼.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something appears a certain way."
+                          "level":  "Advanced",
+                          "situation":  "Useful when explaining why systems matter."
                       },
                       {
                           "id":  169,
-                          "english":  "I need to organize my clothes before before the trip.",
-                          "korean":  "여행 전에 전에 내 옷을 정돈해야 해.",
+                          "english":  "I need to organize my clothes before the trip.",
+                          "korean":  "여행 전에 옷을 정리해야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when getting ready for travel or a busy week."
                       },
                       {
                           "id":  170,
-                          "english":  "I forgot to organize my clothes.",
-                          "korean":  "내 옷을 정돈하는 걸 깜빡했어.",
+                          "english":  "I still haven\u0027t decided which clothes to pack.",
+                          "korean":  "어떤 옷을 챙길지 아직도 못 정했어.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "A very common everyday mistake."
+                          "level":  "Beginner",
+                          "situation":  "Useful for talking about simple preparation."
                       },
                       {
                           "id":  171,
-                          "english":  "I already organizeed my clothes.",
-                          "korean":  "나는 이미 내 옷을 정돈했어.",
+                          "english":  "I want to choose clothes that are comfortable but still look put together.",
+                          "korean":  "편하면서도 너무 대충 입은 것처럼 보이지 않는 옷을 고르고 싶어.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when balancing comfort and appearance."
                       },
                       {
                           "id":  172,
-                          "english":  "I want to organize after before the trip.",
-                          "korean":  "여행 전에 후에 정돈하고 싶어.",
+                          "english":  "I tend to overpack because I keep imagining situations that probably won\u0027t happen.",
+                          "korean":  "아마 일어나지도 않을 상황까지 상상하면서 자꾸 짐을 너무 많이 싸게 돼.",
                           "category":  "Daily life",
                           "level":  "Intermediate",
-                          "situation":  "A simple plan for later in the day."
+                          "situation":  "Useful when reflecting on a common packing habit."
                       },
                       {
                           "id":  173,
-                          "english":  "The clothes is neat.",
-                          "korean":  "내 옷이 깔끔해.",
+                          "english":  "By the time I finish organizing my clothes, I\u0027m usually too tired to make any good decisions.",
+                          "korean":  "옷 정리를 다 하고 나면 늘 지쳐서 더는 제대로 판단이 안 돼.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when small tasks become mentally draining."
                       },
                       {
                           "id":  174,
-                          "english":  "The clothes seems neat.",
-                          "korean":  "내 옷이 깔끔해 보여.",
+                          "english":  "Packing would be easier if I trusted myself to make simpler choices in the first place.",
+                          "korean":  "애초에 더 단순하게 고를 수 있다고 스스로를 믿는다면 짐 싸는 게 훨씬 쉬울 거야.",
                           "category":  "Daily life",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something appears a certain way."
+                          "level":  "Advanced",
+                          "situation":  "Useful when talking about overthinking everyday decisions."
                       },
                       {
                           "id":  175,
-                          "english":  "I need to wipe my table before after dinner.",
-                          "korean":  "저녁 후 전에 내 테이블을 닦아해야 해.",
+                          "english":  "I need to wipe the table after dinner.",
+                          "korean":  "저녁 먹고 나서 식탁을 닦아야 해.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Useful when you need to get one small task done first."
+                          "situation":  "Use when talking about a simple household task."
                       },
                       {
                           "id":  176,
-                          "english":  "I forgot to wipe my table.",
-                          "korean":  "내 테이블을 닦아하는 걸 깜빡했어.",
+                          "english":  "I forgot to wipe the table this morning.",
+                          "korean":  "오늘 아침에 식탁 닦는 걸 깜빡했어.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "A very common everyday mistake."
+                          "situation":  "Useful for admitting a small routine mistake."
                       },
                       {
                           "id":  177,
-                          "english":  "I already wipeed my table.",
-                          "korean":  "나는 이미 내 테이블을 닦았어.",
+                          "english":  "I try to clean the table right away so stains don\u0027t sit too long.",
+                          "korean":  "얼룩이 오래 남지 않게 식탁은 바로 닦으려고 해.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for saying the task is finished."
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing a practical home habit."
                       },
                       {
                           "id":  178,
-                          "english":  "I want to wipe after after dinner.",
-                          "korean":  "저녁 후 후에 닦아하고 싶어.",
+                          "english":  "If I leave the table messy, it somehow makes the whole kitchen feel unfinished.",
+                          "korean":  "식탁을 지저분하게 두면 부엌 전체가 정리 안 된 느낌이 들어.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "A simple plan for later in the day."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when talking about how one detail changes the space."
                       },
                       {
                           "id":  179,
-                          "english":  "The table is wet.",
-                          "korean":  "내 테이블이 젖어 있어.",
+                          "english":  "Wiping the table is a tiny task, but it makes the room feel immediately calmer.",
+                          "korean":  "식탁을 닦는 건 작은 일이지만 공간이 바로 훨씬 정돈돼 보여.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful for describing a simple condition."
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on the effect of small routines."
                       },
                       {
                           "id":  180,
-                          "english":  "The table seems wet.",
-                          "korean":  "내 테이블이 젖어 있어 보여.",
+                          "english":  "I\u0027ve realized that finishing little chores right away saves more mental energy than I expected.",
+                          "korean":  "작은 집안일을 바로 끝내는 게 생각보다 훨씬 더 정신적 에너지를 아껴 준다는 걸 알게 됐어.",
                           "category":  "Daily life",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something appears a certain way."
+                          "level":  "Advanced",
+                          "situation":  "Useful when talking about the value of simple habits."
                       },
                       {
                           "id":  181,
                           "english":  "Could you explain the message again?",
-                          "korean":  "그 메시지를 다시 설명해 주실 수 있나요?",
+                          "korean":  "그 메시지를 다시 설명해 줄 수 있어?",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want clarification."
+                          "situation":  "Use when you need a simple clarification."
                       },
                       {
                           "id":  182,
-                          "english":  "Could you help me with the message?",
-                          "korean":  "그 메시지 좀 도와주실 수 있나요?",
+                          "english":  "I just want to make sure I understood the message correctly.",
+                          "korean":  "내가 그 메시지를 제대로 이해했는지 확인하고 싶어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A polite way to ask for help."
+                          "level":  "Beginner",
+                          "situation":  "Useful when checking your understanding."
                       },
                       {
                           "id":  183,
-                          "english":  "Can we talk about the message later?",
-                          "korean":  "그 메시지는 나중에 이야기할 수 있을까요?",
+                          "english":  "Could you help me figure out how to reply to that message?",
+                          "korean":  "그 메시지에 어떻게 답할지 같이 생각해 줄 수 있어?",
                           "category":  "Conversation",
-                          "level":  "Advanced",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking for help with a response."
                       },
                       {
                           "id":  184,
-                          "english":  "I need a quick answer about the message.",
-                          "korean":  "그 메시지에 대해 간단한 답이 필요해요.",
+                          "english":  "The message sounded a little different from what I expected.",
+                          "korean":  "그 메시지는 내가 예상한 것과는 조금 다르게 들렸어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when reacting carefully to tone or wording."
                       },
                       {
                           "id":  185,
-                          "english":  "I have one question about the message.",
-                          "korean":  "그 메시지에 대해 질문이 하나 있어요.",
+                          "english":  "I don\u0027t want to overreact, but the message feels more serious than it looks at first glance.",
+                          "korean":  "괜히 과하게 받아들이고 싶진 않지만 그 메시지는 얼핏 보기보다 더 심각하게 느껴져.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when discussing subtext and tone."
                       },
                       {
                           "id":  186,
-                          "english":  "I\u0027m sorry for the late reply about the message.",
-                          "korean":  "그 메시지에 대한 답장이 늦어서 미안해요.",
+                          "english":  "Before I answer that message, I want to think through what they might actually mean.",
+                          "korean":  "그 메시지에 답하기 전에 상대가 실제로 무슨 뜻이었는지 먼저 생각해 보고 싶어.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Useful when apologizing in a message."
+                          "situation":  "Useful when you want to interpret meaning before responding."
                       },
                       {
                           "id":  187,
-                          "english":  "Could you explain the reply again?",
-                          "korean":  "그 답장을 다시 설명해 주실 수 있나요?",
+                          "english":  "Could you explain your reply one more time?",
+                          "korean":  "네 답장을 한 번만 더 설명해 줄래?",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want clarification."
+                          "situation":  "Use when the first explanation wasn\u0027t enough."
                       },
                       {
                           "id":  188,
-                          "english":  "Could you help me with the reply?",
-                          "korean":  "그 답장 좀 도와주실 수 있나요?",
+                          "english":  "I wasn\u0027t sure what you meant in your reply.",
+                          "korean":  "네 답장 뜻을 완전히 이해하지 못했어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A polite way to ask for help."
+                          "level":  "Beginner",
+                          "situation":  "Useful when something feels unclear but not serious."
                       },
                       {
                           "id":  189,
-                          "english":  "Can we talk about the reply later?",
-                          "korean":  "그 답장는 나중에 이야기할 수 있을까요?",
+                          "english":  "I want to respond politely, but I\u0027m not sure what tone fits your reply best.",
+                          "korean":  "정중하게 답하고 싶은데 네 답장에는 어떤 톤이 가장 어울릴지 잘 모르겠어.",
                           "category":  "Conversation",
-                          "level":  "Advanced",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "level":  "Intermediate",
+                          "situation":  "Use when thinking about tone in writing."
                       },
                       {
                           "id":  190,
-                          "english":  "I need a quick answer about the reply.",
-                          "korean":  "그 답장에 대해 간단한 답이 필요해요.",
+                          "english":  "Your reply was short, so I wasn\u0027t sure whether you were busy or just being direct.",
+                          "korean":  "답장이 짧아서 네가 바쁜 건지 그냥 단도직입적인 건지 잘 모르겠었어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when you are unsure how to read someone\u0027s style."
                       },
                       {
                           "id":  191,
-                          "english":  "I have one question about the reply.",
-                          "korean":  "그 답장에 대해 질문이 하나 있어요.",
+                          "english":  "I read your reply a few times because I didn\u0027t want to misunderstand the intention behind it.",
+                          "korean":  "의도를 오해하고 싶지 않아서 네 답장을 몇 번이나 다시 읽었어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing careful interpretation."
                       },
                       {
                           "id":  192,
-                          "english":  "I\u0027m sorry for the late reply about the reply.",
-                          "korean":  "그 답장에 대한 답장이 늦어서 미안해요.",
+                          "english":  "Sometimes a brief reply leaves so much unsaid that it\u0027s harder to interpret than a long one.",
+                          "korean":  "짧은 답장은 말하지 않은 부분이 많아서 오히려 긴 답장보다 해석하기 어려울 때가 있어.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Useful when apologizing in a message."
+                          "situation":  "Useful when talking about ambiguity in communication."
                       },
                       {
                           "id":  193,
-                          "english":  "Could you explain the schedule again?",
-                          "korean":  "그 일정을 다시 설명해 주실 수 있나요?",
+                          "english":  "Can we look at the schedule together?",
+                          "korean":  "일정을 같이 볼 수 있을까?",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want clarification."
+                          "situation":  "Use when starting a simple planning discussion."
                       },
                       {
                           "id":  194,
-                          "english":  "Could you help me with the schedule?",
-                          "korean":  "그 일정 좀 도와주실 수 있나요?",
+                          "english":  "I think I may have misunderstood the schedule.",
+                          "korean":  "내가 일정을 잘못 이해했을 수도 있을 것 같아.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A polite way to ask for help."
+                          "level":  "Beginner",
+                          "situation":  "Useful when you think you mixed something up."
                       },
                       {
                           "id":  195,
-                          "english":  "Can we talk about the schedule later?",
-                          "korean":  "그 일정는 나중에 이야기할 수 있을까요?",
+                          "english":  "Could we move a few things around in the schedule?",
+                          "korean":  "일정에서 몇 가지만 조금 조정할 수 있을까?",
                           "category":  "Conversation",
-                          "level":  "Advanced",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "level":  "Intermediate",
+                          "situation":  "Use when suggesting a change without sounding forceful."
                       },
                       {
                           "id":  196,
-                          "english":  "I need a quick answer about the schedule.",
-                          "korean":  "그 일정에 대해 간단한 답이 필요해요.",
+                          "english":  "The schedule looks fine overall, but one part still feels too tight.",
+                          "korean":  "전체적으로는 괜찮아 보이는데 한 부분은 아직 너무 촉박해 보여.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when giving balanced feedback on a plan."
                       },
                       {
                           "id":  197,
-                          "english":  "I have one question about the schedule.",
-                          "korean":  "그 일정에 대해 질문이 하나 있어요.",
+                          "english":  "Before we finalize the schedule, I\u0027d like to make sure we left room for delays.",
+                          "korean":  "일정을 확정하기 전에 혹시 지연될 상황까지 감안했는지 확인하고 싶어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when thinking ahead about realistic planning."
                       },
                       {
                           "id":  198,
-                          "english":  "I\u0027m sorry for the late reply about the schedule.",
-                          "korean":  "그 일정에 대한 답장이 늦어서 미안해요.",
+                          "english":  "A schedule can look efficient on paper and still fall apart once real interruptions start happening.",
+                          "korean":  "일정은 서류상으로는 효율적으로 보여도 실제 변수들이 생기면 금방 무너질 수 있어.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Useful when apologizing in a message."
+                          "situation":  "Useful when talking about realistic expectations."
                       },
                       {
                           "id":  199,
-                          "english":  "Could you explain the example again?",
-                          "korean":  "그 예시를 다시 설명해 주실 수 있나요?",
+                          "english":  "Could you show me the example again?",
+                          "korean":  "그 예시를 다시 보여줄 수 있어?",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want clarification."
+                          "situation":  "Use when you need to see something one more time."
                       },
                       {
                           "id":  200,
-                          "english":  "Could you help me with the example?",
-                          "korean":  "그 예시 좀 도와주실 수 있나요?",
+                          "english":  "I understand the explanation better when I look at the example.",
+                          "korean":  "예시를 보면 설명이 훨씬 잘 이해돼.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A polite way to ask for help."
+                          "level":  "Beginner",
+                          "situation":  "Useful when talking about your learning style."
                       },
                       {
                           "id":  201,
-                          "english":  "Can we talk about the example later?",
-                          "korean":  "그 예시는 나중에 이야기할 수 있을까요?",
+                          "english":  "That example helped, but I still have one part I\u0027m unsure about.",
+                          "korean":  "그 예시는 도움이 됐는데 아직 한 부분은 확신이 안 서.",
                           "category":  "Conversation",
-                          "level":  "Advanced",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "level":  "Intermediate",
+                          "situation":  "Use when you partly understand but still need help."
                       },
                       {
                           "id":  202,
-                          "english":  "I need a quick answer about the example.",
-                          "korean":  "그 예시에 대해 간단한 답이 필요해요.",
+                          "english":  "Could you give me another example that\u0027s a little closer to my situation?",
+                          "korean":  "내 상황에 조금 더 가까운 예시를 하나 더 들어줄 수 있을까?",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when asking for something more relevant."
                       },
                       {
                           "id":  203,
-                          "english":  "I have one question about the example.",
-                          "korean":  "그 예시에 대해 질문이 하나 있어요.",
+                          "english":  "Examples are useful for me because they show how an idea works outside of a textbook definition.",
+                          "korean":  "예시는 교과서식 정의를 넘어서 개념이 실제로 어떻게 작동하는지 보여 줘서 나한테 특히 유용해.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining why examples matter to you."
                       },
                       {
                           "id":  204,
-                          "english":  "I\u0027m sorry for the late reply about the example.",
-                          "korean":  "그 예시에 대한 답장이 늦어서 미안해요.",
+                          "english":  "Once I saw the example in context, the whole explanation felt much less abstract.",
+                          "korean":  "예시가 문맥 안에서 보이니까 전체 설명이 훨씬 덜 추상적으로 느껴졌어.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Useful when apologizing in a message."
+                          "situation":  "Useful when talking about context improving understanding."
                       },
                       {
                           "id":  205,
-                          "english":  "Could you explain the question again?",
-                          "korean":  "그 질문을 다시 설명해 주실 수 있나요?",
+                          "english":  "I have a quick question.",
+                          "korean":  "짧게 질문 하나 있어.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want clarification."
+                          "situation":  "Use when opening a simple question naturally."
                       },
                       {
                           "id":  206,
-                          "english":  "Could you help me with the question?",
-                          "korean":  "그 질문 좀 도와주실 수 있나요?",
+                          "english":  "I don\u0027t think I fully understood the question.",
+                          "korean":  "그 질문을 완전히 이해한 건 아닌 것 같아.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A polite way to ask for help."
+                          "level":  "Beginner",
+                          "situation":  "Useful when you need clarification before answering."
                       },
                       {
                           "id":  207,
-                          "english":  "Can we talk about the question later?",
-                          "korean":  "그 질문는 나중에 이야기할 수 있을까요?",
+                          "english":  "The question sounds simple, but I\u0027m not sure what kind of answer it\u0027s really asking for.",
+                          "korean":  "질문 자체는 단순해 보이는데 실제로 어떤 답을 원하는 건지는 잘 모르겠어.",
                           "category":  "Conversation",
-                          "level":  "Advanced",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a question feels broader than it looks."
                       },
                       {
                           "id":  208,
-                          "english":  "I need a quick answer about the question.",
-                          "korean":  "그 질문에 대해 간단한 답이 필요해요.",
+                          "english":  "Could you rephrase the question in a slightly different way?",
+                          "korean":  "그 질문을 다른 방식으로 한 번만 다시 말해 줄 수 있을까?",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when wording is the problem."
                       },
                       {
                           "id":  209,
-                          "english":  "I have one question about the question.",
-                          "korean":  "그 질문에 대해 질문이 하나 있어요.",
+                          "english":  "I want to answer carefully because the question seems more layered than it first appears.",
+                          "korean":  "그 질문은 처음 보이는 것보다 더 여러 층위가 있는 것 같아서 신중하게 답하고 싶어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when you sense hidden complexity."
                       },
                       {
                           "id":  210,
-                          "english":  "I\u0027m sorry for the late reply about the question.",
-                          "korean":  "그 질문에 대한 답장이 늦어서 미안해요.",
+                          "english":  "Some questions are difficult not because they\u0027re hard, but because they force you to be honest.",
+                          "korean":  "어떤 질문은 어려워서가 아니라 솔직해질 수밖에 없어서 답하기 힘들어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when apologizing in a message."
+                          "level":  "Advanced",
+                          "situation":  "Useful when reflecting on personal or meaningful questions."
                       },
                       {
                           "id":  211,
-                          "english":  "Could you explain the detail again?",
-                          "korean":  "그 세부 내용을 다시 설명해 주실 수 있나요?",
+                          "english":  "Could you explain that detail again?",
+                          "korean":  "그 세부 사항을 다시 설명해 줄 수 있어?",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want clarification."
+                          "level":  "Beginner",
+                          "situation":  "Use when you missed a small but important point."
                       },
                       {
                           "id":  212,
-                          "english":  "Could you help me with the detail?",
-                          "korean":  "그 세부 내용 좀 도와주실 수 있나요?",
+                          "english":  "I think I missed one detail.",
+                          "korean":  "내가 세부 사항 하나를 놓친 것 같아.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "A polite way to ask for help."
+                          "situation":  "Useful when asking to go back briefly."
                       },
                       {
                           "id":  213,
-                          "english":  "Can we talk about the detail later?",
-                          "korean":  "그 세부 내용는 나중에 이야기할 수 있을까요?",
+                          "english":  "Most of it makes sense, but one detail still doesn\u0027t line up for me.",
+                          "korean":  "대부분은 이해되는데 세부 사항 하나가 아직 잘 맞아떨어지지 않아.",
                           "category":  "Conversation",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "situation":  "Use when one part still feels off."
                       },
                       {
                           "id":  214,
-                          "english":  "I need a quick answer about the detail.",
-                          "korean":  "그 세부 내용에 대해 간단한 답이 필요해요.",
+                          "english":  "Could we slow down and go over the details step by step?",
+                          "korean":  "조금 천천히 세부 사항을 하나씩 다시 볼 수 있을까?",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when you need a more careful walkthrough."
                       },
                       {
                           "id":  215,
-                          "english":  "I have one question about the detail.",
-                          "korean":  "그 세부 내용에 대해 질문이 하나 있어요.",
+                          "english":  "Small details tend to matter more than people expect once the plan actually starts moving.",
+                          "korean":  "계획이 실제로 움직이기 시작하면 작은 세부 사항이 생각보다 훨씬 중요해지는 경우가 많아.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about why precision matters."
                       },
                       {
                           "id":  216,
-                          "english":  "I\u0027m sorry for the late reply about the detail.",
-                          "korean":  "그 세부 내용에 대한 답장이 늦어서 미안해요.",
+                          "english":  "If we ignore the details now, we\u0027ll probably spend more time fixing misunderstandings later.",
+                          "korean":  "지금 세부 사항을 넘기면 나중에 오해를 고치느라 더 많은 시간을 쓰게 될 거야.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when apologizing in a message."
+                          "level":  "Advanced",
+                          "situation":  "Useful when arguing for careful communication."
                       },
                       {
                           "id":  217,
-                          "english":  "Could you explain the point again?",
-                          "korean":  "그 핵심을 다시 설명해 주실 수 있나요?",
+                          "english":  "I see your point.",
+                          "korean":  "무슨 말인지 알겠어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want clarification."
+                          "level":  "Beginner",
+                          "situation":  "Use when you understand someone\u0027s main idea."
                       },
                       {
                           "id":  218,
-                          "english":  "Could you help me with the point?",
-                          "korean":  "그 핵심 좀 도와주실 수 있나요?",
+                          "english":  "I think I missed your point at first.",
+                          "korean":  "처음에는 네 요지를 놓쳤던 것 같아.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "A polite way to ask for help."
+                          "situation":  "Useful when recognizing that you misunderstood something."
                       },
                       {
                           "id":  219,
-                          "english":  "Can we talk about the point later?",
-                          "korean":  "그 핵심는 나중에 이야기할 수 있을까요?",
+                          "english":  "Your main point makes sense, even if I still have questions about the details.",
+                          "korean":  "세부 사항에 대한 질문은 남아 있어도 네 핵심 요지는 이해돼.",
                           "category":  "Conversation",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "situation":  "Use when you agree broadly but not completely."
                       },
                       {
                           "id":  220,
-                          "english":  "I need a quick answer about the point.",
-                          "korean":  "그 핵심에 대해 간단한 답이 필요해요.",
+                          "english":  "I agree with your point, but I see one part a little differently.",
+                          "korean":  "네 요지에는 동의하지만 한 부분은 조금 다르게 봐.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when giving respectful disagreement."
                       },
                       {
                           "id":  221,
-                          "english":  "I have one question about the point.",
-                          "korean":  "그 핵심에 대해 질문이 하나 있어요.",
+                          "english":  "What made your point convincing was not just the logic, but the timing of how you said it.",
+                          "korean":  "네 말이 설득력 있었던 건 논리뿐 아니라 그 말을 꺼낸 타이밍도 컸어.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when discussing why something resonated."
                       },
                       {
                           "id":  222,
-                          "english":  "I\u0027m sorry for the late reply about the point.",
-                          "korean":  "그 핵심에 대한 답장이 늦어서 미안해요.",
+                          "english":  "Sometimes the strongest point in a conversation is the one people almost overlook.",
+                          "korean":  "대화에서 가장 중요한 요점은 사람들이 그냥 지나칠 뻔한 부분일 때도 있어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when apologizing in a message."
+                          "level":  "Advanced",
+                          "situation":  "Useful when reflecting on subtle communication."
                       },
                       {
                           "id":  223,
-                          "english":  "Could you explain the call again?",
-                          "korean":  "그 통화를 다시 설명해 주실 수 있나요?",
+                          "english":  "Can I call you later?",
+                          "korean":  "내가 나중에 전화해도 될까?",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want clarification."
+                          "level":  "Beginner",
+                          "situation":  "Use when asking to continue later by phone."
                       },
                       {
                           "id":  224,
-                          "english":  "Could you help me with the call?",
-                          "korean":  "그 통화 좀 도와주실 수 있나요?",
+                          "english":  "I missed your call earlier.",
+                          "korean":  "아까 네 전화를 놓쳤어.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "A polite way to ask for help."
+                          "situation":  "Useful for explaining why you didn\u0027t answer."
                       },
                       {
                           "id":  225,
-                          "english":  "Can we talk about the call later?",
-                          "korean":  "그 통화는 나중에 이야기할 수 있을까요?",
+                          "english":  "Could we talk by phone when you have a few minutes?",
+                          "korean":  "몇 분 정도 시간 될 때 전화로 얘기할 수 있을까?",
                           "category":  "Conversation",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "situation":  "Use when asking politely for a phone conversation."
                       },
                       {
                           "id":  226,
-                          "english":  "I need a quick answer about the call.",
-                          "korean":  "그 통화에 대해 간단한 답이 필요해요.",
+                          "english":  "I think this would be easier to explain in a call than in a text message.",
+                          "korean":  "이건 문자보다 전화로 설명하는 게 더 쉬울 것 같아.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when a topic is too complex for texting."
                       },
                       {
                           "id":  227,
-                          "english":  "I have one question about the call.",
-                          "korean":  "그 통화에 대해 질문이 하나 있어요.",
+                          "english":  "Some conversations move forward much faster once you can hear the other person\u0027s tone.",
+                          "korean":  "상대 목소리 톤을 들을 수 있으면 어떤 대화는 훨씬 더 빨리 진전돼.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining why a call may work better."
                       },
                       {
                           "id":  228,
-                          "english":  "I\u0027m sorry for the late reply about the call.",
-                          "korean":  "그 통화에 대한 답장이 늦어서 미안해요.",
+                          "english":  "I hesitated to call because I didn\u0027t want to interrupt you at the wrong time.",
+                          "korean":  "괜히 타이밍 안 좋을 때 방해하고 싶지 않아서 전화하기를 망설였어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when apologizing in a message."
+                          "level":  "Advanced",
+                          "situation":  "Useful when expressing consideration politely."
                       },
                       {
                           "id":  229,
-                          "english":  "Could you explain the voice note again?",
-                          "korean":  "그 음성 메시지를 다시 설명해 주실 수 있나요?",
+                          "english":  "Could you send the voice note again?",
+                          "korean":  "음성 메시지를 한 번 더 보내줄 수 있어?",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want clarification."
+                          "level":  "Beginner",
+                          "situation":  "Use when a file or clip didn\u0027t come through clearly."
                       },
                       {
                           "id":  230,
-                          "english":  "Could you help me with the voice note?",
-                          "korean":  "그 음성 메시지 좀 도와주실 수 있나요?",
+                          "english":  "I couldn\u0027t hear the end of the voice note very well.",
+                          "korean":  "음성 메시지 마지막 부분이 잘 안 들렸어.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "A polite way to ask for help."
+                          "situation":  "Useful when audio quality is the issue."
                       },
                       {
                           "id":  231,
-                          "english":  "Can we talk about the voice note later?",
-                          "korean":  "그 음성 메시지는 나중에 이야기할 수 있을까요?",
+                          "english":  "The voice note helped because I could hear the tone behind the words.",
+                          "korean":  "말 뒤에 담긴 톤이 들려서 음성 메시지가 더 도움이 됐어.",
                           "category":  "Conversation",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "situation":  "Use when tone matters as much as the content."
                       },
                       {
                           "id":  232,
-                          "english":  "I need a quick answer about the voice note.",
-                          "korean":  "그 음성 메시지에 대해 간단한 답이 필요해요.",
+                          "english":  "Could you make the next voice note a little shorter so I can replay it more easily?",
+                          "korean":  "다음 음성 메시지는 내가 다시 듣기 쉽게 조금만 짧게 보내줄 수 있을까?",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Intermediate",
+                          "situation":  "Useful when asking for a more practical format."
                       },
                       {
                           "id":  233,
-                          "english":  "I have one question about the voice note.",
-                          "korean":  "그 음성 메시지에 대해 질문이 하나 있어요.",
+                          "english":  "A voice note can feel more personal, but it also leaves more room for interpretation.",
+                          "korean":  "음성 메시지는 더 개인적으로 느껴지지만 그만큼 해석의 여지도 더 생겨.",
                           "category":  "Conversation",
-                          "level":  "Intermediate",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about the tradeoffs of voice communication."
                       },
                       {
                           "id":  234,
-                          "english":  "I\u0027m sorry for the late reply about the voice note.",
-                          "korean":  "그 음성 메시지에 대한 답장이 늦어서 미안해요.",
+                          "english":  "I replayed the voice note a few times because I wanted to catch the hesitation in your voice.",
+                          "korean":  "네 목소리의 망설임까지 느끼고 싶어서 음성 메시지를 몇 번이나 다시 들었어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when apologizing in a message."
+                          "level":  "Advanced",
+                          "situation":  "Useful when tone carries important meaning."
                       },
                       {
                           "id":  235,
-                          "english":  "Could you explain the text again?",
-                          "korean":  "그 문자를 다시 설명해 주실 수 있나요?",
+                          "english":  "Could you send me the text one more time?",
+                          "korean":  "그 문자를 한 번만 더 보내줄래?",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want clarification."
+                          "situation":  "Use when the original message is missing or buried."
                       },
                       {
                           "id":  236,
-                          "english":  "Could you help me with the text?",
-                          "korean":  "그 문자 좀 도와주실 수 있나요?",
+                          "english":  "I saw your text, but I wasn\u0027t sure how to respond right away.",
+                          "korean":  "문자는 봤는데 바로 어떻게 답해야 할지 잘 모르겠더라.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "A polite way to ask for help."
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need time before replying."
                       },
                       {
                           "id":  237,
-                          "english":  "Can we talk about the text later?",
-                          "korean":  "그 문자는 나중에 이야기할 수 있을까요?",
+                          "english":  "Your text was clear, but it raised a bigger question for me.",
+                          "korean":  "문자 자체는 분명했는데 오히려 더 큰 질문이 생겼어.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you need to postpone a conversation."
+                          "level":  "Intermediate",
+                          "situation":  "Use when one answer opens up a deeper issue."
                       },
                       {
                           "id":  238,
-                          "english":  "I need a quick answer about the text.",
-                          "korean":  "그 문자에 대해 간단한 답이 필요해요.",
+                          "english":  "Some texts are short enough to read quickly but complicated enough to think about all day.",
+                          "korean":  "어떤 문자는 금방 읽히지만 하루 종일 곱씹게 만들 정도로 복잡해.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want a short confirmation."
+                          "level":  "Advanced",
+                          "situation":  "Use when a message keeps lingering in your mind."
                       },
                       {
                           "id":  239,
-                          "english":  "I have one question about the text.",
-                          "korean":  "그 문자에 대해 질문이 하나 있어요.",
+                          "english":  "It\u0027s strange how a simple text can change the mood of the entire day.",
+                          "korean":  "단순한 문자 하나가 하루 전체 분위기를 바꿔 버릴 수 있다는 게 참 묘해.",
                           "category":  "Conversation",
-                          "level":  "Beginner",
-                          "situation":  "A simple and polite follow-up."
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on the emotional effect of communication."
                       },
                       {
                           "id":  240,
@@ -4162,6 +4162,1606 @@
                           "category":  "Study",
                           "english":  "I will try the new routine for a week and see how it goes.",
                           "korean":  "새 루틴을 일주일 동안 해 보고 어떻게 되는지 볼게요."
+                      },
+                      {
+                          "id":  521,
+                          "english":  "I need to wake up a little earlier tomorrow.",
+                          "korean":  "내일은 조금 더 일찍 일어나야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a small plan for the next morning."
+                      },
+                      {
+                          "id":  522,
+                          "english":  "I made breakfast before everyone else got up.",
+                          "korean":  "다른 사람들이 일어나기 전에 아침을 준비했어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing a simple morning routine."
+                      },
+                      {
+                          "id":  523,
+                          "english":  "I always feel better when I start the day without rushing.",
+                          "korean":  "하루를 서두르지 않고 시작하면 늘 기분이 더 좋아.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a preferred routine."
+                      },
+                      {
+                          "id":  524,
+                          "english":  "If I oversleep, the rest of the morning feels out of sync.",
+                          "korean":  "늦잠을 자면 아침 내내 리듬이 어긋난 느낌이 들어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing how one delay affects the morning."
+                      },
+                      {
+                          "id":  525,
+                          "english":  "I try to keep my mornings simple so I don\u0027t waste energy on small decisions.",
+                          "korean":  "작은 결정에 에너지를 쓰지 않으려고 아침 루틴을 최대한 단순하게 유지해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining why you simplify your routine."
+                      },
+                      {
+                          "id":  526,
+                          "english":  "Even a calm morning can fall apart if one small thing goes wrong.",
+                          "korean":  "아무리 차분한 아침도 작은 일 하나만 틀어지면 금방 엉킬 수 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about fragile routines."
+                      },
+                      {
+                          "id":  527,
+                          "english":  "A slower morning gives me enough space to think before the day starts demanding things from me.",
+                          "korean":  "조금 느긋한 아침이 있어야 하루가 나한테 이것저것 요구하기 전에 생각할 여유가 생겨.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on why calm mornings matter."
+                      },
+                      {
+                          "id":  528,
+                          "english":  "I\u0027ve noticed that the quality of my morning often decides how patient I am for the rest of the day.",
+                          "korean":  "아침이 어떻게 흘러가느냐에 따라 하루 종일 내가 얼마나 여유로운지가 결정되는 것 같아.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when connecting one habit to your overall mood."
+                      },
+                      {
+                          "id":  529,
+                          "english":  "When my routine is interrupted early, I spend the whole day trying to recover that sense of control.",
+                          "korean":  "아침 루틴이 초반부터 깨지면 하루 종일 다시 통제감을 되찾으려 애쓰게 돼.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing the emotional effect of disruptions."
+                      },
+                      {
+                          "id":  530,
+                          "english":  "It took me a while to realize that a good morning is less about productivity and more about steadiness.",
+                          "korean":  "좋은 아침은 생산성보다도 리듬과 안정감에 더 가깝다는 걸 깨닫는 데 시간이 좀 걸렸어.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about a shift in perspective."
+                      },
+                      {
+                          "id":  531,
+                          "english":  "I need to buy milk and eggs on the way home.",
+                          "korean":  "집에 가는 길에 우유랑 달걀을 사야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when mentioning a basic shopping plan."
+                      },
+                      {
+                          "id":  532,
+                          "english":  "I forgot to bring the grocery list with me.",
+                          "korean":  "장보기 목록을 가져오는 걸 깜빡했어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you forget something practical."
+                      },
+                      {
+                          "id":  533,
+                          "english":  "I usually buy the same things every week.",
+                          "korean":  "나는 보통 매주 비슷한 것들을 사.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about regular habits."
+                      },
+                      {
+                          "id":  534,
+                          "english":  "Shopping takes longer when I go in without a clear plan.",
+                          "korean":  "장보기를 계획 없이 가면 시간이 더 오래 걸려.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining why preparation matters."
+                      },
+                      {
+                          "id":  535,
+                          "english":  "I try not to shop when I\u0027m hungry because I always buy too much.",
+                          "korean":  "배고플 때 장을 보러 가면 늘 너무 많이 사게 돼서 그러지 않으려고 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about a common shopping habit."
+                      },
+                      {
+                          "id":  536,
+                          "english":  "The prices looked higher than I expected, so I changed what I planned to buy.",
+                          "korean":  "가격이 생각보다 비싸 보여서 사려던 걸 조금 바꿨어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when adjusting a plan on the spot."
+                      },
+                      {
+                          "id":  537,
+                          "english":  "Grocery shopping feels simple until I start comparing value, convenience, and how long things will last.",
+                          "korean":  "장보기는 단순해 보이지만 가성비, 편의성, 보관 기간을 따지기 시작하면 갑자기 복잡해져.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about hidden decisions in daily tasks."
+                      },
+                      {
+                          "id":  538,
+                          "english":  "I spend more time than I should choosing small things because I always imagine which option I\u0027ll regret later.",
+                          "korean":  "나중에 후회할 선택을 상상하게 돼서 작은 물건 하나 고르는 데도 생각보다 시간을 많이 써.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing overthinking in ordinary choices."
+                      },
+                      {
+                          "id":  539,
+                          "english":  "The list keeps me focused, but I still end up buying one or two things I didn\u0027t plan on.",
+                          "korean":  "목록이 있으면 집중은 되지만 결국 계획에 없던 것들도 한두 개씩 사게 돼.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about realistic self-control."
+                      },
+                      {
+                          "id":  540,
+                          "english":  "I used to think grocery shopping was just an errand, but it\u0027s really a weekly decision about time, money, and energy.",
+                          "korean":  "예전에는 장보기가 그냥 심부름이라고 생각했는데 사실은 시간, 돈, 에너지를 어떻게 쓸지에 대한 주간 결정이더라.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on everyday responsibilities."
+                      },
+                      {
+                          "id":  541,
+                          "english":  "I need to do the laundry tonight.",
+                          "korean":  "오늘 밤에는 빨래를 해야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a simple home task."
+                      },
+                      {
+                          "id":  542,
+                          "english":  "I left the clean clothes in the basket again.",
+                          "korean":  "깨끗한 빨래를 또 바구니에 그대로 뒀어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when admitting a familiar home habit."
+                      },
+                      {
+                          "id":  543,
+                          "english":  "I try to finish small chores before they pile up.",
+                          "korean":  "작은 집안일이 쌓이기 전에 끝내려고 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about practical routines."
+                      },
+                      {
+                          "id":  544,
+                          "english":  "Laundry feels easy until I wait long enough for it to turn into three different tasks.",
+                          "korean":  "빨래는 미루지 않을 땐 쉬운데 오래 미루면 일이 세 가지로 늘어나 버려.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when one chore becomes multiple chores."
+                      },
+                      {
+                          "id":  545,
+                          "english":  "I like getting chores done early because the whole evening feels lighter afterward.",
+                          "korean":  "집안일을 일찍 끝내면 그 뒤 저녁 시간이 훨씬 가볍게 느껴져.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing the reward of getting things done."
+                      },
+                      {
+                          "id":  546,
+                          "english":  "Some chores are repetitive, but finishing them still gives me a sense of stability.",
+                          "korean":  "집안일은 반복적이지만 끝내고 나면 이상하게 안정감이 생겨.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about why routine tasks still matter."
+                      },
+                      {
+                          "id":  547,
+                          "english":  "I keep underestimating how much mental space unfinished chores take up in the background.",
+                          "korean":  "끝내지 못한 집안일이 머릿속 뒤편에서 얼마나 많은 신경을 쓰게 만드는지 자꾸 과소평가하게 돼.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about the hidden weight of unfinished tasks."
+                      },
+                      {
+                          "id":  548,
+                          "english":  "The chore itself isn\u0027t difficult; it\u0027s the transition from thinking about it to actually starting that\u0027s hard.",
+                          "korean":  "집안일 자체가 어려운 건 아닌데 생각만 하다가 실제로 시작하는 전환이 제일 어려워.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing procrastination honestly."
+                      },
+                      {
+                          "id":  549,
+                          "english":  "Whenever I reset the space around me, I realize how much clutter had been affecting my attention.",
+                          "korean":  "주변 공간을 한 번 정리하고 나면 그동안 잡동사니가 집중력에 얼마나 영향을 주고 있었는지 실감하게 돼.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when connecting physical space to focus."
+                      },
+                      {
+                          "id":  550,
+                          "english":  "I used to treat chores like interruptions, but now I see them as part of keeping my week from falling apart.",
+                          "korean":  "예전엔 집안일을 흐름을 끊는 방해라고 생각했는데 이제는 한 주를 무너지지 않게 지탱하는 일부로 보게 돼.",
+                          "category":  "Daily life",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about a mature shift in mindset."
+                      },
+                      {
+                          "id":  551,
+                          "english":  "Are you free for dinner this weekend?",
+                          "korean":  "이번 주말에 저녁 시간 괜찮아?",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when making a simple invitation."
+                      },
+                      {
+                          "id":  552,
+                          "english":  "I can stop by for a little while after work.",
+                          "korean":  "퇴근하고 잠깐 들를 수 있어.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when making a casual plan."
+                      },
+                      {
+                          "id":  553,
+                          "english":  "Let\u0027s keep it simple and meet somewhere nearby.",
+                          "korean":  "복잡하게 하지 말고 근처에서 만나자.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when suggesting an easy plan."
+                      },
+                      {
+                          "id":  554,
+                          "english":  "I don\u0027t mind where we go as long as we can actually talk.",
+                          "korean":  "어디를 가든 괜찮은데 제대로 이야기할 수만 있으면 좋겠어.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when the quality of the time matters more than the place."
+                      },
+                      {
+                          "id":  555,
+                          "english":  "It\u0027s easier for me to commit to plans when I know the day won\u0027t be too hectic.",
+                          "korean":  "그날 일정이 너무 빡빡하지 않다는 걸 알면 약속을 잡기가 더 편해.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining how you decide about plans."
+                      },
+                      {
+                          "id":  556,
+                          "english":  "I like plans that leave a little room to be spontaneous instead of being fully mapped out.",
+                          "korean":  "너무 빡빡하게 정해진 약속보다 조금은 즉흥적으로 움직일 수 있는 계획이 좋아.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing your preferred social style."
+                      },
+                      {
+                          "id":  557,
+                          "english":  "The best hangouts are usually the ones that don\u0027t demand too much but still leave you feeling recharged.",
+                          "korean":  "최고의 만남은 보통 큰 에너지를 요구하지 않으면서도 끝나고 나면 오히려 충전된 느낌이 드는 자리야.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on what makes good time together."
+                      },
+                      {
+                          "id":  558,
+                          "english":  "I enjoy seeing people more when it feels like we\u0027re choosing the moment, not just filling a slot in the calendar.",
+                          "korean":  "단순히 빈 시간을 채우는 게 아니라 진짜 그 순간을 고른 느낌일 때 사람 만나는 게 더 좋아.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about intentional plans."
+                      },
+                      {
+                          "id":  559,
+                          "english":  "Sometimes a low-key dinner tells me more about a friendship than any big event ever could.",
+                          "korean":  "조용한 저녁 한 끼가 때로는 어떤 큰 행사보다도 관계에 대해 더 많은 걸 말해 주기도 해.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on meaningful time with people."
+                      },
+                      {
+                          "id":  560,
+                          "english":  "I used to say yes to every invitation, but now I care more about whether I\u0027ll be fully present when I show up.",
+                          "korean":  "예전에는 모든 약속에 다 응했는데 이제는 가서 내가 정말 온전히 함께할 수 있는지가 더 중요해.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about boundaries and presence."
+                      },
+                      {
+                          "id":  561,
+                          "english":  "How have you been lately?",
+                          "korean":  "요즘 어떻게 지냈어?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when opening a casual conversation."
+                      },
+                      {
+                          "id":  562,
+                          "english":  "It\u0027s been a while since we last talked.",
+                          "korean":  "우리 마지막으로 이야기한 지 꽤 됐네.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when reconnecting with someone."
+                      },
+                      {
+                          "id":  563,
+                          "english":  "I was just thinking about you the other day.",
+                          "korean":  "며칠 전에 문득 네 생각이 났어.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when starting a warm check-in."
+                      },
+                      {
+                          "id":  564,
+                          "english":  "I wasn\u0027t sure whether to message you, but I\u0027m glad I did.",
+                          "korean":  "연락해도 될지 잠깐 고민했는데 하길 잘한 것 같아.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reaching out after some hesitation."
+                      },
+                      {
+                          "id":  565,
+                          "english":  "Sometimes I don\u0027t have big news, but I still want to stay connected.",
+                          "korean":  "특별한 소식은 없어도 계속 연결돼 있고 싶을 때가 있어.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining why you reached out."
+                      },
+                      {
+                          "id":  566,
+                          "english":  "It\u0027s nice talking to someone who already understands the context without much explanation.",
+                          "korean":  "많이 설명하지 않아도 맥락을 알아주는 사람과 이야기하니 좋다.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when appreciating an easy connection."
+                      },
+                      {
+                          "id":  567,
+                          "english":  "Catching up reminds me how much can change quietly in the background without us noticing right away.",
+                          "korean":  "안부를 나누다 보면 우리가 바로 알아차리지 못한 사이에도 얼마나 많은 게 조용히 바뀌는지 느끼게 돼.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting during a reconnection."
+                      },
+                      {
+                          "id":  568,
+                          "english":  "Some conversations don\u0027t solve anything, but they still leave you feeling steadier afterward.",
+                          "korean":  "어떤 대화는 문제를 해결해 주진 않아도 끝나고 나면 훨씬 안정된 느낌을 남겨 줘.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about emotional support."
+                      },
+                      {
+                          "id":  569,
+                          "english":  "I value conversations that can hold both ordinary updates and the things we\u0027re not quite ready to say directly.",
+                          "korean":  "평범한 근황과 아직 직접적으로 말할 준비가 안 된 이야기 둘 다 담을 수 있는 대화를 나는 소중하게 생각해.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about depth in communication."
+                      },
+                      {
+                          "id":  570,
+                          "english":  "Staying in touch matters more to me now that I\u0027ve realized how easily good relationships drift without intention.",
+                          "korean":  "좋은 관계도 의식하지 않으면 쉽게 멀어진다는 걸 알고 난 뒤로는 계속 연락을 주고받는 일이 더 중요해졌어.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on maintaining relationships."
+                      },
+                      {
+                          "id":  571,
+                          "english":  "Can we talk about this tomorrow instead?",
+                          "korean":  "이 얘기는 내일 하는 걸로 할까?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when postponing a discussion simply."
+                      },
+                      {
+                          "id":  572,
+                          "english":  "I need a little more time to think about it.",
+                          "korean":  "이건 조금 더 생각할 시간이 필요해.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when you don\u0027t want to answer immediately."
+                      },
+                      {
+                          "id":  573,
+                          "english":  "Let\u0027s decide after we check everyone\u0027s schedule.",
+                          "korean":  "다들 일정 확인한 다음에 결정하자.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when a decision depends on others."
+                      },
+                      {
+                          "id":  574,
+                          "english":  "I don\u0027t want to rush the answer and end up saying something incomplete.",
+                          "korean":  "서둘러 답했다가 제대로 정리되지 않은 말을 하고 싶진 않아.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking for time thoughtfully."
+                      },
+                      {
+                          "id":  575,
+                          "english":  "We should probably revisit this once we have a clearer picture.",
+                          "korean":  "상황이 좀 더 분명해지면 이걸 다시 이야기해 보는 게 좋을 것 같아.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to delay without dismissing the issue."
+                      },
+                      {
+                          "id":  576,
+                          "english":  "If we keep trying to decide too early, we\u0027ll just keep changing our minds later.",
+                          "korean":  "너무 이르게 결정하려고 하면 나중에 계속 다시 바꾸게 될 거야.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when warning against premature decisions."
+                      },
+                      {
+                          "id":  577,
+                          "english":  "A delayed decision is frustrating, but sometimes it\u0027s still better than a rushed one built on partial information.",
+                          "korean":  "결정이 늦어지는 건 답답하지만, 불완전한 정보로 서두른 결정하는 것보다는 나을 때가 있어.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when defending the value of waiting."
+                      },
+                      {
+                          "id":  578,
+                          "english":  "I\u0027m not avoiding the conversation; I just want to come back to it with a clearer head.",
+                          "korean":  "대화를 피하려는 게 아니라 좀 더 정리된 상태로 다시 이야기하고 싶을 뿐이야.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when setting a thoughtful boundary."
+                      },
+                      {
+                          "id":  579,
+                          "english":  "Timing changes the quality of a conversation more than people usually admit.",
+                          "korean":  "대화의 질은 사람들이 생각하는 것보다 타이밍에 더 크게 좌우돼.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining why now may not be the best time."
+                      },
+                      {
+                          "id":  580,
+                          "english":  "Sometimes giving an issue one more night creates the distance needed to see it more honestly.",
+                          "korean":  "문제를 하룻밤 더 두는 것만으로도 더 솔직하게 볼 수 있는 거리가 생길 때가 있어.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on delayed clarity."
+                      },
+                      {
+                          "id":  581,
+                          "english":  "Which bus goes to the station?",
+                          "korean":  "어떤 버스를 타야 역으로 가?",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when asking for a simple direction."
+                      },
+                      {
+                          "id":  582,
+                          "english":  "I think we got off one stop too early.",
+                          "korean":  "우리 한 정거장 먼저 내린 것 같아.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you think you made a small transit mistake."
+                      },
+                      {
+                          "id":  583,
+                          "english":  "The station is closer than I expected.",
+                          "korean":  "역이 생각보다 더 가깝네.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when the destination is nearby."
+                      },
+                      {
+                          "id":  584,
+                          "english":  "The route is simple once you know where to transfer.",
+                          "korean":  "어디서 갈아타는지만 알면 경로는 간단해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining transit to someone."
+                      },
+                      {
+                          "id":  585,
+                          "english":  "Traffic was heavier than usual, so the whole commute took longer.",
+                          "korean":  "평소보다 차가 막혀서 이동 시간이 전체적으로 더 길어졌어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining an unexpected delay."
+                      },
+                      {
+                          "id":  586,
+                          "english":  "I don\u0027t mind a longer commute if I can actually sit down and think for a while.",
+                          "korean":  "앉아서 잠깐 생각할 수만 있다면 이동 시간이 좀 길어도 괜찮아.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when sharing a more reflective view of commuting."
+                      },
+                      {
+                          "id":  587,
+                          "english":  "Commuting feels much shorter when I know exactly where I\u0027m going and what I\u0027m doing once I get there.",
+                          "korean":  "어디로 가는지, 도착해서 뭘 할지 분명할 때는 이동 시간도 훨씬 짧게 느껴져.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about the psychology of travel."
+                      },
+                      {
+                          "id":  588,
+                          "english":  "The most stressful part of commuting isn\u0027t the distance but the uncertainty between each step.",
+                          "korean":  "출퇴근이나 이동에서 가장 스트레스인 건 거리가 아니라 다음 단계가 얼마나 불확실한지인 것 같아.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on what makes travel tiring."
+                      },
+                      {
+                          "id":  589,
+                          "english":  "Once a route becomes familiar, you stop noticing how many tiny decisions it used to require.",
+                          "korean":  "길이 익숙해지고 나면 예전에는 얼마나 많은 작은 결정을 해야 했는지조차 잊게 돼.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about habit and navigation."
+                      },
+                      {
+                          "id":  590,
+                          "english":  "I always feel calmer once I\u0027ve made the first transfer and know the rest of the trip will unfold predictably.",
+                          "korean":  "첫 번째 환승만 무사히 끝나면 나머지 이동은 예상대로 흘러갈 거라는 생각에 훨씬 마음이 놓여.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing the moment uncertainty fades."
+                      },
+                      {
+                          "id":  591,
+                          "english":  "What time is the flight tomorrow?",
+                          "korean":  "내일 비행기 몇 시야?",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when checking a basic travel detail."
+                      },
+                      {
+                          "id":  592,
+                          "english":  "I need to confirm the hotel reservation tonight.",
+                          "korean":  "오늘 밤에 호텔 예약을 다시 확인해야 해.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when planning a trip."
+                      },
+                      {
+                          "id":  593,
+                          "english":  "I packed most of what I need already.",
+                          "korean":  "필요한 건 거의 다 챙겨 뒀어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you\u0027re almost ready to go."
+                      },
+                      {
+                          "id":  594,
+                          "english":  "I always feel better once the booking details are in one place.",
+                          "korean":  "예약 정보가 한곳에 정리돼 있으면 마음이 훨씬 편해져.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about travel preparation."
+                      },
+                      {
+                          "id":  595,
+                          "english":  "The hotel looked great in the photos, but I want to keep my expectations realistic.",
+                          "korean":  "호텔 사진은 정말 좋아 보였지만 기대는 조금 현실적으로 하려고 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when balancing excitement with caution."
+                      },
+                      {
+                          "id":  596,
+                          "english":  "Travel goes more smoothly when I leave room for small delays instead of planning everything too tightly.",
+                          "korean":  "모든 걸 너무 빡빡하게 짜기보다는 작은 지연을 감안해 두는 편이 여행이 더 부드럽게 흘러가.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about travel planning style."
+                      },
+                      {
+                          "id":  597,
+                          "english":  "I don\u0027t get anxious about the flight itself as much as the chain of little things around it.",
+                          "korean":  "비행 자체보다 그 전후에 딸려 있는 자잘한 일들이 더 긴장돼.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what travel stress actually feels like."
+                      },
+                      {
+                          "id":  598,
+                          "english":  "The trip feels real only after the reservation is confirmed and the dates stop feeling hypothetical.",
+                          "korean":  "예약이 확정되고 날짜가 더 이상 가정처럼 느껴지지 않을 때 비로소 여행이 진짜처럼 느껴져.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing the moment plans become real."
+                      },
+                      {
+                          "id":  599,
+                          "english":  "Part of traveling well is accepting that not everything needs to go exactly as imagined.",
+                          "korean":  "여행을 잘한다는 건 모든 일이 상상한 그대로 흘러갈 필요는 없다는 걸 받아들이는 일인 것 같아.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about flexibility."
+                      },
+                      {
+                          "id":  600,
+                          "english":  "I prepare carefully not because I expect problems, but because I want to stay calm if they happen.",
+                          "korean":  "문제가 생길 거라고 생각해서가 아니라, 생겼을 때 침착하고 싶어서 꼼꼼히 준비하는 거야.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining the purpose of preparation."
+                      },
+                      {
+                          "id":  601,
+                          "english":  "Can you send me the latest version?",
+                          "korean":  "최신 버전 보내줄 수 있어?",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when asking for the current file or update."
+                      },
+                      {
+                          "id":  602,
+                          "english":  "I need to finish this before lunch.",
+                          "korean":  "점심 전에 이걸 끝내야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a near-term deadline."
+                      },
+                      {
+                          "id":  603,
+                          "english":  "Let\u0027s check the numbers one more time.",
+                          "korean":  "숫자를 한 번만 더 확인하자.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when doing a simple double-check."
+                      },
+                      {
+                          "id":  604,
+                          "english":  "I want to make sure we\u0027re all working from the same file.",
+                          "korean":  "다들 같은 파일을 기준으로 작업하고 있는지 확인하고 싶어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when coordinating a team."
+                      },
+                      {
+                          "id":  605,
+                          "english":  "This part is mostly done, but it still needs a quick review.",
+                          "korean":  "이 부분은 거의 끝났지만 간단한 검토는 아직 필요해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reporting partial completion."
+                      },
+                      {
+                          "id":  606,
+                          "english":  "The task is straightforward, but the timing is tighter than I expected.",
+                          "korean":  "일 자체는 단순한데 일정이 생각보다 더 촉박해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when balancing task difficulty and time pressure."
+                      },
+                      {
+                          "id":  607,
+                          "english":  "I don\u0027t want to call it finished until we\u0027ve checked whether the result actually matches the goal.",
+                          "korean":  "결과가 목표와 정말 맞는지 확인하기 전에는 끝났다고 말하고 싶지 않아.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when emphasizing standards over speed."
+                      },
+                      {
+                          "id":  608,
+                          "english":  "We\u0027re moving quickly, which is helpful, but it also means small mistakes could spread before we notice them.",
+                          "korean":  "진행 속도가 빠른 건 좋지만 그만큼 작은 실수도 알아차리기 전에 퍼질 수 있어.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when flagging risks during fast work."
+                      },
+                      {
+                          "id":  609,
+                          "english":  "A task can look complete from the outside and still hide a lot of unresolved decisions underneath.",
+                          "korean":  "겉으로 보기엔 끝난 일처럼 보여도 안쪽에는 아직 정리되지 않은 판단들이 많이 남아 있을 수 있어.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about hidden complexity."
+                      },
+                      {
+                          "id":  610,
+                          "english":  "The more people involved, the more important it becomes to make assumptions visible instead of leaving them implied.",
+                          "korean":  "관련된 사람이 많아질수록 암묵적으로 넘기지 말고 전제를 눈에 보이게 만드는 일이 중요해져.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about communication in collaborative work."
+                      },
+                      {
+                          "id":  611,
+                          "english":  "I\u0027ll send the update this afternoon.",
+                          "korean":  "오늘 오후에 업데이트 보내드릴게요.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when promising a simple follow-up."
+                      },
+                      {
+                          "id":  612,
+                          "english":  "I finished the first part already.",
+                          "korean":  "첫 번째 부분은 이미 끝냈어요.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when reporting clear progress."
+                      },
+                      {
+                          "id":  613,
+                          "english":  "We may need a little more time for the rest.",
+                          "korean":  "나머지 부분은 시간이 조금 더 필요할 수도 있어요.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when setting simple expectations."
+                      },
+                      {
+                          "id":  614,
+                          "english":  "Most of the work is on track, but one section is taking longer than planned.",
+                          "korean":  "대부분은 일정대로 가고 있는데 한 섹션만 예상보다 오래 걸리고 있어요.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when giving a balanced status update."
+                      },
+                      {
+                          "id":  615,
+                          "english":  "I can share a rough version now if that helps the team move forward.",
+                          "korean":  "팀이 앞으로 나아가는 데 도움이 된다면 지금 초안 수준이라도 공유할 수 있어요.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when offering partial progress helpfully."
+                      },
+                      {
+                          "id":  616,
+                          "english":  "The update is less dramatic than it looks; we mostly spent time reducing future confusion.",
+                          "korean":  "이번 업데이트는 겉보기만큼 큰 변화라기보다 앞으로의 혼선을 줄이는 데 시간을 많이 썼어요.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining less-visible progress."
+                      },
+                      {
+                          "id":  617,
+                          "english":  "Progress has been steady, but I\u0027m still watching for anything that might create rework later.",
+                          "korean":  "진행은 꾸준했지만 나중에 다시 손봐야 할 일을 만들 만한 요소는 계속 보고 있어요.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a careful, realistic update."
+                      },
+                      {
+                          "id":  618,
+                          "english":  "The main challenge isn\u0027t finishing the work itself but making sure the next person can build on it smoothly.",
+                          "korean":  "가장 큰 과제는 일을 끝내는 것 자체보다 다음 사람이 자연스럽게 이어받을 수 있게 만드는 거예요.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when focusing on handoff quality."
+                      },
+                      {
+                          "id":  619,
+                          "english":  "A clean update matters because it shapes how confidently everyone else can make their next decision.",
+                          "korean":  "명확한 업데이트는 다른 사람들이 다음 결정을 얼마나 자신 있게 내릴 수 있는지에 영향을 줘요.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining why reporting matters."
+                      },
+                      {
+                          "id":  620,
+                          "english":  "I\u0027ve learned that a responsible status update includes not only what changed, but also what remains uncertain.",
+                          "korean":  "책임 있는 진행 공유에는 바뀐 것뿐 아니라 아직 불확실한 부분도 함께 담겨야 한다는 걸 배웠어요.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing mature communication at work."
+                      },
+                      {
+                          "id":  621,
+                          "english":  "Do we need another meeting for this?",
+                          "korean":  "이거 때문에 회의를 한 번 더 해야 할까?",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when checking whether more discussion is needed."
+                      },
+                      {
+                          "id":  622,
+                          "english":  "I wrote down the main points from the meeting.",
+                          "korean":  "회의 주요 내용을 적어 뒀어.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about simple note-taking."
+                      },
+                      {
+                          "id":  623,
+                          "english":  "Let\u0027s decide the next step before we leave.",
+                          "korean":  "가기 전에 다음 단계를 정하자.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when keeping a meeting practical."
+                      },
+                      {
+                          "id":  624,
+                          "english":  "The discussion was useful, but I think we still need a clearer owner for the next step.",
+                          "korean":  "논의는 유익했지만 다음 단계의 담당자는 더 명확히 정해야 할 것 같아.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when pointing out what is still missing."
+                      },
+                      {
+                          "id":  625,
+                          "english":  "I don\u0027t mind more discussion, as long as it leads to a concrete decision.",
+                          "korean":  "논의가 더 길어져도 괜찮은데 결국 구체적인 결정으로 이어지기만 하면 돼.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when balancing patience with practicality."
+                      },
+                      {
+                          "id":  626,
+                          "english":  "Meetings feel more productive when everyone understands what kind of decision is actually being asked for.",
+                          "korean":  "회의는 지금 어떤 종류의 결정을 해야 하는지 모두가 이해할 때 더 생산적으로 느껴져.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about meeting clarity."
+                      },
+                      {
+                          "id":  627,
+                          "english":  "The conversation was thoughtful, but it kept circling the issue instead of resolving the tradeoff at the center of it.",
+                          "korean":  "대화는 깊이 있었지만 핵심 쟁점을 정리하기보다 주변을 맴도는 느낌이었어.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when evaluating a discussion honestly."
+                      },
+                      {
+                          "id":  628,
+                          "english":  "A meeting can be calm and respectful while still avoiding the one question that actually matters.",
+                          "korean":  "회의가 차분하고 존중하는 분위기라고 해서 정말 중요한 질문을 다루고 있다는 뜻은 아니야.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on unspoken avoidance."
+                      },
+                      {
+                          "id":  629,
+                          "english":  "What makes a decision difficult isn\u0027t always complexity; sometimes it\u0027s the cost of choosing one priority over another.",
+                          "korean":  "결정을 어렵게 만드는 건 언제나 복잡성만이 아니라 한 우선순위를 택하면서 다른 걸 포기해야 하는 대가일 때도 있어.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when discussing tradeoffs."
+                      },
+                      {
+                          "id":  630,
+                          "english":  "The most useful meetings are the ones that leave less ambiguity, not just more shared airtime.",
+                          "korean":  "가장 유용한 회의는 모두가 말을 많이 한 회의가 아니라 애매함을 덜 남기는 회의야.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on meeting quality."
+                      },
+                      {
+                          "id":  631,
+                          "english":  "Can you take a quick look at these slides?",
+                          "korean":  "이 슬라이드들 잠깐 봐줄 수 있어?",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when asking for simple feedback."
+                      },
+                      {
+                          "id":  632,
+                          "english":  "I need to practice the presentation once more.",
+                          "korean":  "발표를 한 번 더 연습해야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when getting ready to present."
+                      },
+                      {
+                          "id":  633,
+                          "english":  "The opening feels a little too long.",
+                          "korean":  "도입부가 조금 긴 것 같아.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when noticing a basic presentation issue."
+                      },
+                      {
+                          "id":  634,
+                          "english":  "I think the presentation will work better if we simplify the first section.",
+                          "korean":  "첫 부분을 단순하게 만들면 발표가 더 잘 흘러갈 것 같아.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when suggesting a practical improvement."
+                      },
+                      {
+                          "id":  635,
+                          "english":  "The feedback was helpful because it showed me where the audience might lose the thread.",
+                          "korean":  "어느 부분에서 청중이 흐름을 놓칠 수 있는지 보여 줘서 피드백이 도움이 됐어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining what made feedback useful."
+                      },
+                      {
+                          "id":  636,
+                          "english":  "The slides look polished, but I still want the spoken explanation to feel more natural.",
+                          "korean":  "슬라이드는 잘 다듬어졌지만 말로 설명하는 흐름은 더 자연스러웠으면 해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when distinguishing design from delivery."
+                      },
+                      {
+                          "id":  637,
+                          "english":  "A presentation becomes persuasive when the structure quietly guides the audience before they even notice it.",
+                          "korean":  "발표는 구조가 청중을 눈치채지 못할 정도로 자연스럽게 이끌 때 더 설득력을 갖게 돼.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about high-level presentation quality."
+                      },
+                      {
+                          "id":  638,
+                          "english":  "Good feedback doesn\u0027t just point out what feels weak; it reveals why the message isn\u0027t landing yet.",
+                          "korean":  "좋은 피드백은 약한 부분만 지적하는 게 아니라 왜 메시지가 아직 제대로 닿지 않는지도 보여 줘.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on valuable critique."
+                      },
+                      {
+                          "id":  639,
+                          "english":  "What I\u0027m revising now isn\u0027t the information itself but the order that allows it to feel inevitable.",
+                          "korean":  "지금 내가 고치는 건 정보 자체가 아니라 그 정보가 자연스럽고 필연적으로 느껴지게 만드는 순서야.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about refinement in communication."
+                      },
+                      {
+                          "id":  640,
+                          "english":  "The strongest presentations usually feel simple only because someone spent a long time removing what was unnecessary.",
+                          "korean":  "가장 강한 발표가 단순해 보이는 건 누군가가 불필요한 걸 없애는 데 오랜 시간을 들였기 때문인 경우가 많아.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about the hidden work behind clarity."
+                      },
+                      {
+                          "id":  641,
+                          "english":  "I\u0027m reviewing grammar rules again today.",
+                          "korean":  "오늘도 문법 규칙을 다시 보고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing simple study practice."
+                      },
+                      {
+                          "id":  642,
+                          "english":  "I wrote down a few new words from the lesson.",
+                          "korean":  "수업에서 새 단어 몇 개를 적어 뒀어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a basic learning habit."
+                      },
+                      {
+                          "id":  643,
+                          "english":  "This part is easier when I practice it out loud.",
+                          "korean":  "이 부분은 소리 내서 연습하면 더 쉬워.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing what helps you learn."
+                      },
+                      {
+                          "id":  644,
+                          "english":  "I understand the rule better when I compare it with a sentence I already know.",
+                          "korean":  "이미 아는 문장과 비교해 보면 그 규칙이 더 잘 이해돼.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about study strategies."
+                      },
+                      {
+                          "id":  645,
+                          "english":  "Memorizing is useful at first, but I learn faster once I can see the pattern underneath.",
+                          "korean":  "처음엔 외우는 것도 도움이 되지만 그 아래 패턴이 보이기 시작하면 더 빨리 배워.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing a deeper level of understanding."
+                      },
+                      {
+                          "id":  646,
+                          "english":  "The lesson felt easier after I stopped trying to get everything perfect on the first try.",
+                          "korean":  "처음부터 완벽하게 하려는 걸 멈추고 나니 수업이 훨씬 쉬워졌어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reflecting on learning mindset."
+                      },
+                      {
+                          "id":  647,
+                          "english":  "Studying gets more interesting once I stop treating mistakes as proof that I\u0027m not good at it.",
+                          "korean":  "실수를 못한다는 증거처럼 여기지 않게 되면서부터 공부가 더 흥미로워졌어.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on a healthier learning mindset."
+                      },
+                      {
+                          "id":  648,
+                          "english":  "What I need isn\u0027t just more repetition, but a better sense of why the rule changes in different contexts.",
+                          "korean":  "내게 필요한 건 단순 반복이 아니라 왜 규칙이 문맥에 따라 달라지는지에 대한 더 나은 감각이야.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about deeper understanding."
+                      },
+                      {
+                          "id":  649,
+                          "english":  "The hardest part of studying is often not the material itself but the patience required to stay with confusion.",
+                          "korean":  "공부에서 가장 어려운 건 내용 자체보다 헷갈리는 상태를 견디는 인내심일 때가 많아.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on what learning really demands."
+                      },
+                      {
+                          "id":  650,
+                          "english":  "Real progress in learning is easy to miss because it often looks like slower, more careful thinking rather than sudden confidence.",
+                          "korean":  "배움의 진짜 진전은 갑작스러운 자신감보다 더 천천하고 신중한 사고처럼 보여서 놓치기 쉬워.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about the nature of progress."
+                      },
+                      {
+                          "id":  651,
+                          "english":  "I need to finish this chapter tonight.",
+                          "korean":  "오늘 밤에 이 챕터를 끝내야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a short-term study goal."
+                      },
+                      {
+                          "id":  652,
+                          "english":  "I highlighted the parts I want to review later.",
+                          "korean":  "나중에 다시 볼 부분들에 형광펜 표시를 해 뒀어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing a simple reading habit."
+                      },
+                      {
+                          "id":  653,
+                          "english":  "The article was easier once I looked up a few words.",
+                          "korean":  "몇 단어만 찾아보니까 글이 훨씬 쉬워졌어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when reading becomes easier with support."
+                      },
+                      {
+                          "id":  654,
+                          "english":  "Taking notes helps me stay engaged when the reading is dense.",
+                          "korean":  "내용이 빽빽할 때는 필기를 해야 집중이 유지돼.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing how you handle difficult reading."
+                      },
+                      {
+                          "id":  655,
+                          "english":  "I remember more from a chapter when I summarize it in my own words right away.",
+                          "korean":  "챕터를 바로 내 말로 정리하면 기억에 훨씬 오래 남아.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about effective review."
+                      },
+                      {
+                          "id":  656,
+                          "english":  "Some passages only become clear after I stop reading for answers and start reading for structure.",
+                          "korean":  "어떤 지문은 답을 찾으려는 마음을 내려놓고 구조를 보기 시작해야 비로소 분명해져.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when your reading strategy shifts."
+                      },
+                      {
+                          "id":  657,
+                          "english":  "The article wasn\u0027t difficult because of the vocabulary alone; it was difficult because every paragraph quietly shifted the argument.",
+                          "korean":  "그 글이 어려웠던 건 단어 때문만이 아니라 문단마다 논지의 방향이 미묘하게 달라졌기 때문이야.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining why a text felt challenging."
+                      },
+                      {
+                          "id":  658,
+                          "english":  "Good notes don\u0027t just repeat the text; they capture what changed in my understanding while I was reading it.",
+                          "korean":  "좋은 필기는 본문을 그대로 옮기는 게 아니라 읽는 동안 내 이해가 어떻게 바뀌었는지를 남겨 줘.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on what makes notes valuable."
+                      },
+                      {
+                          "id":  659,
+                          "english":  "Rereading becomes useful once I\u0027m paying attention to how the writer builds pressure rather than just what they state.",
+                          "korean":  "다시 읽기는 글쓴이가 무엇을 말했는지만이 아니라 어떻게 논리를 쌓아 가는지를 볼 때 훨씬 유용해져.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reading more analytically."
+                      },
+                      {
+                          "id":  660,
+                          "english":  "The more carefully I read, the more I notice that confusion often comes from what the text assumes rather than what it explains.",
+                          "korean":  "주의 깊게 읽을수록 헷갈림은 설명된 내용보다 당연하게 전제된 부분에서 오는 경우가 많다는 걸 느껴.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on hidden complexity in texts."
+                      },
+                      {
+                          "id":  661,
+                          "english":  "I listened to the audio twice.",
+                          "korean":  "오디오를 두 번 들었어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about basic listening practice."
+                      },
+                      {
+                          "id":  662,
+                          "english":  "Some words were hard to catch the first time.",
+                          "korean":  "몇 단어는 처음 들었을 때 잘 안 들렸어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing a simple listening challenge."
+                      },
+                      {
+                          "id":  663,
+                          "english":  "It helps when I read the transcript after listening.",
+                          "korean":  "듣고 나서 대본을 보면 훨씬 도움이 돼.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a helpful study method."
+                      },
+                      {
+                          "id":  664,
+                          "english":  "I understand more when I focus on the overall meaning instead of every single word.",
+                          "korean":  "단어 하나하나보다 전체 의미에 집중하면 더 많이 이해하게 돼.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing a better listening strategy."
+                      },
+                      {
+                          "id":  665,
+                          "english":  "Repeating short clips makes it easier to notice rhythm and stress.",
+                          "korean":  "짧은 클립을 반복해서 들으면 리듬과 강세가 더 잘 들려.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when practicing listening or speaking."
+                      },
+                      {
+                          "id":  666,
+                          "english":  "Speaking practice feels less intimidating when I aim for clarity before speed.",
+                          "korean":  "말하기 연습은 속도보다 명확함에 먼저 집중하면 덜 부담스러워.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining your approach to speaking."
+                      },
+                      {
+                          "id":  667,
+                          "english":  "Listening becomes much harder when I can hear the words but can\u0027t process them quickly enough in real time.",
+                          "korean":  "단어는 들리는데 실시간으로 처리 속도가 따라가지 못하면 리스닝이 훨씬 어려워져.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing a subtle listening challenge."
+                      },
+                      {
+                          "id":  668,
+                          "english":  "What improves my speaking most is not confidence alone, but repetition with enough feedback to notice what I\u0027m missing.",
+                          "korean":  "내 말하기를 가장 크게 향상시키는 건 단순한 자신감이 아니라 무엇을 놓치고 있는지 알아차릴 만큼의 피드백이 있는 반복이야.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about deliberate practice."
+                      },
+                      {
+                          "id":  669,
+                          "english":  "The gap between understanding and producing a language is frustrating precisely because it feels so close.",
+                          "korean":  "언어를 이해하는 것과 실제로 말로 꺼내는 것 사이의 차이는 거의 될 것 같아서 더 답답해.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on language learning frustration."
+                      },
+                      {
+                          "id":  670,
+                          "english":  "Progress in listening and speaking is gradual enough that I have to notice it indirectly through what feels less exhausting than before.",
+                          "korean":  "듣기와 말하기의 진전은 너무 서서히 일어나서 예전보다 덜 지치는 부분을 통해 간접적으로 알아차려야 할 때가 많아.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on subtle progress."
+                      },
+                      {
+                          "id":  671,
+                          "english":  "I think small habits matter more than motivation.",
+                          "korean":  "동기보다 작은 습관이 더 중요하다고 생각해.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when sharing a simple belief."
+                      },
+                      {
+                          "id":  672,
+                          "english":  "It feels good to make progress, even if it\u0027s slow.",
+                          "korean":  "느리더라도 진전이 있다는 건 기분 좋은 일이야.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when sharing a simple positive view."
+                      },
+                      {
+                          "id":  673,
+                          "english":  "I\u0027m trying to be more consistent this month.",
+                          "korean":  "이번 달에는 더 꾸준해지려고 노력 중이야.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about personal goals."
+                      },
+                      {
+                          "id":  674,
+                          "english":  "Motivation comes and goes, so I trust routines more than moods.",
+                          "korean":  "동기는 왔다 갔다 하니까 나는 기분보다 루틴을 더 믿는 편이야.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when sharing a more considered opinion."
+                      },
+                      {
+                          "id":  675,
+                          "english":  "Consistency feels boring in the moment, but it creates results that emotion alone usually can\u0027t.",
+                          "korean":  "꾸준함은 순간순간 지루하게 느껴질 수 있지만 감정만으로는 만들기 어려운 결과를 만들어 줘.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when comparing discipline and emotion."
+                      },
+                      {
+                          "id":  676,
+                          "english":  "I\u0027ve learned that progress becomes visible only after you keep going past the point where it still feels insignificant.",
+                          "korean":  "진전은 아직 별것 아닌 것처럼 느껴지는 지점을 지나서도 계속해야 비로소 눈에 보인다는 걸 배웠어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reflecting on persistence."
+                      },
+                      {
+                          "id":  677,
+                          "english":  "A sustainable habit isn\u0027t the one that looks impressive for a week; it\u0027s the one that survives an ordinary Tuesday.",
+                          "korean":  "지속 가능한 습관은 일주일 동안 대단해 보이는 게 아니라 평범한 화요일에도 살아남는 습관이야.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when defining sustainability in a memorable way."
+                      },
+                      {
+                          "id":  678,
+                          "english":  "I trust progress more when it grows quietly in the background than when it arrives with a burst of enthusiasm.",
+                          "korean":  "열정이 폭발하듯 오는 변화보다 조용히 배경에서 쌓이는 진전을 나는 더 믿게 돼.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when comparing flashy motivation and steady effort."
+                      },
+                      {
+                          "id":  679,
+                          "english":  "People often talk about discipline as if it\u0027s harsh, but for me it feels more like a way of reducing friction.",
+                          "korean":  "사람들은 규율을 엄격한 걸로 말하곤 하지만 나에게는 오히려 마찰을 줄이는 방식에 더 가까워.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when reframing discipline."
+                      },
+                      {
+                          "id":  680,
+                          "english":  "The hardest part of building habits isn\u0027t knowing what to do; it\u0027s tolerating how unremarkable the process feels at first.",
+                          "korean":  "습관을 만드는 데서 가장 어려운 건 무엇을 해야 하는지 모르는 게 아니라 초반 과정이 얼마나 평범하게 느껴지는지를 견디는 일이야.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on why habits are hard to sustain."
+                      },
+                      {
+                          "id":  681,
+                          "english":  "I like using apps that make things simpler.",
+                          "korean":  "일을 더 단순하게 만들어 주는 앱을 좋아해.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when sharing a basic preference."
+                      },
+                      {
+                          "id":  682,
+                          "english":  "Too many notifications make it hard for me to focus.",
+                          "korean":  "알림이 너무 많으면 집중하기 어려워.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a simple annoyance."
+                      },
+                      {
+                          "id":  683,
+                          "english":  "I prefer tools that are easy to use right away.",
+                          "korean":  "나는 바로 쉽게 쓸 수 있는 도구를 선호해.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about usability."
+                      },
+                      {
+                          "id":  684,
+                          "english":  "Technology is helpful when it removes friction instead of creating more decisions.",
+                          "korean":  "기술은 결정을 더 늘리는 대신 마찰을 줄여 줄 때 유용해.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when sharing a more thoughtful opinion about tools."
+                      },
+                      {
+                          "id":  685,
+                          "english":  "A clean interface matters because it affects how willing I am to return to something every day.",
+                          "korean":  "깔끔한 인터페이스는 매일 다시 돌아오고 싶은 마음에 영향을 주기 때문에 중요해.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about design from a user\u0027s perspective."
+                      },
+                      {
+                          "id":  686,
+                          "english":  "The best tools don\u0027t demand constant attention; they quietly support what you\u0027re already trying to do.",
+                          "korean":  "최고의 도구는 계속 관심을 요구하지 않고 이미 하려던 일을 조용히 뒷받침해 줘.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing what makes a product useful."
+                      },
+                      {
+                          "id":  687,
+                          "english":  "Convenience becomes powerful when it protects attention rather than simply speeding up more activity.",
+                          "korean":  "편리함은 단순히 더 많은 일을 빠르게 하게 만드는 게 아니라 주의를 지켜 줄 때 더 강력해져.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on the real value of convenience."
+                      },
+                      {
+                          "id":  688,
+                          "english":  "A product can be full of features and still feel poorly designed if it constantly interrupts the user\u0027s intention.",
+                          "korean":  "기능이 많아도 사용자의 의도를 계속 끊는다면 잘 설계된 제품이라고 느껴지지 않아.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when critiquing design philosophy."
+                      },
+                      {
+                          "id":  689,
+                          "english":  "I trust tools more when they make my behavior easier to understand instead of merely trying to capture more time from me.",
+                          "korean":  "내 시간을 더 오래 붙잡으려 하기보다 내 행동을 더 잘 이해하게 해 주는 도구를 나는 더 신뢰해.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when comparing support and attention capture."
+                      },
+                      {
+                          "id":  690,
+                          "english":  "Good design often feels invisible because it lets the user stay focused on the purpose rather than the product itself.",
+                          "korean":  "좋은 디자인은 사용자가 제품 자체보다 목적에 집중하게 만들어서 오히려 잘 보이지 않는 경우가 많아.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on subtle design quality."
+                      },
+                      {
+                          "id":  691,
+                          "english":  "It was nice seeing everyone again.",
+                          "korean":  "다시 다 같이 보니까 좋았어.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking after a gathering."
+                      },
+                      {
+                          "id":  692,
+                          "english":  "We should do this again sometime.",
+                          "korean":  "우리 다음에 또 이런 시간 가지자.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when ending a casual gathering warmly."
+                      },
+                      {
+                          "id":  693,
+                          "english":  "I\u0027m glad I decided to come.",
+                          "korean":  "오길 잘한 것 같아.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when a plan turned out well."
+                      },
+                      {
+                          "id":  694,
+                          "english":  "I almost canceled, but I\u0027m happy I made the effort.",
+                          "korean":  "거의 취소할 뻔했는데 그래도 나오길 잘했어.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a plan felt worth the effort."
+                      },
+                      {
+                          "id":  695,
+                          "english":  "The best part was how easy the conversation felt once everyone settled in.",
+                          "korean":  "다들 편해지고 나니까 대화가 자연스럽게 이어진 게 가장 좋았어.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reflecting on why a gathering felt good."
+                      },
+                      {
+                          "id":  696,
+                          "english":  "I like plans that feel relaxed enough for people to be more like themselves.",
+                          "korean":  "사람들이 더 자기답게 있을 수 있을 만큼 편안한 약속이 좋아.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing your ideal kind of social time."
+                      },
+                      {
+                          "id":  697,
+                          "english":  "What makes a gathering memorable usually isn\u0027t the event itself, but the feeling people leave with afterward.",
+                          "korean":  "어떤 모임이 기억에 남는 건 보통 행사 자체보다 끝나고 난 뒤 사람들이 안고 가는 분위기 때문이야.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on shared experiences."
+                      },
+                      {
+                          "id":  698,
+                          "english":  "A good social space gives people room to talk without making them feel like they have to perform.",
+                          "korean":  "좋은 모임 분위기는 사람들에게 말할 공간을 주면서도 뭔가 보여 줘야 한다는 부담은 덜어 줘.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about comfortable group settings."
+                      },
+                      {
+                          "id":  699,
+                          "english":  "I\u0027ve started valuing gatherings more when they leave me feeling connected rather than simply entertained.",
+                          "korean":  "단순히 재미있었다기보다 연결된 느낌을 남기는 모임을 더 소중하게 여기게 됐어.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what matters more over time."
+                      },
+                      {
+                          "id":  700,
+                          "english":  "Sometimes the quietest part of an evening tells you the most about how comfortable people really feel together.",
+                          "korean":  "어떤 저녁의 가장 조용한 순간이 오히려 사람들이 얼마나 편한지 가장 잘 보여 줄 때가 있어.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on group dynamics."
+                      },
+                      {
+                          "id":  701,
+                          "english":  "I want to plan one short trip before summer ends.",
+                          "korean":  "여름이 끝나기 전에 짧은 여행 하나는 가고 싶어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when sharing a simple travel wish."
+                      },
+                      {
+                          "id":  702,
+                          "english":  "The photos made the place look quieter than I expected.",
+                          "korean":  "사진으로 보니 그곳이 생각보다 더 한적해 보였어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when reacting to a destination."
+                      },
+                      {
+                          "id":  703,
+                          "english":  "I don\u0027t need a long trip, just a change of scenery.",
+                          "korean":  "긴 여행까지는 아니어도 풍경이 좀 바뀌면 좋겠어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about wanting a short break."
+                      },
+                      {
+                          "id":  704,
+                          "english":  "A short trip feels more manageable when the travel itself isn\u0027t too tiring.",
+                          "korean":  "이동 자체가 너무 힘들지 않을 때 짧은 여행이 훨씬 더 가볍게 느껴져.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing what makes a trip worth it."
+                      },
+                      {
+                          "id":  705,
+                          "english":  "I enjoy travel more when the schedule leaves room to wander a little.",
+                          "korean":  "여행 일정에 조금은 헤맬 여유가 있을 때 더 즐겁더라.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when describing your travel style."
+                      },
+                      {
+                          "id":  706,
+                          "english":  "The places I remember best are usually the ones where I felt less rushed than usual.",
+                          "korean":  "가장 오래 기억에 남는 여행지는 보통 평소보다 덜 쫓기던 곳이야.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when reflecting on memorable travel."
+                      },
+                      {
+                          "id":  707,
+                          "english":  "A good trip doesn\u0027t have to be packed with activities if it gives you enough distance to notice your own thoughts again.",
+                          "korean":  "좋은 여행은 일정이 빼곡하지 않아도 다시 자기 생각을 들여다볼 만큼의 거리를 만들어 주면 충분해.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about the deeper value of travel."
+                      },
+                      {
+                          "id":  708,
+                          "english":  "What I look for in travel now is not constant excitement but a pace that lets my attention settle.",
+                          "korean":  "요즘 여행에서 내가 찾는 건 계속되는 자극이 아니라 내 주의가 가라앉을 수 있는 속도야.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when describing a more mature travel preference."
+                      },
+                      {
+                          "id":  709,
+                          "english":  "The most restorative trips are often the ones that interrupt familiar patterns without overwhelming me with novelty.",
+                          "korean":  "가장 회복되는 여행은 익숙한 패턴은 끊어 주면서도 새로운 자극으로 나를 압도하지는 않는 여행인 것 같아.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on restorative travel."
+                      },
+                      {
+                          "id":  710,
+                          "english":  "Travel feels meaningful to me when I come back with a quieter mind, not just more photos.",
+                          "korean":  "나에게 의미 있는 여행은 사진이 더 많이 남는 여행이 아니라 마음이 더 조용해져서 돌아오는 여행이야.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what travel means to you."
+                      },
+                      {
+                          "id":  711,
+                          "english":  "I want to keep studying even on busy days.",
+                          "korean":  "바쁜 날에도 공부를 계속 이어 가고 싶어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about consistency."
+                      },
+                      {
+                          "id":  712,
+                          "english":  "Ten minutes is better than doing nothing.",
+                          "korean":  "10분이라도 하는 게 아예 안 하는 것보단 나아.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when encouraging small progress."
+                      },
+                      {
+                          "id":  713,
+                          "english":  "I try to review a little every day.",
+                          "korean":  "매일 조금씩이라도 복습하려고 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when describing a simple habit."
+                      },
+                      {
+                          "id":  714,
+                          "english":  "Short study sessions work better for me when my schedule is unpredictable.",
+                          "korean":  "일정이 들쭉날쭉할 때는 짧게 나눠서 공부하는 게 나한테 더 잘 맞아.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining what fits your routine."
+                      },
+                      {
+                          "id":  715,
+                          "english":  "What helps most is lowering the barrier to starting, not raising the pressure to do more.",
+                          "korean":  "가장 도움이 되는 건 더 많이 하라고 압박하는 게 아니라 시작 장벽을 낮추는 거야.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about sustainable study habits."
+                      },
+                      {
+                          "id":  716,
+                          "english":  "I don\u0027t always need a perfect plan; sometimes I just need a reliable next step.",
+                          "korean":  "언제나 완벽한 계획이 필요한 건 아니고 그냥 믿고 따라갈 수 있는 다음 한 걸음이 필요할 때가 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when talking about practical progress."
+                      },
+                      {
+                          "id":  717,
+                          "english":  "Consistency becomes easier once I stop measuring each day by intensity and start measuring it by return.",
+                          "korean":  "꾸준함은 매일의 강도로 스스로를 재지 않고 다시 돌아오는 횟수로 보기 시작하면 훨씬 쉬워져.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reframing consistency."
+                      },
+                      {
+                          "id":  718,
+                          "english":  "The goal isn\u0027t to feel inspired every day, but to make it easy enough to continue when inspiration is missing.",
+                          "korean":  "목표는 매일 영감을 느끼는 게 아니라 영감이 없을 때도 계속할 수 있을 만큼 쉽게 만들어 두는 거야.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on sustainable discipline."
+                      },
+                      {
+                          "id":  719,
+                          "english":  "A learning habit becomes real when it survives boredom, distraction, and the urge to start over dramatically.",
+                          "korean":  "배움의 습관은 지루함과 산만함, 그리고 갑자기 처음부터 다시 시작하고 싶은 충동까지 견뎌 낼 때 비로소 진짜가 돼.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when talking about long-term persistence."
+                      },
+                      {
+                          "id":  720,
+                          "english":  "I\u0027ve started to trust the kind of progress that looks almost invisible from day to day but becomes undeniable over months.",
+                          "korean":  "하루 단위로 보면 거의 보이지 않지만 몇 달이 지나면 분명해지는 그런 진전을 이제는 더 신뢰하게 됐어.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when reflecting on long-term growth."
                       }
                   ]
 }

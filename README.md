@@ -43,6 +43,14 @@ The raw file can be either:
 - A plain array of sentence objects
 - Or an object with a `sentences` array plus optional metadata
 
+## Difficulty guide
+
+- `Beginner`: short and direct sentences with common vocabulary and one clear idea
+- `Intermediate`: natural everyday sentences with slightly longer structure, comparison, reason, or polite phrasing
+- `Advanced`: nuanced sentences with layered meaning, abstract wording, or multi-clause structure
+- Keep the level aligned with actual sentence difficulty, not just topic formality
+- Avoid repetitive templates that only swap nouns while keeping the same difficulty pattern
+
 ## Good publishing habits
 
 - Keep `id` values unique and stable
