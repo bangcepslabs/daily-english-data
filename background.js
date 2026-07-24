@@ -3,6 +3,9 @@
     dataset: "dailyEnglish.dataset",
     sync: "dailyEnglish.sync"
   };
+  const MESSAGE_TYPES = {
+    syncDataset: "dailyEnglish.syncDataset"
+  };
 
   const DEFAULT_REMOTE_URL =
     "https://raw.githubusercontent.com/bangcepslabs/daily-english-data/main/examples/github-raw/sentences.json";
@@ -191,5 +194,18 @@
         await syncRemoteDataset({ force: true });
       }
     })();
+  });
+
+  chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
+    if (!message || message.type !== MESSAGE_TYPES.syncDataset) {
+      return undefined;
+    }
+
+    void (async () => {
+      const updated = await syncRemoteDataset({ force: true });
+      sendResponse({ ok: true, updated });
+    })();
+
+    return true;
   });
 })();

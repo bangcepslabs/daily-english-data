@@ -7,6 +7,9 @@
     view: "dailyEnglish.view",
     dataset: "dailyEnglish.dataset"
   };
+  const MESSAGE_TYPES = {
+    syncDataset: "dailyEnglish.syncDataset"
+  };
 
   const DEFAULT_SETTINGS = {
     themeMode: "system",
@@ -249,6 +252,20 @@
           updatedAt: normalized.updatedAt
         }
       : { source: "bundled", version: "local", updatedAt: "" };
+  }
+
+  function refreshDatasetUi({ keepCurrentSentence = true } = {}) {
+    buildFilterOptions();
+    buildFilteredSentences();
+    updateDatasetLine();
+
+    if (!keepCurrentSentence || !state.currentSentence || !matchesActiveFilters(state.currentSentence)) {
+      updateSentenceCard();
+      return;
+    }
+
+    renderSentence(state.currentSentence);
+    updateCounts();
   }
 
   function applyTheme() {
@@ -501,6 +518,25 @@
     });
   }
 
+  async function requestLatestDataset() {
+    if (!window.chrome?.runtime?.sendMessage) {
+      return;
+    }
+
+    try {
+      const response = await chrome.runtime.sendMessage({ type: MESSAGE_TYPES.syncDataset });
+      if (!response?.updated) {
+        return;
+      }
+
+      await loadDatasetState();
+      refreshDatasetUi();
+      setStatus("Loaded the latest sentence pack.", "success");
+    } catch (error) {
+      console.error("[Daily English Tab Popup] Remote refresh failed:", error);
+    }
+  }
+
   async function initialize() {
     try {
       forcePopupWidth();
@@ -519,17 +555,10 @@
 
       void datasetPromise
         .then(() => {
-          buildFilterOptions();
-          buildFilteredSentences();
-          updateDatasetLine();
+          refreshDatasetUi();
           setStatus("Synced automatically from GitHub.", "success");
-          if (!state.currentSentence) {
-            updateSentenceCard();
-          } else {
-            updateCounts();
-            updateDatasetLine();
-          }
           setLoading(false);
+          void requestLatestDataset();
         })
         .catch((error) => {
           console.error("[Daily English Tab Popup] Dataset load failed:", error);
