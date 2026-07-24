@@ -977,8 +977,8 @@
     },
     {
         "id":  123,
-        "english":  "I already checked my bag.",
-        "korean":  "나는 이미 내 가방을 확인했어.",
+        "english":  "I\u0027ve checked my bag twice, but I still feel like I\u0027m forgetting something.",
+        "korean":  "가방을 두 번이나 확인했는데도 아직 뭔가 빠뜨린 것 같은 기분이 들어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful for saying the task is finished."
@@ -1001,8 +1001,8 @@
     },
     {
         "id":  126,
-        "english":  "The bag seems messy.",
-        "korean":  "내 가방이 엉망이야 보여.",
+        "english":  "My bag is so cluttered that I can never find what I need in a hurry.",
+        "korean":  "가방이 너무 어수선해서 급할 때 필요한 걸 도무지 못 찾겠어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful when something appears a certain way."
@@ -1025,8 +1025,8 @@
     },
     {
         "id":  129,
-        "english":  "I already tidyed my desk.",
-        "korean":  "나는 이미 내 책상을 정리했어.",
+        "english":  "I finally cleared off my desk after putting it off all week.",
+        "korean":  "일주일 내내 미루다가 드디어 책상을 말끔히 정리했어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful for saying the task is finished."
@@ -1049,8 +1049,8 @@
     },
     {
         "id":  132,
-        "english":  "The desk seems clean.",
-        "korean":  "내 책상이 깨끗해 보여.",
+        "english":  "The desk is tidy now, which makes it much easier to focus.",
+        "korean":  "이제 책상이 정돈돼서 훨씬 집중하기 쉬워졌어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful when something appears a certain way."
@@ -1073,8 +1073,8 @@
     },
     {
         "id":  135,
-        "english":  "I already chargeed my phone.",
-        "korean":  "나는 이미 내 휴대폰을 충전했어.",
+        "english":  "I charged my phone overnight, so I shouldn\u0027t run out of battery today.",
+        "korean":  "밤새 휴대폰을 충전해 둬서 오늘은 배터리가 부족할 일 없을 거야.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful for saying the task is finished."
@@ -1097,8 +1097,8 @@
     },
     {
         "id":  138,
-        "english":  "The phone seems low.",
-        "korean":  "내 휴대폰이 배터리가 부족해 보여.",
+        "english":  "My phone battery is draining faster than usual, and I can\u0027t figure out why.",
+        "korean":  "휴대폰 배터리가 평소보다 훨씬 빨리 닳는데 왜 그런지 모르겠어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful when something appears a certain way."
@@ -1121,8 +1121,8 @@
     },
     {
         "id":  141,
-        "english":  "I already cleaned my room.",
-        "korean":  "나는 이미 내 방을 청소했어.",
+        "english":  "I cleaned my room earlier, but it already looks messy again.",
+        "korean":  "아까 방을 치웠는데 벌써 다시 어질러진 것처럼 보여.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful for saying the task is finished."
@@ -1145,8 +1145,8 @@
     },
     {
         "id":  144,
-        "english":  "The room seems quiet.",
-        "korean":  "내 방이 조용해 보여.",
+        "english":  "The room is quiet enough now that I can finally concentrate.",
+        "korean":  "이제 방이 충분히 조용해서 드디어 집중할 수 있겠어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful when something appears a certain way."
@@ -1169,8 +1169,8 @@
     },
     {
         "id":  147,
-        "english":  "I already reviewed my schedule.",
-        "korean":  "나는 이미 내 일정을 검토했어.",
+        "english":  "I\u0027ve gone over my schedule a few times, and it still feels too packed.",
+        "korean":  "일정을 몇 번이나 다시 봤는데도 여전히 너무 빡빡한 느낌이야.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful for saying the task is finished."
@@ -1193,8 +1193,8 @@
     },
     {
         "id":  150,
-        "english":  "The schedule seems busy.",
-        "korean":  "내 일정이 바빠 보여.",
+        "english":  "My schedule is so full this week that I barely have time to breathe.",
+        "korean":  "이번 주 일정이 너무 꽉 차 있어서 숨 돌릴 틈도 거의 없어.",
         "category":  "Daily life",
         "level":  "Advanced",
         "situation":  "Useful when something appears a certain way."
@@ -1929,8 +1929,8 @@
     },
     {
         "id":  242,
-        "english":  "The report needs one more check.",
-        "korean":  "그 보고서가 한 번 더 확인이 필요해.",
+        "english":  "Before we send the report, I\u0027d like one more round of fact-checking.",
+        "korean":  "보고서를 보내기 전에 사실관계를 한 번 더 확인하고 싶어요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when something needs a final look."
@@ -1953,8 +1953,8 @@
     },
     {
         "id":  245,
-        "english":  "I already fixed the report.",
-        "korean":  "나는 이미 그 보고서를 수정했어.",
+        "english":  "I\u0027ve already revised the report, but I\u0027m still not fully satisfied with the conclusion.",
+        "korean":  "보고서는 이미 수정했지만 결론 부분이 아직 완전히 만족스럽지는 않아요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when closing a task."
@@ -1977,8 +1977,8 @@
     },
     {
         "id":  248,
-        "english":  "The file needs one more check.",
-        "korean":  "그 파일이 한 번 더 확인이 필요해.",
+        "english":  "The file looks complete, but we should verify the latest changes one more time.",
+        "korean":  "파일은 완성돼 보이지만 마지막 수정 사항은 한 번 더 확인하는 게 좋겠어요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when something needs a final look."
@@ -2001,8 +2001,8 @@
     },
     {
         "id":  251,
-        "english":  "I already fixed the file.",
-        "korean":  "나는 이미 그 파일을 수정했어.",
+        "english":  "I updated the file this morning, although a few sections may still need polishing.",
+        "korean":  "오늘 아침 파일을 수정하긴 했지만 몇몇 부분은 아직 더 다듬어야 할 수도 있어요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when closing a task."
@@ -2025,8 +2025,8 @@
     },
     {
         "id":  254,
-        "english":  "The schedule needs one more check.",
-        "korean":  "그 일정이 한 번 더 확인이 필요해.",
+        "english":  "The schedule works on paper, but I want to make sure it\u0027s realistic.",
+        "korean":  "일정은 서류상으로는 맞아 보이지만 실제로 가능한지 확인하고 싶어요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when something needs a final look."
@@ -2049,8 +2049,8 @@
     },
     {
         "id":  257,
-        "english":  "I already fixed the schedule.",
-        "korean":  "나는 이미 그 일정을 수정했어.",
+        "english":  "I\u0027ve reworked the schedule to reduce overlap between the main tasks.",
+        "korean":  "주요 작업들이 겹치지 않도록 일정을 다시 조정해 뒀어요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when closing a task."
@@ -2073,8 +2073,8 @@
     },
     {
         "id":  260,
-        "english":  "The slide deck needs one more check.",
-        "korean":  "그 발표 자료가 한 번 더 확인이 필요해.",
+        "english":  "The slide deck is almost ready, but the flow between sections still feels uneven.",
+        "korean":  "발표 자료는 거의 완성됐지만 섹션 사이 흐름이 아직 조금 매끄럽지 않아요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when something needs a final look."
@@ -2097,8 +2097,8 @@
     },
     {
         "id":  263,
-        "english":  "I already fixed the slide deck.",
-        "korean":  "나는 이미 그 발표 자료를 수정했어.",
+        "english":  "I restructured the slide deck so the main message comes across more clearly.",
+        "korean":  "핵심 메시지가 더 분명하게 전달되도록 발표 자료 구성을 다시 잡았어요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when closing a task."
@@ -2121,8 +2121,8 @@
     },
     {
         "id":  266,
-        "english":  "The budget needs one more check.",
-        "korean":  "그 예산이 한 번 더 확인이 필요해.",
+        "english":  "The budget needs another review because a few assumptions still look optimistic.",
+        "korean":  "몇 가지 가정이 아직 낙관적으로 보여서 예산은 한 번 더 검토해야 해요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when something needs a final look."
@@ -2145,8 +2145,8 @@
     },
     {
         "id":  269,
-        "english":  "I already fixed the budget.",
-        "korean":  "나는 이미 그 예산을 수정했어.",
+        "english":  "I\u0027ve adjusted the budget, but we should stress-test the numbers before approval.",
+        "korean":  "예산은 조정했지만 승인 전에 숫자를 한 번 더 면밀히 검증해야 해요.",
         "category":  "Work",
         "level":  "Advanced",
         "situation":  "Useful when closing a task."
@@ -2505,8 +2505,8 @@
     },
     {
         "id":  314,
-        "english":  "The grammar still feels confusing.",
-        "korean":  "문법이 아직 좀 헷갈려.",
+        "english":  "The grammar explanation made sense at first, but the exceptions keep throwing me off.",
+        "korean":  "문법 설명은 처음엔 이해됐는데 예외가 자꾸 나와서 계속 헷갈려.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful when something is not fully clear."
@@ -2529,8 +2529,8 @@
     },
     {
         "id":  317,
-        "english":  "I\u0027m practicing the grammar again.",
-        "korean":  "나는 그 문법을 다시 연습하고 있어.",
+        "english":  "I\u0027m going through the grammar section again because I want to understand the pattern rather than just memorize it.",
+        "korean":  "그냥 외우는 게 아니라 패턴을 이해하고 싶어서 문법 부분을 다시 보고 있어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful for repeated study."
@@ -2553,8 +2553,8 @@
     },
     {
         "id":  320,
-        "english":  "The pronunciation still feels confusing.",
-        "korean":  "발음이 아직 좀 헷갈려.",
+        "english":  "The pronunciation rules seemed simple until I noticed how often they change in real speech.",
+        "korean":  "발음 규칙은 단순해 보였는데 실제 말에서는 얼마나 자주 달라지는지 알고 나서 어렵게 느껴졌어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful when something is not fully clear."
@@ -2577,8 +2577,8 @@
     },
     {
         "id":  323,
-        "english":  "I\u0027m practicing the pronunciation again.",
-        "korean":  "나는 그 발음을 다시 연습하고 있어.",
+        "english":  "I\u0027m practicing the pronunciation again, this time with more attention to stress and rhythm.",
+        "korean":  "이번에는 강세와 리듬에 더 신경 쓰면서 발음을 다시 연습하고 있어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful for repeated study."
@@ -2601,8 +2601,8 @@
     },
     {
         "id":  326,
-        "english":  "The vocabulary still feels confusing.",
-        "korean":  "어휘가 아직 좀 헷갈려.",
+        "english":  "The new vocabulary is useful, but it takes time before those words feel natural in context.",
+        "korean":  "새 어휘는 유용하지만 문맥 속에서 자연스럽게 느껴지기까지는 시간이 걸려.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful when something is not fully clear."
@@ -2625,8 +2625,8 @@
     },
     {
         "id":  329,
-        "english":  "I\u0027m practicing the vocabulary again.",
-        "korean":  "나는 그 어휘를 다시 연습하고 있어.",
+        "english":  "I\u0027m reviewing the vocabulary in example sentences so I can remember how each word is actually used.",
+        "korean":  "각 단어가 실제로 어떻게 쓰이는지 기억하려고 예문 속에서 어휘를 다시 보고 있어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful for repeated study."
@@ -2649,8 +2649,8 @@
     },
     {
         "id":  332,
-        "english":  "The listening still feels confusing.",
-        "korean":  "리스닝이 아직 좀 헷갈려.",
+        "english":  "Listening gets tricky when I understand each word but still miss the speaker\u0027s overall point.",
+        "korean":  "단어 하나하나는 들리는데도 화자의 전체 요지를 놓칠 때 리스닝이 특히 어려워져.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful when something is not fully clear."
@@ -2673,8 +2673,8 @@
     },
     {
         "id":  335,
-        "english":  "I\u0027m practicing the listening again.",
-        "korean":  "나는 그 리스닝을 다시 연습하고 있어.",
+        "english":  "I\u0027m practicing listening with shorter clips first so I can catch subtle changes in tone.",
+        "korean":  "미묘한 어조 변화를 잡아내려고 짧은 클립부터 들으면서 리스닝을 연습하고 있어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful for repeated study."
@@ -2697,8 +2697,8 @@
     },
     {
         "id":  338,
-        "english":  "The reading still feels confusing.",
-        "korean":  "리딩이 아직 좀 헷갈려.",
+        "english":  "The reading passage was harder than I expected because the writer implied more than they stated directly.",
+        "korean":  "글쓴이가 직접 말한 것보다 암시한 내용이 더 많아서 지문이 생각보다 어려웠어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful when something is not fully clear."
@@ -2721,8 +2721,8 @@
     },
     {
         "id":  341,
-        "english":  "I\u0027m practicing the reading again.",
-        "korean":  "나는 그 리딩을 다시 연습하고 있어.",
+        "english":  "I\u0027m rereading the passage to see how the argument develops from one paragraph to the next.",
+        "korean":  "논리가 문단마다 어떻게 전개되는지 보려고 지문을 다시 읽고 있어.",
         "category":  "Study",
         "level":  "Advanced",
         "situation":  "Useful for repeated study."
@@ -3769,8 +3769,8 @@
     },
     {
         "id":  472,
-        "english":  "Let\u0027s meet at the park this weekend.",
-        "korean":  "이번 주말 공원에서 만나자.",
+        "english":  "Why don\u0027t we meet at the park this weekend if the weather holds up?",
+        "korean":  "날씨만 괜찮다면 이번 주말에 공원에서 만나는 거 어때?",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful for making a casual plan."
@@ -3793,8 +3793,8 @@
     },
     {
         "id":  475,
-        "english":  "It was nice talking to you.",
-        "korean":  "이야기해서 정말 반가웠어.",
+        "english":  "I really enjoyed our conversation; it gave me a lot to think about.",
+        "korean":  "오늘 대화가 정말 좋았어. 곱씹어 볼 만한 얘기가 많았거든.",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when ending a conversation warmly."
@@ -3817,8 +3817,8 @@
     },
     {
         "id":  478,
-        "english":  "I had a great time with you at the library.",
-        "korean":  "도서관에서 같이 있어서 정말 좋았어.",
+        "english":  "I wasn\u0027t expecting to enjoy the library that much, but the conversation made it memorable.",
+        "korean":  "도서관에서 그렇게 즐거울 줄은 몰랐는데, 대화 덕분에 정말 기억에 남았어.",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful for a friendly follow-up."
@@ -3841,8 +3841,8 @@
     },
     {
         "id":  481,
-        "english":  "Are you free Saturday?",
-        "korean":  "토요일 시간 괜찮아?",
+        "english":  "Would you happen to be free on Saturday, or is your schedule already packed?",
+        "korean":  "혹시 토요일에 시간 괜찮아, 아니면 일정이 이미 꽉 차 있어?",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when checking availability."
@@ -3865,8 +3865,8 @@
     },
     {
         "id":  484,
-        "english":  "Let\u0027s meet at the mall this afternoon.",
-        "korean":  "오늘 오후 쇼핑몰에서 만나자.",
+        "english":  "If you\u0027re around this afternoon, we could meet at the mall and catch up properly.",
+        "korean":  "오늘 오후에 시간 되면 쇼핑몰에서 만나서 제대로 얘기 나눌 수도 있어.",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful for making a casual plan."
@@ -3889,8 +3889,8 @@
     },
     {
         "id":  487,
-        "english":  "It was nice talking to you.",
-        "korean":  "이야기해서 정말 반가웠어.",
+        "english":  "It was refreshing to talk to someone who sees things from a different perspective.",
+        "korean":  "다른 관점으로 보는 사람과 이야기하니까 정말 신선했어.",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when ending a conversation warmly."
@@ -3905,8 +3905,8 @@
     },
     {
         "id":  489,
-        "english":  "Are you free at sunset?",
-        "korean":  "해질 무렵 시간 괜찮아?",
+        "english":  "Do you have any plans around sunset, or could you make time for a quick meetup?",
+        "korean":  "해 질 무렵에 혹시 일정 있어, 아니면 잠깐 만날 시간은 될까?",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when checking availability."
@@ -3921,8 +3921,8 @@
     },
     {
         "id":  491,
-        "english":  "It was nice talking to you.",
-        "korean":  "이야기해서 정말 반가웠어.",
+        "english":  "Thanks for staying so long; I always leave our conversations feeling more energized.",
+        "korean":  "오래 같이 있어줘서 고마워. 너랑 이야기하면 늘 더 힘이 나는 기분이야.",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when ending a conversation warmly."
@@ -3937,8 +3937,8 @@
     },
     {
         "id":  493,
-        "english":  "Are you free next month?",
-        "korean":  "다음 달 시간 괜찮아?",
+        "english":  "Do you think you\u0027ll have enough room in your schedule next month to plan something together?",
+        "korean":  "다음 달 일정에 우리 같이 뭔가 계획할 만한 여유가 있을 것 같아?",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when checking availability."
@@ -3953,8 +3953,8 @@
     },
     {
         "id":  495,
-        "english":  "It was nice talking to you.",
-        "korean":  "이야기해서 정말 반가웠어.",
+        "english":  "I appreciate conversations like that because they feel honest and surprisingly refreshing.",
+        "korean":  "그런 대화는 솔직하고 의외로 기분을 환기시켜 줘서 참 좋아.",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when ending a conversation warmly."
@@ -3969,8 +3969,8 @@
     },
     {
         "id":  497,
-        "english":  "Are you free next week?",
-        "korean":  "다음 주 시간 괜찮아?",
+        "english":  "Would next week work for you, or do you already have too much on your plate?",
+        "korean":  "다음 주는 괜찮아, 아니면 이미 너무 바쁜 상태야?",
         "category":  "Social",
         "level":  "Advanced",
         "situation":  "Useful when checking availability."
