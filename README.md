@@ -16,10 +16,15 @@ This repository stores the sentence data used by the Daily English Tab browser e
 
 ## Recommended update flow
 
-1. Edit `examples/github-raw/sentences.json`
-2. Update `version` and `updatedAt`
-3. Push to `main`
-4. The extension uses the built-in raw URL by default, so no user setup is needed
+1. Edit `data/sentences.json`
+2. Mirror the same content to `examples/github-raw/sentences.json`
+3. Update `examples/github-raw/sentences.meta.json`
+4. Push to `main`
+5. The extension uses the built-in raw URL by default, so no user setup is needed
+
+Detailed checklist:
+
+- See `docs/dataset-update-guide.md`
 
 ## Raw URL example
 
@@ -58,6 +63,13 @@ The raw file can be either:
 - Use the same category and level labels consistently
 - Bump `version` whenever you publish a meaningful update
 - Leave the app to read the latest cached dataset automatically
+
+## Versioning rule
+
+- Data-only updates: bump the dataset version in `examples/github-raw/sentences.json` and `examples/github-raw/sentences.meta.json`
+- Extension code updates: bump `manifest.json` version and submit a new package to the store
+- Recommended dataset format: `YYYY.MM.DD.N`
+- Example: `2026.07.24.4`
 
 ## User-facing behavior
 
