@@ -1,6 +1,6 @@
 {
-    "version":  "2026.07.24.3",
-    "updatedAt":  "2026-07-24T15:30:00Z",
+    "version":  "2026.07.24.4",
+    "updatedAt":  "2026-07-24T18:30:00Z",
     "count":  720,
     "sentences":  [
                       {
@@ -77,11 +77,11 @@
                       },
                       {
                           "id":  10,
-                          "english":  "I think we should wait a little longer.",
-                          "korean":  "조금 더 기다리는 게 좋을 것 같아.",
+                          "english":  "Maybe we should wait a little longer.",
+                          "korean":  "조금 더 기다려 보는 게 좋을 것 같아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "A gentle way to suggest patience."
+                          "situation":  "Use when gently suggesting a little more patience."
                       },
                       {
                           "id":  11,
@@ -1549,11 +1549,11 @@
                       },
                       {
                           "id":  194,
-                          "english":  "I think I may have misunderstood the schedule.",
-                          "korean":  "내가 일정을 잘못 이해했을 수도 있을 것 같아.",
+                          "english":  "I may have misunderstood the schedule.",
+                          "korean":  "내가 일정을 잘못 이해한 것 같아.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when you think you mixed something up."
+                          "situation":  "Use when you think you got the schedule wrong."
                       },
                       {
                           "id":  195,
@@ -1693,11 +1693,11 @@
                       },
                       {
                           "id":  212,
-                          "english":  "I think I missed one detail.",
+                          "english":  "I may have missed one detail.",
                           "korean":  "내가 세부 사항 하나를 놓친 것 같아.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when asking to go back briefly."
+                          "situation":  "Use when you realize you may have overlooked something small."
                       },
                       {
                           "id":  213,
@@ -1741,11 +1741,11 @@
                       },
                       {
                           "id":  218,
-                          "english":  "I think I missed your point at first.",
-                          "korean":  "처음에는 네 요지를 놓쳤던 것 같아.",
+                          "english":  "I didn\u0027t get your point at first.",
+                          "korean":  "처음에는 네 요지를 잘 못 알아들었어.",
                           "category":  "Conversation",
                           "level":  "Beginner",
-                          "situation":  "Useful when recognizing that you misunderstood something."
+                          "situation":  "Use when admitting that you misunderstood someone at first."
                       },
                       {
                           "id":  219,
@@ -1805,11 +1805,11 @@
                       },
                       {
                           "id":  226,
-                          "english":  "I think this would be easier to explain in a call than in a text message.",
-                          "korean":  "이건 문자보다 전화로 설명하는 게 더 쉬울 것 같아.",
+                          "english":  "This would be easier to explain on a call than over text.",
+                          "korean":  "이건 문자보다 통화로 설명하는 게 더 쉬울 것 같아.",
                           "category":  "Conversation",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic is too complex for texting."
+                          "situation":  "Use when a topic is too detailed for text messages."
                       },
                       {
                           "id":  227,
@@ -1917,1795 +1917,1795 @@
                       },
                       {
                           "id":  240,
-                          "english":  "I need to review the report before the meeting.",
-                          "korean":  "회의 전에 그 보고서를 검토해야 해.",
+                          "english":  "I need to check the report before the meeting.",
+                          "korean":  "회의 전에 보고서를 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  241,
-                          "english":  "Please send the report when it\u0027s ready.",
-                          "korean":  "준비되면 그 보고서를 보내 주세요.",
+                          "english":  "Please send me the report when you\u0027re done.",
+                          "korean":  "끝나면 보고서를 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  242,
-                          "english":  "Before we send the report, I\u0027d like one more round of fact-checking.",
-                          "korean":  "보고서를 보내기 전에 사실관계를 한 번 더 확인하고 싶어요.",
+                          "english":  "I went over the report again and fixed a few unclear parts.",
+                          "korean":  "보고서를 다시 보면서 불분명한 부분 몇 개를 손봤어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when something needs a final look."
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  243,
-                          "english":  "We should update the report.",
-                          "korean":  "그 보고서를 업데이트해야 해.",
+                          "english":  "We should update the report before we share it.",
+                          "korean":  "공유하기 전에 보고서를 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  244,
-                          "english":  "Could you share the report with the team?",
-                          "korean":  "그 보고서를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the report to the team folder?",
+                          "korean":  "보고서를 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful for collaboration."
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  245,
-                          "english":  "I\u0027ve already revised the report, but I\u0027m still not fully satisfied with the conclusion.",
-                          "korean":  "보고서는 이미 수정했지만 결론 부분이 아직 완전히 만족스럽지는 않아요.",
+                          "english":  "The report is almost done, but I want to tighten up the summary first.",
+                          "korean":  "보고서는 거의 끝났지만 먼저 요약 부분을 조금 더 다듬고 싶어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when closing a task."
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  246,
-                          "english":  "I need to review the file before the meeting.",
-                          "korean":  "회의 전에 그 파일을 검토해야 해.",
+                          "english":  "I need to check the file before the meeting.",
+                          "korean":  "회의 전에 파일을 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  247,
-                          "english":  "Please send the file when it\u0027s ready.",
-                          "korean":  "준비되면 그 파일을 보내 주세요.",
+                          "english":  "Please send me the file when you\u0027re done.",
+                          "korean":  "끝나면 파일을 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  248,
-                          "english":  "The file looks complete, but we should verify the latest changes one more time.",
-                          "korean":  "파일은 완성돼 보이지만 마지막 수정 사항은 한 번 더 확인하는 게 좋겠어요.",
+                          "english":  "I checked the file, and the latest version looks right.",
+                          "korean":  "파일을 확인해 봤는데 최신 버전이 맞는 것 같아.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when something needs a final look."
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  249,
-                          "english":  "We should update the file.",
-                          "korean":  "그 파일을 업데이트해야 해.",
+                          "english":  "We should update the file before we share it.",
+                          "korean":  "공유하기 전에 파일을 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  250,
-                          "english":  "Could you share the file with the team?",
-                          "korean":  "그 파일을 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the file to the team folder?",
+                          "korean":  "파일을 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful for collaboration."
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  251,
-                          "english":  "I updated the file this morning, although a few sections may still need polishing.",
-                          "korean":  "오늘 아침 파일을 수정하긴 했지만 몇몇 부분은 아직 더 다듬어야 할 수도 있어요.",
+                          "english":  "I\u0027ve cleaned up the file, but the naming still needs work.",
+                          "korean":  "파일은 정리해 놨지만 이름 붙인 방식은 아직 손봐야 해.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when closing a task."
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  252,
-                          "english":  "I need to review the schedule before the meeting.",
-                          "korean":  "회의 전에 그 일정을 검토해야 해.",
+                          "english":  "I need to check the schedule before the meeting.",
+                          "korean":  "회의 전에 일정을 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  253,
-                          "english":  "Please send the schedule when it\u0027s ready.",
-                          "korean":  "준비되면 그 일정을 보내 주세요.",
+                          "english":  "Please send me the schedule when you\u0027re done.",
+                          "korean":  "끝나면 일정을 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  254,
-                          "english":  "The schedule works on paper, but I want to make sure it\u0027s realistic.",
-                          "korean":  "일정은 서류상으로는 맞아 보이지만 실제로 가능한지 확인하고 싶어요.",
+                          "english":  "I checked the schedule again because the timing felt too tight.",
+                          "korean":  "시간이 너무 빠듯한 것 같아서 일정을 다시 확인했어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when something needs a final look."
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  255,
-                          "english":  "We should update the schedule.",
-                          "korean":  "그 일정을 업데이트해야 해.",
+                          "english":  "We should update the schedule before we share it.",
+                          "korean":  "공유하기 전에 일정을 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  256,
-                          "english":  "Could you share the schedule with the team?",
-                          "korean":  "그 일정을 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the schedule to the team folder?",
+                          "korean":  "일정을 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful for collaboration."
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  257,
-                          "english":  "I\u0027ve reworked the schedule to reduce overlap between the main tasks.",
-                          "korean":  "주요 작업들이 겹치지 않도록 일정을 다시 조정해 뒀어요.",
+                          "english":  "The schedule works for now, but we may need more buffer time.",
+                          "korean":  "일단 일정은 굴러가지만 중간에 여유 시간을 조금 더 두는 게 좋을 것 같아.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when closing a task."
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  258,
-                          "english":  "I need to review the slide deck before the meeting.",
-                          "korean":  "회의 전에 그 발표 자료를 검토해야 해.",
+                          "english":  "I need to check the slide deck before the meeting.",
+                          "korean":  "회의 전에 발표 자료를 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  259,
-                          "english":  "Please send the slide deck when it\u0027s ready.",
-                          "korean":  "준비되면 그 발표 자료를 보내 주세요.",
+                          "english":  "Please send me the slide deck when you\u0027re done.",
+                          "korean":  "끝나면 발표 자료를 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  260,
-                          "english":  "The slide deck is almost ready, but the flow between sections still feels uneven.",
-                          "korean":  "발표 자료는 거의 완성됐지만 섹션 사이 흐름이 아직 조금 매끄럽지 않아요.",
+                          "english":  "I revised the slide deck so the main point shows up earlier.",
+                          "korean":  "핵심 포인트가 더 빨리 보이도록 발표 자료를 수정했어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when something needs a final look."
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  261,
-                          "english":  "We should update the slide deck.",
-                          "korean":  "그 발표 자료를 업데이트해야 해.",
+                          "english":  "We should update the slide deck before we share it.",
+                          "korean":  "공유하기 전에 발표 자료를 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  262,
-                          "english":  "Could you share the slide deck with the team?",
-                          "korean":  "그 발표 자료를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the slide deck to the team folder?",
+                          "korean":  "발표 자료를 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful for collaboration."
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  263,
-                          "english":  "I restructured the slide deck so the main message comes across more clearly.",
-                          "korean":  "핵심 메시지가 더 분명하게 전달되도록 발표 자료 구성을 다시 잡았어요.",
+                          "english":  "The slide deck is clear overall, but the opening still feels weak.",
+                          "korean":  "발표 자료 전체는 깔끔한데 첫 부분은 아직 힘이 조금 부족해.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when closing a task."
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  264,
-                          "english":  "I need to review the budget before the meeting.",
-                          "korean":  "회의 전에 그 예산을 검토해야 해.",
+                          "english":  "I need to check the budget before the meeting.",
+                          "korean":  "회의 전에 예산을 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  265,
-                          "english":  "Please send the budget when it\u0027s ready.",
-                          "korean":  "준비되면 그 예산을 보내 주세요.",
+                          "english":  "Please send me the budget when you\u0027re done.",
+                          "korean":  "끝나면 예산을 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  266,
-                          "english":  "The budget needs another review because a few assumptions still look optimistic.",
-                          "korean":  "몇 가지 가정이 아직 낙관적으로 보여서 예산은 한 번 더 검토해야 해요.",
+                          "english":  "I checked the budget again because a few numbers looked off.",
+                          "korean":  "몇 숫자가 이상해 보여서 예산을 다시 확인했어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when something needs a final look."
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  267,
-                          "english":  "We should update the budget.",
-                          "korean":  "그 예산을 업데이트해야 해.",
+                          "english":  "We should update the budget before we share it.",
+                          "korean":  "공유하기 전에 예산을 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  268,
-                          "english":  "Could you share the budget with the team?",
-                          "korean":  "그 예산을 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the budget to the team folder?",
+                          "korean":  "예산을 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful for collaboration."
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  269,
-                          "english":  "I\u0027ve adjusted the budget, but we should stress-test the numbers before approval.",
-                          "korean":  "예산은 조정했지만 승인 전에 숫자를 한 번 더 면밀히 검증해야 해요.",
+                          "english":  "I\u0027ve updated the budget, but I still want to verify the estimates.",
+                          "korean":  "예산은 수정했지만 예상치는 한 번 더 확인하고 싶어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Useful when closing a task."
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  270,
-                          "english":  "I need to review the draft before the meeting.",
-                          "korean":  "회의 전에 그 초안을 검토해야 해.",
+                          "english":  "I need to check the draft before the meeting.",
+                          "korean":  "회의 전에 초안을 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  271,
-                          "english":  "Please send the draft when it\u0027s ready.",
-                          "korean":  "준비되면 그 초안을 보내 주세요.",
+                          "english":  "Please send me the draft when you\u0027re done.",
+                          "korean":  "끝나면 초안을 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  272,
-                          "english":  "The draft needs one more check.",
-                          "korean":  "그 초안이 한 번 더 확인이 필요해.",
+                          "english":  "I read through the draft and fixed a few awkward lines.",
+                          "korean":  "초안을 출발해서 어색한 문장 몇 군데를 고쳤어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  273,
-                          "english":  "We should update the draft.",
-                          "korean":  "그 초안을 업데이트해야 해.",
+                          "english":  "We should update the draft before we share it.",
+                          "korean":  "공유하기 전에 초안을 최신 내용으로 정리해야 해.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "level":  "Beginner",
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  274,
-                          "english":  "Could you share the draft with the team?",
-                          "korean":  "그 초안을 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the draft to the team folder?",
+                          "korean":  "초안을 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  275,
-                          "english":  "I already fixed the draft.",
-                          "korean":  "나는 이미 그 초안을 수정했어.",
+                          "english":  "The draft is in decent shape now, but the ending still needs work.",
+                          "korean":  "지금 초안은 괜찮아졌지만 마무리 부분은 아직 손봐야 해.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  276,
-                          "english":  "I need to review the message before the meeting.",
-                          "korean":  "회의 전에 그 메시지를 검토해야 해.",
+                          "english":  "I need to check the message before the meeting.",
+                          "korean":  "회의 전에 메시지를 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  277,
-                          "english":  "Please send the message when it\u0027s ready.",
-                          "korean":  "준비되면 그 메시지를 보내 주세요.",
+                          "english":  "Please send me the message when you\u0027re done.",
+                          "korean":  "끝나면 메시지를 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  278,
-                          "english":  "The message needs one more check.",
-                          "korean":  "그 메시지가 한 번 더 확인이 필요해.",
+                          "english":  "I rewrote the message so it sounds a little clearer.",
+                          "korean":  "더 분명하게 들리도록 메시지를 다시 썼어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  279,
-                          "english":  "We should update the message.",
-                          "korean":  "그 메시지를 업데이트해야 해.",
+                          "english":  "We should update the message before we share it.",
+                          "korean":  "공유하기 전에 메시지를 최신 내용으로 정리해야 해.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "level":  "Beginner",
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  280,
-                          "english":  "Could you share the message with the team?",
-                          "korean":  "그 메시지를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the message to the team folder?",
+                          "korean":  "메시지를 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  281,
-                          "english":  "I already fixed the message.",
-                          "korean":  "나는 이미 그 메시지를 수정했어.",
+                          "english":  "The message is ready, but I want to soften the tone a bit.",
+                          "korean":  "메시지는 준비됐는데 말투를 조금 더 부드럽게 하고 싶어.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  282,
-                          "english":  "I need to review the issue before the meeting.",
-                          "korean":  "회의 전에 그 문제를 검토해야 해.",
+                          "english":  "I need to check the issue log before the meeting.",
+                          "korean":  "회의 전에 이슈 목록을 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  283,
-                          "english":  "Please send the issue when it\u0027s ready.",
-                          "korean":  "준비되면 그 문제를 보내 주세요.",
+                          "english":  "Please send me the issue log when you\u0027re done.",
+                          "korean":  "끝나면 이슈 목록을 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  284,
-                          "english":  "The issue needs one more check.",
-                          "korean":  "그 문제가 한 번 더 확인이 필요해.",
+                          "english":  "I checked the issue log and closed the ones we already fixed.",
+                          "korean":  "이슈 목록을 확인하고 이미 해결한 항목은 닫아 놨어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  285,
-                          "english":  "We should update the issue.",
-                          "korean":  "그 문제를 업데이트해야 해.",
+                          "english":  "We should update the issue log before we share it.",
+                          "korean":  "공유하기 전에 이슈 목록을 최신 내용으로 정리해야 해.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "level":  "Beginner",
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  286,
-                          "english":  "Could you share the issue with the team?",
-                          "korean":  "그 문제를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the issue log to the team folder?",
+                          "korean":  "이슈 목록을 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  287,
-                          "english":  "I already fixed the issue.",
-                          "korean":  "나는 이미 그 문제를 수정했어.",
+                          "english":  "The issue log is cleaner now, but a couple of items still need follow-up.",
+                          "korean":  "이슈 목록은 더 정리됐지만 몇 개는 아직 추가 확인이 필요해.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  288,
-                          "english":  "I need to review the proposal before the meeting.",
-                          "korean":  "회의 전에 그 제안서를 검토해야 해.",
+                          "english":  "I need to check the proposal before the meeting.",
+                          "korean":  "회의 전에 제안서를 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  289,
-                          "english":  "Please send the proposal when it\u0027s ready.",
-                          "korean":  "준비되면 그 제안서를 보내 주세요.",
+                          "english":  "Please send me the proposal when you\u0027re done.",
+                          "korean":  "끝나면 제안서를 보내 주세요.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Useful when waiting for a work file."
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  290,
-                          "english":  "The proposal needs one more check.",
-                          "korean":  "그 제안서가 한 번 더 확인이 필요해.",
+                          "english":  "I tightened up the proposal so the key benefits stand out.",
+                          "korean":  "핵심 장점이 더 잘 보이도록 제안서를 다듬었어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  291,
-                          "english":  "We should update the proposal.",
-                          "korean":  "그 제안서를 업데이트해야 해.",
+                          "english":  "We should update the proposal before we share it.",
+                          "korean":  "공유하기 전에 제안서를 최신 내용으로 정리해야 해.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "level":  "Beginner",
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  292,
-                          "english":  "Could you share the proposal with the team?",
-                          "korean":  "그 제안서를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the proposal to the team folder?",
+                          "korean":  "제안서를 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  293,
-                          "english":  "I already fixed the proposal.",
-                          "korean":  "나는 이미 그 제안서를 수정했어.",
+                          "english":  "The proposal is stronger now, but I still want one more review.",
+                          "korean":  "제안서는 더 좋아졌지만 한 번 더 검토받고 싶어.",
                           "category":  "Work",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  294,
-                          "english":  "I need to review the spreadsheet before the meeting.",
-                          "korean":  "회의 전에 그 스프레드시트를 검토해야 해.",
+                          "english":  "I need to check the spreadsheet before the meeting.",
+                          "korean":  "회의 전에 스프레드시트를 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  295,
-                          "english":  "Please send the spreadsheet when it\u0027s ready.",
-                          "korean":  "준비되면 그 스프레드시트를 보내 주세요.",
+                          "english":  "Please send me the spreadsheet when you\u0027re done.",
+                          "korean":  "끝나면 스프레드시트를 보내 주세요.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when waiting for a work file."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  296,
-                          "english":  "The spreadsheet needs one more check.",
-                          "korean":  "그 스프레드시트가 한 번 더 확인이 필요해.",
+                          "english":  "I checked the spreadsheet and corrected a few formulas.",
+                          "korean":  "스프레드시트를 확인하고 수식 몇 개를 고쳤어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  297,
-                          "english":  "We should update the spreadsheet.",
-                          "korean":  "그 스프레드시트를 업데이트해야 해.",
+                          "english":  "We should update the spreadsheet before we share it.",
+                          "korean":  "공유하기 전에 스프레드시트를 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  298,
-                          "english":  "Could you share the spreadsheet with the team?",
-                          "korean":  "그 스프레드시트를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the spreadsheet to the team folder?",
+                          "korean":  "스프레드시트를 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  299,
-                          "english":  "I already fixed the spreadsheet.",
-                          "korean":  "나는 이미 그 스프레드시트를 수정했어.",
+                          "english":  "The spreadsheet is working now, but I want to test the totals once more.",
+                          "korean":  "스프레드시트는 지금 잘 돌아가지만 합계는 한 번 더 테스트해 보고 싶어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  300,
-                          "english":  "I need to review the task list before the meeting.",
-                          "korean":  "회의 전에 그 할 일 목록을 검토해야 해.",
+                          "english":  "I need to check the task list before the meeting.",
+                          "korean":  "회의 전에 할 일 목록을 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  301,
-                          "english":  "Please send the task list when it\u0027s ready.",
-                          "korean":  "준비되면 그 할 일 목록을 보내 주세요.",
+                          "english":  "Please send me the task list when you\u0027re done.",
+                          "korean":  "끝나면 할 일 목록을 보내 주세요.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when waiting for a work file."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  302,
-                          "english":  "The task list needs one more check.",
-                          "korean":  "그 할 일 목록이 한 번 더 확인이 필요해.",
+                          "english":  "I checked the task list and moved the urgent items to the top.",
+                          "korean":  "할 일 목록을 확인하고 급한 항목은 위로 옮겨 놨어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  303,
-                          "english":  "We should update the task list.",
-                          "korean":  "그 할 일 목록을 업데이트해야 해.",
+                          "english":  "We should update the task list before we share it.",
+                          "korean":  "공유하기 전에 할 일 목록을 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  304,
-                          "english":  "Could you share the task list with the team?",
-                          "korean":  "그 할 일 목록을 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the task list to the team folder?",
+                          "korean":  "할 일 목록을 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  305,
-                          "english":  "I already fixed the task list.",
-                          "korean":  "나는 이미 그 할 일 목록을 수정했어.",
+                          "english":  "The task list looks better now, but the deadlines still need to be updated.",
+                          "korean":  "할 일 목록은 더 나아졌지만 마감일은 아직 수정해야 해.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  306,
-                          "english":  "I need to review the dashboard before the meeting.",
-                          "korean":  "회의 전에 그 대시보드를 검토해야 해.",
+                          "english":  "I need to check the contract before the meeting.",
+                          "korean":  "회의 전에 계약서를 확인해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful for regular office work."
+                          "situation":  "Use when you need to review something before a meeting."
                       },
                       {
                           "id":  307,
-                          "english":  "Please send the dashboard when it\u0027s ready.",
-                          "korean":  "준비되면 그 대시보드를 보내 주세요.",
+                          "english":  "Please send me the contract when you\u0027re done.",
+                          "korean":  "끝나면 계약서를 보내 주세요.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when waiting for a work file."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking a coworker to send a file or document."
                       },
                       {
                           "id":  308,
-                          "english":  "The dashboard needs one more check.",
-                          "korean":  "그 대시보드가 한 번 더 확인이 필요해.",
+                          "english":  "I looked over the contract and flagged the parts we should review.",
+                          "korean":  "계약서를 살펴보고 다시 봐야 할 부분에 표시해 놨어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something needs a final look."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining what you already revised in a document or task."
                       },
                       {
                           "id":  309,
-                          "english":  "We should update the dashboard.",
-                          "korean":  "그 대시보드를 업데이트해야 해.",
+                          "english":  "We should update the contract before we share it.",
+                          "korean":  "공유하기 전에 계약서를 최신 내용으로 정리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Useful when something needs to be refreshed."
+                          "situation":  "Use when something needs to be revised before sharing."
                       },
                       {
                           "id":  310,
-                          "english":  "Could you share the dashboard with the team?",
-                          "korean":  "그 대시보드를 팀과 공유해 주실 수 있나요?",
+                          "english":  "Could you upload the contract to the team folder?",
+                          "korean":  "계약서를 팀 폴더에 올려 주실 수 있나요?",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful for collaboration."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking someone to share a work file with the team."
                       },
                       {
                           "id":  311,
-                          "english":  "I already fixed the dashboard.",
-                          "korean":  "나는 이미 그 대시보드를 수정했어.",
+                          "english":  "The contract is mostly ready, but I want legal to check one clause.",
+                          "korean":  "계약서는 거의 준비됐지만 한 조항은 법무 확인을 받고 싶어.",
                           "category":  "Work",
-                          "level":  "Beginner",
-                          "situation":  "Useful when closing a task."
+                          "level":  "Advanced",
+                          "situation":  "Use when giving a realistic update on work that is almost finished."
                       },
                       {
                           "id":  312,
-                          "english":  "I\u0027m reviewing the grammar.",
-                          "korean":  "나는 문법을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing grammar today.",
+                          "korean":  "오늘은 문법을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  313,
-                          "english":  "I need to understand the grammar better.",
-                          "korean":  "문법을 더 잘 이해해야 해.",
+                          "english":  "I want to understand grammar more clearly.",
+                          "korean":  "문법을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  314,
-                          "english":  "The grammar explanation made sense at first, but the exceptions keep throwing me off.",
-                          "korean":  "문법 설명은 처음엔 이해됐는데 예외가 자꾸 나와서 계속 헷갈려.",
+                          "english":  "The grammar makes more sense now that I\u0027ve seen it in examples.",
+                          "korean":  "예문으로 보고 나니 문법이 이제 조금 더 이해돼.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful when something is not fully clear."
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  315,
-                          "english":  "I wrote notes about the grammar.",
-                          "korean":  "문법을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on grammar.",
+                          "korean":  "문법 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  316,
-                          "english":  "This grammar is easier than I expected.",
-                          "korean":  "이 문법이 생각보다 쉬워.",
+                          "english":  "Grammar feels a little easier now.",
+                          "korean":  "문법이 이제 조금 더 쉽게 느겨져.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  317,
-                          "english":  "I\u0027m going through the grammar section again because I want to understand the pattern rather than just memorize it.",
-                          "korean":  "그냥 외우는 게 아니라 패턴을 이해하고 싶어서 문법 부분을 다시 보고 있어.",
+                          "english":  "I\u0027m reviewing the grammar again so I can use it naturally, not just recognize it.",
+                          "korean":  "단지 알아보는 수준이 아니라 자연스럽게 쓸 수 있도록 문법을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful for repeated study."
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  318,
-                          "english":  "I\u0027m reviewing the pronunciation.",
-                          "korean":  "나는 발음을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing pronunciation today.",
+                          "korean":  "오늘은 발음을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  319,
-                          "english":  "I need to understand the pronunciation better.",
-                          "korean":  "발음을 더 잘 이해해야 해.",
+                          "english":  "I want to understand pronunciation more clearly.",
+                          "korean":  "발음을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  320,
-                          "english":  "The pronunciation rules seemed simple until I noticed how often they change in real speech.",
-                          "korean":  "발음 규칙은 단순해 보였는데 실제 말에서는 얼마나 자주 달라지는지 알고 나서 어렵게 느껴졌어.",
+                          "english":  "The pronunciation gets easier when I slow down and listen for stress.",
+                          "korean":  "천천히 하면서 강세를 들으면 발음이 더 쉽게 느겨져.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful when something is not fully clear."
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  321,
-                          "english":  "I wrote notes about the pronunciation.",
-                          "korean":  "발음을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on pronunciation.",
+                          "korean":  "발음 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  322,
-                          "english":  "This pronunciation is easier than I expected.",
-                          "korean":  "이 발음이 생각보다 쉬워.",
+                          "english":  "Pronunciation feels more natural now.",
+                          "korean":  "발음이 이제는 조금 더 자연스럽게 느겨져.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  323,
-                          "english":  "I\u0027m practicing the pronunciation again, this time with more attention to stress and rhythm.",
-                          "korean":  "이번에는 강세와 리듬에 더 신경 쓰면서 발음을 다시 연습하고 있어.",
+                          "english":  "I\u0027m practicing pronunciation again because I still lose the rhythm when I speak too fast.",
+                          "korean":  "말을 빨리 하면 리듬을 놓치는 편이라 발음을 다시 연습하고 있어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful for repeated study."
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  324,
-                          "english":  "I\u0027m reviewing the vocabulary.",
-                          "korean":  "나는 어휘를 복습하고 있어.",
+                          "english":  "I\u0027m reviewing vocabulary today.",
+                          "korean":  "오늘은 어휘을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  325,
-                          "english":  "I need to understand the vocabulary better.",
-                          "korean":  "어휘를 더 잘 이해해야 해.",
+                          "english":  "I want to understand vocabulary more clearly.",
+                          "korean":  "어휘을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  326,
-                          "english":  "The new vocabulary is useful, but it takes time before those words feel natural in context.",
-                          "korean":  "새 어휘는 유용하지만 문맥 속에서 자연스럽게 느껴지기까지는 시간이 걸려.",
+                          "english":  "The new vocabulary sticks better when I use it in full sentences.",
+                          "korean":  "새 어휘는 문장 속에서 직접 써 봐야 더 잘 외워져.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful when something is not fully clear."
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  327,
-                          "english":  "I wrote notes about the vocabulary.",
-                          "korean":  "어휘를 메모해 뒀어.",
+                          "english":  "I wrote a few notes on vocabulary.",
+                          "korean":  "어휘 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  328,
-                          "english":  "This vocabulary is easier than I expected.",
-                          "korean":  "이 어휘가 생각보다 쉬워.",
+                          "english":  "This vocabulary is starting to stick.",
+                          "korean":  "이 어휘는 이제 조금씩 입에 붙는 것 같아.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  329,
-                          "english":  "I\u0027m reviewing the vocabulary in example sentences so I can remember how each word is actually used.",
-                          "korean":  "각 단어가 실제로 어떻게 쓰이는지 기억하려고 예문 속에서 어휘를 다시 보고 있어.",
+                          "english":  "I\u0027m reviewing this vocabulary in context so I remember how people actually use it.",
+                          "korean":  "사람들이 실제로 어떻게 쓰는지 기억하려고 예문 속에서 어휘를 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful for repeated study."
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  330,
-                          "english":  "I\u0027m reviewing the listening.",
-                          "korean":  "나는 리스닝을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing listening today.",
+                          "korean":  "오늘은 리스닝을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  331,
-                          "english":  "I need to understand the listening better.",
-                          "korean":  "리스닝을 더 잘 이해해야 해.",
+                          "english":  "I want to understand listening more clearly.",
+                          "korean":  "리스닝을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  332,
-                          "english":  "Listening gets tricky when I understand each word but still miss the speaker\u0027s overall point.",
-                          "korean":  "단어 하나하나는 들리는데도 화자의 전체 요지를 놓칠 때 리스닝이 특히 어려워져.",
+                          "english":  "Listening gets tricky when I know the words but miss the point.",
+                          "korean":  "단어는 아는데 요지를 놓치면 리스닝이 확 어려워져.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful when something is not fully clear."
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  333,
-                          "english":  "I wrote notes about the listening.",
-                          "korean":  "리스닝을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on listening.",
+                          "korean":  "리스닝 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  334,
-                          "english":  "This listening is easier than I expected.",
-                          "korean":  "이 리스닝이 생각보다 쉬워.",
+                          "english":  "Listening feels less overwhelming now.",
+                          "korean":  "리스닝이 이제는 전보다 덬 벅차게 느겨져.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  335,
-                          "english":  "I\u0027m practicing listening with shorter clips first so I can catch subtle changes in tone.",
-                          "korean":  "미묘한 어조 변화를 잡아내려고 짧은 클립부터 들으면서 리스닝을 연습하고 있어.",
+                          "english":  "I\u0027m practicing listening with shorter clips first so I don\u0027t miss the speaker\u0027s tone.",
+                          "korean":  "화자의 어조를 놓치지 않으려고 짧은 클립부터 들으면서 리스닝을 연습하고 있어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful for repeated study."
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  336,
-                          "english":  "I\u0027m reviewing the reading.",
-                          "korean":  "나는 리딩을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing reading today.",
+                          "korean":  "오늘은 리딩을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  337,
-                          "english":  "I need to understand the reading better.",
-                          "korean":  "리딩을 더 잘 이해해야 해.",
+                          "english":  "I want to understand reading more clearly.",
+                          "korean":  "리딩을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  338,
-                          "english":  "The reading passage was harder than I expected because the writer implied more than they stated directly.",
-                          "korean":  "글쓴이가 직접 말한 것보다 암시한 내용이 더 많아서 지문이 생각보다 어려웠어.",
+                          "english":  "The reading was harder than I expected because so much was implied.",
+                          "korean":  "대놓고 말하지 않은 내용이 많아서 리딩이 생각보다 어려웠어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful when something is not fully clear."
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  339,
-                          "english":  "I wrote notes about the reading.",
-                          "korean":  "리딩을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on reading.",
+                          "korean":  "리딩 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  340,
-                          "english":  "This reading is easier than I expected.",
-                          "korean":  "이 리딩이 생각보다 쉬워.",
+                          "english":  "Reading feels smoother now.",
+                          "korean":  "리딩이 이제는 더 부드럽게 읽혀.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  341,
-                          "english":  "I\u0027m rereading the passage to see how the argument develops from one paragraph to the next.",
-                          "korean":  "논리가 문단마다 어떻게 전개되는지 보려고 지문을 다시 읽고 있어.",
+                          "english":  "I\u0027m rereading the passage to see how the writer connects one idea to the next.",
+                          "korean":  "글쓴이가 생각을 어떻게 이어 가는지 보려고 지문을 다시 읽고 있어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Useful for repeated study."
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  342,
-                          "english":  "I\u0027m reviewing the writing.",
-                          "korean":  "나는 라이팅을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing writing today.",
+                          "korean":  "오늘은 라이팅을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  343,
-                          "english":  "I need to understand the writing better.",
-                          "korean":  "라이팅을 더 잘 이해해야 해.",
+                          "english":  "I want to understand writing more clearly.",
+                          "korean":  "라이팅을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  344,
-                          "english":  "The writing still feels confusing.",
-                          "korean":  "라이팅이 아직 좀 헷갈려.",
+                          "english":  "My writing gets clearer when I cut the extra words.",
+                          "korean":  "굳이 필요 없는 말을 빼면 라이팅이 더 분명해져.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  345,
-                          "english":  "I wrote notes about the writing.",
-                          "korean":  "라이팅을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on writing.",
+                          "korean":  "라이팅 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want to remember key points."
+                          "level":  "Beginner",
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  346,
-                          "english":  "This writing is easier than I expected.",
-                          "korean":  "이 라이팅이 생각보다 쉬워.",
+                          "english":  "Writing feels a bit clearer now.",
+                          "korean":  "라이팅이 이제는 조금 더 분명해진 것 같아.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  347,
-                          "english":  "I\u0027m practicing the writing again.",
-                          "korean":  "나는 그 라이팅을 다시 연습하고 있어.",
+                          "english":  "I\u0027m practicing writing again because my ideas are clearer than my sentences right now.",
+                          "korean":  "지금은 생각보다 문장이 더 서투러서 라이팅을 다시 연습하고 있어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  348,
-                          "english":  "I\u0027m reviewing the summary.",
-                          "korean":  "나는 요약을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing summary today.",
+                          "korean":  "오늘은 요약을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  349,
-                          "english":  "I need to understand the summary better.",
-                          "korean":  "요약을 더 잘 이해해야 해.",
+                          "english":  "I want to understand summary more clearly.",
+                          "korean":  "요약을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  350,
-                          "english":  "The summary still feels confusing.",
-                          "korean":  "요약이 아직 좀 헷갈려.",
+                          "english":  "Summaries are harder when I don\u0027t know what to leave out.",
+                          "korean":  "뭐를 빼야 할지 모르면 요약이 더 어려워.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  351,
-                          "english":  "I wrote notes about the summary.",
-                          "korean":  "요약을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on summary.",
+                          "korean":  "요약 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want to remember key points."
+                          "level":  "Beginner",
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  352,
-                          "english":  "This summary is easier than I expected.",
-                          "korean":  "이 요약이 생각보다 쉬워.",
+                          "english":  "Summarizing feels easier than before.",
+                          "korean":  "요약하는 게 전보다 덧 수월해졌어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  353,
-                          "english":  "I\u0027m practicing the summary again.",
-                          "korean":  "나는 그 요약을 다시 연습하고 있어.",
+                          "english":  "I\u0027m practicing summaries again because mine still sound too close to the original.",
+                          "korean":  "내 요약이 아직 원문을 그대로 따라가는 느낌이라서 다시 연습하고 있어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  354,
-                          "english":  "I\u0027m reviewing the pattern.",
-                          "korean":  "나는 패턴을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing patterns today.",
+                          "korean":  "오늘은 패턴을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  355,
-                          "english":  "I need to understand the pattern better.",
-                          "korean":  "패턴을 더 잘 이해해야 해.",
+                          "english":  "I want to understand patterns more clearly.",
+                          "korean":  "패턴을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  356,
-                          "english":  "The pattern still feels confusing.",
-                          "korean":  "패턴이 아직 좀 헷갈려.",
+                          "english":  "The pattern is easier once I notice where it usually appears.",
+                          "korean":  "보통 어디서 나오는지 보이면 패턴이 더 쉽게 느겨져.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  357,
-                          "english":  "I wrote notes about the pattern.",
-                          "korean":  "패턴을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on patterns.",
+                          "korean":  "패턴 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want to remember key points."
+                          "level":  "Beginner",
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  358,
-                          "english":  "This pattern is easier than I expected.",
-                          "korean":  "이 패턴이 생각보다 쉬워.",
+                          "english":  "I\u0027m getting more comfortable with this pattern.",
+                          "korean":  "이 패턴이 이제는 조금씩 익숙해지고 있어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  359,
-                          "english":  "I\u0027m practicing the pattern again.",
-                          "korean":  "나는 그 패턴을 다시 연습하고 있어.",
+                          "english":  "I\u0027m going over the pattern again until I can recognize it without stopping.",
+                          "korean":  "멈추지 않고도 바로 알아볼 수 있을 때까지 패턴을 다시 보고 있어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  360,
-                          "english":  "I\u0027m reviewing the expression.",
-                          "korean":  "나는 표현을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing expressions today.",
+                          "korean":  "오늘은 표현을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  361,
-                          "english":  "I need to understand the expression better.",
-                          "korean":  "표현을 더 잘 이해해야 해.",
+                          "english":  "I want to understand expressions more clearly.",
+                          "korean":  "표현을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
                           "level":  "Intermediate",
-                          "situation":  "Useful when a topic feels difficult."
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  362,
-                          "english":  "The expression still feels confusing.",
-                          "korean":  "표현이 아직 좀 헷갈려.",
+                          "english":  "This expression sounds simple, but the nuance is easy to miss.",
+                          "korean":  "이 표현은 실제로 단순해 보여도 뉘앙스를 놓치기 쉬워.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  363,
-                          "english":  "I wrote notes about the expression.",
-                          "korean":  "표현을 메모해 뒀어.",
+                          "english":  "I wrote a few notes on expressions.",
+                          "korean":  "표현 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when you want to remember key points."
+                          "level":  "Beginner",
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  364,
-                          "english":  "This expression is easier than I expected.",
-                          "korean":  "이 표현이 생각보다 쉬워.",
+                          "english":  "These expressions feel easier to use now.",
+                          "korean":  "이 표현들은 이제 더 편하게 쓸 수 있을 것 같아.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  365,
-                          "english":  "I\u0027m practicing the expression again.",
-                          "korean":  "나는 그 표현을 다시 연습하고 있어.",
+                          "english":  "I\u0027m practicing these expressions again so they sound more natural in conversation.",
+                          "korean":  "실제 대화에서 더 자연스럽게 나오도록 표현을 다시 연습하고 있어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  366,
-                          "english":  "I\u0027m reviewing the dialog.",
-                          "korean":  "나는 대화를 복습하고 있어.",
+                          "english":  "I\u0027m reviewing dialogue today.",
+                          "korean":  "오늘은 대화을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  367,
-                          "english":  "I need to understand the dialog better.",
-                          "korean":  "대화를 더 잘 이해해야 해.",
+                          "english":  "I want to understand dialogue more clearly.",
+                          "korean":  "대화을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when a topic feels difficult."
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  368,
-                          "english":  "The dialog still feels confusing.",
-                          "korean":  "대화가 아직 좀 헷갈려.",
+                          "english":  "The dialogue makes more sense when I pay attention to who is reacting to what.",
+                          "korean":  "누가 뭐에 반응하는지 보면 대화 흐름이 더 잘 이해돼.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  369,
-                          "english":  "I wrote notes about the dialog.",
-                          "korean":  "대화를 메모해 뒀어.",
+                          "english":  "I wrote a few notes on dialogue.",
+                          "korean":  "대화 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  370,
-                          "english":  "This dialog is easier than I expected.",
-                          "korean":  "이 대화가 생각보다 쉬워.",
+                          "english":  "The dialogue makes more sense now.",
+                          "korean":  "이 대화는 이제 더 잘 이해돼.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  371,
-                          "english":  "I\u0027m practicing the dialog again.",
-                          "korean":  "나는 그 대화를 다시 연습하고 있어.",
+                          "english":  "I\u0027m going through the dialogue again because I want to catch the flow, not just the lines.",
+                          "korean":  "문장만 외우는 게 아니라 흐름을 잡고 싶어서 대화를 다시 보고 있어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  372,
-                          "english":  "I\u0027m reviewing the topic.",
-                          "korean":  "나는 주제를 복습하고 있어.",
+                          "english":  "I\u0027m reviewing main topic today.",
+                          "korean":  "오늘은 주제을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  373,
-                          "english":  "I need to understand the topic better.",
-                          "korean":  "주제를 더 잘 이해해야 해.",
+                          "english":  "I want to understand main topic more clearly.",
+                          "korean":  "주제을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when a topic feels difficult."
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  374,
-                          "english":  "The topic still feels confusing.",
-                          "korean":  "주제가 아직 좀 헷갈려.",
+                          "english":  "The main topic is clearer once I stop focusing on small details.",
+                          "korean":  "작은 부분에만 집중하지 않으면 주제가 더 선명해져.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  375,
-                          "english":  "I wrote notes about the topic.",
-                          "korean":  "주제를 메모해 뒀어.",
+                          "english":  "I wrote a few notes on main topic.",
+                          "korean":  "주제 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  376,
-                          "english":  "This topic is easier than I expected.",
-                          "korean":  "이 주제가 생각보다 쉬워.",
+                          "english":  "The main topic is clearer to me now.",
+                          "korean":  "주제가 이제는 더 선명하게 보여.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  377,
-                          "english":  "I\u0027m practicing the topic again.",
-                          "korean":  "나는 그 주제를 다시 연습하고 있어.",
+                          "english":  "I\u0027m reviewing the main topic again because I kept getting distracted by side points.",
+                          "korean":  "자꾸 새는 내용으로 빠져서 주제를 다시 정리하고 있어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  378,
-                          "english":  "I\u0027m reviewing the note.",
-                          "korean":  "나는 메모를 복습하고 있어.",
+                          "english":  "I\u0027m reviewing notes today.",
+                          "korean":  "오늘은 노트을 다시 보고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when saying what part of English you are studying."
                       },
                       {
                           "id":  379,
-                          "english":  "I need to understand the note better.",
-                          "korean":  "메모를 더 잘 이해해야 해.",
+                          "english":  "I want to understand notes more clearly.",
+                          "korean":  "노트을 더 정확하게 이해하고 싶어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when a topic feels difficult."
+                          "level":  "Intermediate",
+                          "situation":  "Use when explaining what part of English you want to improve."
                       },
                       {
                           "id":  380,
-                          "english":  "The note still feels confusing.",
-                          "korean":  "메모가 아직 좀 헷갈려.",
+                          "english":  "My notes help more when I keep them short and clear.",
+                          "korean":  "노트는 짧고 분명하게 적어 두면 더 도움이 돼.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when something is not fully clear."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing what makes a study point easier or harder."
                       },
                       {
                           "id":  381,
-                          "english":  "I wrote notes about the note.",
-                          "korean":  "메모를 메모해 뒀어.",
+                          "english":  "I wrote a few notes on notes.",
+                          "korean":  "노트 관련해서 메모를 조금 해 놨어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to remember key points."
+                          "situation":  "Use when saying you wrote notes while studying."
                       },
                       {
                           "id":  382,
-                          "english":  "This note is easier than I expected.",
-                          "korean":  "이 메모가 생각보다 쉬워.",
+                          "english":  "These notes are easier to follow now.",
+                          "korean":  "이 노트는 이제 더 따라가기 쉬워.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful when learning feels easier than expected."
+                          "level":  "Intermediate",
+                          "situation":  "Use when a lesson or concept starts to make sense."
                       },
                       {
                           "id":  383,
-                          "english":  "I\u0027m practicing the note again.",
-                          "korean":  "나는 그 메모를 다시 연습하고 있어.",
+                          "english":  "I\u0027m reorganizing my notes so I can find what I need faster later.",
+                          "korean":  "나중에 필요한 걸 더 빨리 찾으려고 노트를 다시 정리하고 있어.",
                           "category":  "Study",
-                          "level":  "Beginner",
-                          "situation":  "Useful for repeated study."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you are reviewing something in a more practical way."
                       },
                       {
                           "id":  384,
-                          "english":  "I\u0027m reviewing the review.",
-                          "korean":  "나는 복습을 복습하고 있어.",
+                          "english":  "I\u0027m reviewing what I studied yesterday.",
+                          "korean":  "어제 공부한 내용을 다시 복습하고 있어.",
                           "category":  "Study",
                           "level":  "Beginner",
-                          "situation":  "Useful when reviewing learning material."
+                          "situation":  "Use when going over something you studied the day before."
                       },
                       {
                           "id":  385,
-                          "english":  "I think the plan is good.",
-                          "korean":  "나는 그 계획이 좋아.",
+                          "english":  "This plan looks solid.",
+                          "korean":  "이 계획 괜찮아 보여.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when giving a simple positive opinion about a plan."
                       },
                       {
                           "id":  386,
-                          "english":  "I prefer tea over coffee.",
-                          "korean":  "나는 차보다 커피이 더 좋아.",
+                          "english":  "I\u0027d take tea over coffee today.",
+                          "korean":  "오늘은 커피보다 차가 더 당기네.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when saying which option you prefer right now."
                       },
                       {
                           "id":  387,
-                          "english":  "This feels more good than before.",
-                          "korean":  "이건 전보다 더 좋아.",
+                          "english":  "This feels a lot better than before.",
+                          "korean":  "이전보다 한결 나아진 느낌이야.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when saying something has clearly improved."
                       },
                       {
                           "id":  388,
-                          "english":  "It might be better to wait now.",
-                          "korean":  "지금 기다리하는 게 더 나을지도 몰라.",
+                          "english":  "It might be better to wait a bit longer.",
+                          "korean":  "조금 더 기다리는 게 낫을 지도 몰라.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when gently suggesting more time."
                       },
                       {
                           "id":  389,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I can see what you mean.",
+                          "korean":  "무슨 말인지 알 것 같아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when acknowledging someone\u0027s point."
                       },
                       {
                           "id":  390,
-                          "english":  "I think the idea is interesting.",
-                          "korean":  "나는 그 아이디어가 흥미로워.",
+                          "english":  "That\u0027s an interesting idea, but I\u0027m not fully sold on it yet.",
+                          "korean":  "흥미로운 아이디어이긴 한데 아직 완전히 난 설득되진 않았어.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when reacting to an idea with cautious interest."
                       },
                       {
                           "id":  391,
-                          "english":  "I prefer today over tomorrow.",
-                          "korean":  "나는 오늘보다 내일이 더 좋아.",
+                          "english":  "That sounds fair to me.",
+                          "korean":  "내로선 그게 공정하게 들려.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when saying a decision seems fair."
                       },
                       {
                           "id":  392,
-                          "english":  "This feels more interesting than before.",
-                          "korean":  "이건 전보다 더 흥미로워.",
+                          "english":  "I like the simpler option better.",
+                          "korean":  "내는 더 단순한 쪽이 좋아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when comparing two options."
                       },
                       {
                           "id":  393,
-                          "english":  "It might be better to change now.",
-                          "korean":  "지금 바꾸하는 게 더 나을지도 몰라.",
+                          "english":  "We may be overthinking something that could stay simple.",
+                          "korean":  "그냥 단순하게 갈 수 있는 걸 우리가 너무 복잡하게 보는 것 같아.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting that something is becoming unnecessarily complicated."
                       },
                       {
                           "id":  394,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "You have a point.",
+                          "korean":  "그 말도 일리 있어.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when briefly agreeing with someone\u0027s point."
                       },
                       {
                           "id":  395,
-                          "english":  "I think the result is surprising.",
-                          "korean":  "나는 그 결과가 놀라워.",
+                          "english":  "That result caught me off guard.",
+                          "korean":  "그 결과는 좀 의외였어.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when reacting to an unexpected result."
                       },
                       {
                           "id":  396,
-                          "english":  "I prefer simple over complex.",
-                          "korean":  "나는 단순한보다 복잡한이 더 좋아.",
+                          "english":  "I usually prefer simple over complicated.",
+                          "korean":  "보통은 복잡한 것보다 단순한 게 더 좋아.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when explaining a general preference."
                       },
                       {
                           "id":  397,
-                          "english":  "This feels more surprising than before.",
-                          "korean":  "이건 전보다 더 놀라워.",
+                          "english":  "This feels more polished now.",
+                          "korean":  "지금이 더 다듬어진 느낌이야.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when saying something seems more refined than before."
                       },
                       {
                           "id":  398,
-                          "english":  "It might be better to simplify now.",
-                          "korean":  "지금 단순화하는 게 더 나을지도 몰라.",
+                          "english":  "It might help to simplify this first.",
+                          "korean":  "우선 이거부터 단순하게 정리하면 좋을 것 같아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting a simpler approach."
                       },
                       {
                           "id":  399,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I\u0027m with you on that part.",
+                          "korean":  "그 부분에서는 나도 같은 생각이야.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when agreeing with part of what someone said."
                       },
                       {
                           "id":  400,
-                          "english":  "I think the design is clean.",
-                          "korean":  "나는 그 디자인이 깔끔해.",
+                          "english":  "The design looks clean.",
+                          "korean":  "디자인이 깔끔해 보여.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when giving a simple opinion about a design."
                       },
                       {
                           "id":  401,
-                          "english":  "I prefer small over large.",
-                          "korean":  "나는 작은보다 큰이 더 좋아.",
+                          "english":  "I\u0027d go with the smaller one.",
+                          "korean":  "내라면 더 작은 걸 고를 것 같아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when choosing between two sizes or versions."
                       },
                       {
                           "id":  402,
-                          "english":  "This feels more clean than before.",
-                          "korean":  "이건 전보다 더 깔끔해.",
+                          "english":  "The layout feels easier to follow now.",
+                          "korean":  "지금은 구성을 따라가기 더 쉬워진 것 같아.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when saying something is easier to understand after changes."
                       },
                       {
                           "id":  403,
-                          "english":  "It might be better to adjust now.",
-                          "korean":  "지금 조정하는 게 더 나을지도 몰라.",
+                          "english":  "We should adjust this part a little.",
+                          "korean":  "이 부분은 조금 손보면 좋을 것 같아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting a small change."
                       },
                       {
                           "id":  404,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "That seems like the right call.",
+                          "korean":  "그게 맞는 판단 같아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when supporting a decision."
                       },
                       {
                           "id":  405,
-                          "english":  "I think the method is efficient.",
-                          "korean":  "나는 그 방식이 효율적이야.",
+                          "english":  "The method is efficient, but it may feel rushed for beginners.",
+                          "korean":  "이 방식은 효율적이지만 초보자에게는 조금 빠르게 느겨질 수 있어.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when giving a balanced opinion about a method."
                       },
                       {
                           "id":  406,
-                          "english":  "I prefer slow over fast.",
-                          "korean":  "나는 느린보다 빠른이 더 좋아.",
+                          "english":  "I\u0027d rather go slower and get it right.",
+                          "korean":  "내는 좀 더 천천히 하더라도 제대로 하는 게 좋아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when saying accuracy matters more than speed."
                       },
                       {
                           "id":  407,
-                          "english":  "This feels more efficient than before.",
-                          "korean":  "이건 전보다 더 효율적이야.",
+                          "english":  "This approach feels more efficient now.",
+                          "korean":  "지금 방식이 더 효율적으로 느겨져.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when a revised approach seems to work better."
                       },
                       {
                           "id":  408,
-                          "english":  "It might be better to keep now.",
-                          "korean":  "지금 유지하는 게 더 나을지도 몰라.",
+                          "english":  "It may be better to leave this as it is for now.",
+                          "korean":  "일단은 그대로 두는 게 더 낫을 수 있어.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting that no further change is needed yet."
                       },
                       {
                           "id":  409,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I get why you feel that way.",
+                          "korean":  "왜 그렇게 느낌지 알 것 같아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when showing understanding of someone\u0027s view."
                       },
                       {
                           "id":  410,
-                          "english":  "I think the answer is clear.",
-                          "korean":  "나는 그 답이 명확해.",
+                          "english":  "The answer seems pretty clear to me.",
+                          "korean":  "내 보기에는 답이 비교적 명확해.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when saying the conclusion seems obvious."
                       },
                       {
                           "id":  411,
-                          "english":  "I prefer open over closed.",
-                          "korean":  "나는 열린보다 닫힌이 더 좋아.",
+                          "english":  "I prefer the more open version.",
+                          "korean":  "내는 더 열려 있는 버전이 좋아.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when explaining which style or tone you prefer."
                       },
                       {
                           "id":  412,
-                          "english":  "This feels more clear than before.",
-                          "korean":  "이건 전보다 더 명확해.",
+                          "english":  "It\u0027s much clearer now.",
+                          "korean":  "지금은 훨씬 더 명확해.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when something becomes easier to understand."
                       },
                       {
                           "id":  413,
-                          "english":  "It might be better to check now.",
-                          "korean":  "지금 확인하는 게 더 나을지도 몰라.",
+                          "english":  "We should double-check that first.",
+                          "korean":  "그거부터 한 번 더 확인해 보자.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting one more check before deciding."
                       },
                       {
                           "id":  414,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the direction, but not every detail yet.",
+                          "korean":  "방향성은 동의하는데 세부 내용까지 다 맞는 건 아직 아니야.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you support the overall idea but not every part of it."
                       },
                       {
                           "id":  415,
-                          "english":  "I think the result is better.",
-                          "korean":  "나는 그 결과가 더 나아.",
+                          "english":  "This version is better.",
+                          "korean":  "이 버전이 더 나아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when comparing a new version with an old one."
                       },
                       {
                           "id":  416,
-                          "english":  "I prefer left over right.",
-                          "korean":  "나는 왼쪽보다 오른쪽이 더 좋아.",
+                          "english":  "I prefer the left one.",
+                          "korean":  "내는 왼쪽 게 더 좋아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when choosing between two visible options."
                       },
                       {
                           "id":  417,
-                          "english":  "This feels more better than before.",
-                          "korean":  "이건 전보다 더 더 나아.",
+                          "english":  "The result feels more balanced now.",
+                          "korean":  "결과가 지금은 더 균형 잡힌 느낌이야.",
                           "category":  "Opinion",
-                          "level":  "Beginner",
-                          "situation":  "Useful when your opinion changes."
+                          "level":  "Advanced",
+                          "situation":  "Use when something seems more even or stable after changes."
                       },
                       {
                           "id":  418,
-                          "english":  "It might be better to improve now.",
-                          "korean":  "지금 개선하는 게 더 나을지도 몰라.",
+                          "english":  "We can improve that part later.",
+                          "korean":  "그 부분은 나중에 더 개선해도 될 것 같아.",
                           "category":  "Opinion",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "level":  "Beginner",
+                          "situation":  "Use when saying a change can wait."
                       },
                       {
                           "id":  419,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I see where you\u0027re coming from.",
+                          "korean":  "어떤 의미로 그렇게 말했는지 알 것 같아.",
                           "category":  "Opinion",
-                          "level":  "Beginner",
-                          "situation":  "Useful when you want to support a point."
+                          "level":  "Intermediate",
+                          "situation":  "Use when acknowledging another person\u0027s perspective."
                       },
                       {
                           "id":  420,
-                          "english":  "I think the route is short.",
-                          "korean":  "나는 그 경로가 짧아.",
+                          "english":  "That route looks shorter on the map.",
+                          "korean":  "지도상으로는 그 길이 더 짧아 보여.",
                           "category":  "Opinion",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when sharing a judgment."
+                          "level":  "Advanced",
+                          "situation":  "Use when comparing route options."
                       },
                       {
                           "id":  421,
-                          "english":  "I prefer public over private.",
-                          "korean":  "나는 대중적인보다 개인적인이 더 좋아.",
+                          "english":  "I\u0027d rather keep this private.",
+                          "korean":  "내는 이건 비공개로 두는 게 좋아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when saying you do not want something shared widely."
                       },
                       {
                           "id":  422,
-                          "english":  "This feels more short than before.",
-                          "korean":  "이건 전보다 더 짧아.",
+                          "english":  "This feels more straightforward now.",
+                          "korean":  "지금은 더 단순하고 직접적으로 느겨져.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when your opinion changes."
+                          "situation":  "Use when something becomes easier to follow."
                       },
                       {
                           "id":  423,
-                          "english":  "It might be better to change now.",
-                          "korean":  "지금 바꾸하는 게 더 나을지도 몰라.",
+                          "english":  "It might be time to change course.",
+                          "korean":  "이제는 방향을 바꿀 때가 된 것 같아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting a different direction."
                       },
                       {
                           "id":  424,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "That\u0027s a fair concern.",
+                          "korean":  "그건 충분히 걱정할 만한 포인트야.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when validating someone\u0027s concern."
                       },
                       {
                           "id":  425,
-                          "english":  "I think the choice is reasonable.",
-                          "korean":  "나는 그 선택이 합리적이야.",
+                          "english":  "That seems like a reasonable choice.",
+                          "korean":  "그게 굉장히 합리적인 선택 같아.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when saying a choice makes sense."
                       },
                       {
                           "id":  426,
-                          "english":  "I prefer this one over that one.",
-                          "korean":  "나는 이거보다 저거이 더 좋아.",
+                          "english":  "I like this one better than that one.",
+                          "korean":  "내는 저것보다 이것이 더 마음에 들어.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful for expressing a preference."
+                          "situation":  "Use when comparing two options directly."
                       },
                       {
                           "id":  427,
-                          "english":  "This feels more reasonable than before.",
-                          "korean":  "이건 전보다 더 합리적이야.",
+                          "english":  "The decision feels more reasonable after hearing the full context.",
+                          "korean":  "전체 맥락을 듣고 나니 그 결정이 더 합리적으로 느겨져.",
                           "category":  "Opinion",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when your opinion changes."
+                          "level":  "Advanced",
+                          "situation":  "Use when your opinion improves after getting more information."
                       },
                       {
                           "id":  428,
-                          "english":  "It might be better to reconsider now.",
-                          "korean":  "지금 다시 생각하는 게 더 나을지도 몰라.",
+                          "english":  "We may want to think it over one more time.",
+                          "korean":  "한 번 더 차분히 생각해 보는 게 좋을 것 같아.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when suggesting one more round of consideration."
                       },
                       {
                           "id":  429,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I\u0027m on the same page with you.",
+                          "korean":  "나도 그 부분은 같은 생각이야.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when saying you agree with someone\u0027s view."
                       },
                       {
                           "id":  430,
-                          "english":  "I think the solution is practical.",
-                          "korean":  "나는 그 해결책이 실용적이야.",
+                          "english":  "The solution is practical, even if it isn\u0027t perfect.",
+                          "korean":  "완벽하진 않아도 그 해결책은 실용적이야.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when sharing a judgment."
+                          "situation":  "Use when supporting a practical solution."
                       },
                       {
                           "id":  431,
                           "english":  "The train leaves at eight.",
-                          "korean":  "기차가 여덟 시에 출발해.",
+                          "korean":  "기차는 여덟 시에 출발해.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when talking about a train departure time."
                       },
                       {
                           "id":  432,
                           "english":  "Could you tell me where the station is?",
-                          "korean":  "역은 어디인지 알려주실 수 있나요?",
+                          "korean":  "역이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking for directions to a station."
                       },
                       {
                           "id":  433,
-                          "english":  "The station was busier than I expected.",
-                          "korean":  "역이 생각보다 더 붐볐어.",
+                          "english":  "The station was more crowded than I expected.",
+                          "korean":  "역이 생각보다 더 붐비더라.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Useful when describing a crowded place."
+                          "situation":  "Use when describing how busy a station was."
                       },
                       {
                           "id":  434,
                           "english":  "The bus leaves at nine thirty.",
-                          "korean":  "버스가 아홉 시 반에 출발해.",
+                          "korean":  "버스는 아홉 시 반에 출발해.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when sharing a bus departure time."
                       },
                       {
                           "id":  435,
-                          "english":  "Could you tell me where the stop is?",
-                          "korean":  "정류장은 어디인지 알려주실 수 있나요?",
+                          "english":  "Could you tell me where the bus stop is?",
+                          "korean":  "버스 정류장이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking for directions to a bus stop."
                       },
                       {
                           "id":  436,
-                          "english":  "The stop was busier than I expected.",
-                          "korean":  "정류장이 생각보다 더 붐볐어.",
+                          "english":  "The bus stop was busier than I expected.",
+                          "korean":  "버스 정류장이 생각보다 더 복잡했어.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Useful when describing a crowded place."
+                          "situation":  "Use when describing a crowded bus stop."
                       },
                       {
                           "id":  437,
-                          "english":  "The subway leaves at rush hour.",
-                          "korean":  "지하철이 출퇴근 시간에 출발해.",
+                          "english":  "The subway is packed during rush hour.",
+                          "korean":  "출퇴근 시간에는 지하철이 꽉 차.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when describing a busy subway."
                       },
                       {
                           "id":  438,
-                          "english":  "Could you tell me where the platform is?",
-                          "korean":  "승강장은 어디인지 알려주실 수 있나요?",
+                          "english":  "Could you tell me where platform three is?",
+                          "korean":  "3번 승강장이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking for a specific platform."
                       },
                       {
                           "id":  439,
-                          "english":  "The platform was busier than I expected.",
-                          "korean":  "승강장이 생각보다 더 붐볐어.",
+                          "english":  "The platform was so crowded that I had to wait for the next train.",
+                          "korean":  "승강장에 사람이 너무 많아서 다음 열차를 기다려야 했어.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Useful when describing a crowded place."
+                          "situation":  "Use when explaining why you missed a crowded train."
                       },
                       {
                           "id":  440,
-                          "english":  "The taxi leaves at late at night.",
-                          "korean":  "택시가 늦은 밤에 출발해.",
+                          "english":  "It\u0027s hard to get a taxi late at night.",
+                          "korean":  "늦은 밤에는 택시 잡기가 어려워.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when saying taxis are hard to find at night."
                       },
                       {
                           "id":  441,
                           "english":  "Could you tell me where the hotel is?",
-                          "korean":  "호텔은 어디인지 알려주실 수 있나요?",
+                          "korean":  "호텔이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking for directions to a hotel."
                       },
                       {
                           "id":  442,
-                          "english":  "The hotel was busier than I expected.",
-                          "korean":  "호텔이 생각보다 더 붐볐어.",
+                          "english":  "The hotel lobby was much busier than I expected.",
+                          "korean":  "호텔 로비가 생각보다 훨씬 붐비더라.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Useful when describing a crowded place."
+                          "situation":  "Use when describing a busy hotel."
                       },
                       {
                           "id":  443,
                           "english":  "The ferry leaves at noon.",
-                          "korean":  "배가 정오에 출발해.",
+                          "korean":  "배는 정오에 출발해.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when sharing a ferry departure time."
                       },
                       {
                           "id":  444,
-                          "english":  "Could you tell me where the port is?",
-                          "korean":  "항구은 어디인지 알려주실 수 있나요?",
+                          "english":  "Could you tell me where the ferry terminal is?",
+                          "korean":  "여객선 터미널이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking for directions to a ferry terminal."
                       },
                       {
                           "id":  445,
-                          "english":  "The port was busier than I expected.",
-                          "korean":  "항구가 생각보다 더 붐볐어.",
+                          "english":  "The terminal was more crowded than I expected, so boarding took longer.",
+                          "korean":  "터미널이 생각보다 더 붐비는 바람에 탑승하는 데 시간이 걸렸어.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Useful when describing a crowded place."
+                          "situation":  "Use when explaining a delay caused by a crowd."
                       },
                       {
                           "id":  446,
-                          "english":  "The plane leaves at early morning.",
-                          "korean":  "비행기가 이른 아침에 출발해.",
+                          "english":  "My flight leaves early in the morning.",
+                          "korean":  "내 비행기는 이른 아침에 출발해.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when talking about an early flight."
                       },
                       {
                           "id":  447,
-                          "english":  "Could you tell me where the airport is?",
-                          "korean":  "공항은 어디인지 알려주실 수 있나요?",
+                          "english":  "Could you tell me where the airport shuttle stops?",
+                          "korean":  "공항 셔틀이 서는 곳이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking where to catch an airport shuttle."
                       },
                       {
                           "id":  448,
-                          "english":  "The airport was busier than I expected.",
-                          "korean":  "공항이 생각보다 더 붐볐어.",
+                          "english":  "The airport felt calmer than usual this morning.",
+                          "korean":  "오늘 아침에는 공항이 평소보다 더 조용한 편이었어.",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when describing a crowded place."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing the atmosphere at an airport."
                       },
                       {
                           "id":  449,
-                          "english":  "The car leaves at after lunch.",
-                          "korean":  "차가 점심 후에 출발해.",
+                          "english":  "We\u0027re leaving right after lunch.",
+                          "korean":  "우리는 점심 먹자마자 출발할 거야.",
                           "category":  "Travel",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for common transit talk."
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about departure plans after lunch."
                       },
                       {
                           "id":  450,
                           "english":  "Could you tell me where the parking lot is?",
-                          "korean":  "주차장은 어디인지 알려주실 수 있나요?",
+                          "korean":  "주차장이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when asking for directions."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking for directions to a parking lot."
                       },
                       {
                           "id":  451,
-                          "english":  "The parking lot was busier than I expected.",
-                          "korean":  "주차장이 생각보다 더 붐볐어.",
+                          "english":  "The parking lot was so full that we had to circle around twice.",
+                          "korean":  "주차장이 너무 꽉 차서 두 번이나 돌아야 했어.",
                           "category":  "Travel",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when describing a crowded place."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining trouble finding parking."
                       },
                       {
                           "id":  452,
-                          "english":  "The tram leaves at this afternoon.",
-                          "korean":  "트램이 오늘 오후에 출발해.",
+                          "english":  "The tram should be here this afternoon.",
+                          "korean":  "트램은 오늘 오후에 도착할 거야.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when talking about a tram arrival later today."
                       },
                       {
                           "id":  453,
-                          "english":  "Could you tell me where the downtown is?",
-                          "korean":  "시내은 어디인지 알려주실 수 있나요?",
+                          "english":  "Could you tell me how to get downtown?",
+                          "korean":  "시내로 어떻게 가는지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking how to get downtown."
                       },
                       {
                           "id":  454,
-                          "english":  "The downtown was busier than I expected.",
-                          "korean":  "시내가 생각보다 더 붐볐어.",
+                          "english":  "Downtown was livelier than I expected, even in the middle of the day.",
+                          "korean":  "한낮인데도 시내가 생각보다 훨씬 활기 있었어.",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when describing a crowded place."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing a lively downtown area."
                       },
                       {
                           "id":  455,
-                          "english":  "The shuttle leaves at in ten minutes.",
-                          "korean":  "셔틀이 10분 후에 출발해.",
+                          "english":  "The shuttle leaves in ten minutes.",
+                          "korean":  "셔틀은 10분 후에 출발해.",
                           "category":  "Travel",
-                          "level":  "Intermediate",
-                          "situation":  "Useful for common transit talk."
+                          "level":  "Beginner",
+                          "situation":  "Use when talking about a shuttle leaving soon."
                       },
                       {
                           "id":  456,
                           "english":  "Could you tell me where the terminal is?",
-                          "korean":  "터미널은 어디인지 알려주실 수 있나요?",
+                          "korean":  "터미널이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when asking for directions."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking for directions to a terminal."
                       },
                       {
                           "id":  457,
-                          "english":  "The terminal was busier than I expected.",
-                          "korean":  "터미널이 생각보다 더 붐볐어.",
+                          "english":  "The terminal looked confusing at first, but the signs were easy to follow.",
+                          "korean":  "처음에는 터미널이 복잡해 보였는데 표지판은 따라가기 쉬웠어.",
                           "category":  "Travel",
-                          "level":  "Intermediate",
-                          "situation":  "Useful when describing a crowded place."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing a place that turned out to be manageable."
                       },
                       {
                           "id":  458,
-                          "english":  "The bike leaves at this weekend.",
-                          "korean":  "자전거가 이번 주말에 출발해.",
+                          "english":  "We\u0027re renting bikes this weekend.",
+                          "korean":  "우리는 이번 주말에 자전거를 빌릴 거야.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when talking about travel plans for the weekend."
                       },
                       {
                           "id":  459,
-                          "english":  "Could you tell me where the park is?",
-                          "korean":  "공원은 어디인지 알려주실 수 있나요?",
+                          "english":  "Could you tell me where the park entrance is?",
+                          "korean":  "공원 입구가 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
                           "level":  "Intermediate",
-                          "situation":  "Useful when asking for directions."
+                          "situation":  "Use when asking how to find the entrance to a park."
                       },
                       {
                           "id":  460,
-                          "english":  "The park was busier than I expected.",
-                          "korean":  "공원이 생각보다 더 붐볐어.",
+                          "english":  "The park was quieter than I expected, which made the walk even better.",
+                          "korean":  "공원이 생각보다 조용해서 산책하기 더 좋았어.",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when describing a crowded place."
+                          "level":  "Advanced",
+                          "situation":  "Use when describing a peaceful place you visited."
                       },
                       {
                           "id":  461,
-                          "english":  "The ride-share leaves at right now.",
-                          "korean":  "차량 공유가 지금에 출발해.",
+                          "english":  "Our ride is already here.",
+                          "korean":  "우리 차 이미 와 있어.",
                           "category":  "Travel",
                           "level":  "Beginner",
-                          "situation":  "Useful for common transit talk."
+                          "situation":  "Use when your ride has arrived."
                       },
                       {
                           "id":  462,
                           "english":  "Could you tell me where the front gate is?",
-                          "korean":  "정문은 어디인지 알려주실 수 있나요?",
+                          "korean":  "정문이 어디인지 알려 주실 수 있나요?",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when asking for directions."
+                          "level":  "Intermediate",
+                          "situation":  "Use when asking for the front gate."
                       },
                       {
                           "id":  463,
-                          "english":  "The front gate was busier than I expected.",
-                          "korean":  "정문이 생각보다 더 붐볐어.",
+                          "english":  "The front gate was closer than I thought, so we made it in time.",
+                          "korean":  "정문이 생각보다 가까워서 제시간에 맞춰 들어갈 수 있었어.",
                           "category":  "Travel",
-                          "level":  "Beginner",
-                          "situation":  "Useful when describing a crowded place."
+                          "level":  "Advanced",
+                          "situation":  "Use when explaining how you arrived just in time."
                       },
                       {
                           "id":  464,
@@ -3733,11 +3733,11 @@
                       },
                       {
                           "id":  467,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "It was great seeing you.",
+                          "korean":  "너 만나서 정말 좋았어.",
                           "category":  "Social",
                           "level":  "Beginner",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when ending a meetup on a warm note."
                       },
                       {
                           "id":  468,
@@ -3765,11 +3765,11 @@
                       },
                       {
                           "id":  471,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "Thanks for making time today.",
+                          "korean":  "오늘 시간 내 줘서 고마워.",
                           "category":  "Social",
                           "level":  "Intermediate",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when appreciating that someone met with you."
                       },
                       {
                           "id":  472,
@@ -3829,11 +3829,11 @@
                       },
                       {
                           "id":  479,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "I had a really nice time.",
+                          "korean":  "나 정말 좋은 시간 보냈어.",
                           "category":  "Social",
                           "level":  "Beginner",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when wrapping up after an enjoyable meetup."
                       },
                       {
                           "id":  480,
@@ -3861,11 +3861,11 @@
                       },
                       {
                           "id":  483,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "I\u0027m glad we got to catch up.",
+                          "korean":  "오랜만에 이야기할 수 있어서 좋았어.",
                           "category":  "Social",
                           "level":  "Intermediate",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when you are happy you had time to reconnect."
                       },
                       {
                           "id":  484,
@@ -3989,11 +3989,11 @@
                       },
                       {
                           "id":  499,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "Let\u0027s do this again sometime.",
+                          "korean":  "다음에 또 보자.",
                           "category":  "Social",
                           "level":  "Beginner",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when ending a meetup and hoping to repeat it."
                       },
                       {
                           "id":  500,
@@ -4061,11 +4061,11 @@
                       },
                       {
                           "id":  508,
-                          "situation":  "Use when commenting on nice weather.",
+                          "situation":  "Use when the weather makes you want to go outside.",
                           "level":  "Beginner",
                           "category":  "Daily life",
-                          "english":  "The weather looks perfect for a walk.",
-                          "korean":  "산책하기에 날씨가 딱 좋아 보여요."
+                          "english":  "It\u0027s too nice to stay inside.",
+                          "korean":  "날씨가 좋아서 집에만 있기 아깝다."
                       },
                       {
                           "id":  509,
@@ -4317,11 +4317,11 @@
                       },
                       {
                           "id":  540,
-                          "english":  "I used to think grocery shopping was just an errand, but it\u0027s really a weekly decision about time, money, and energy.",
-                          "korean":  "예전에는 장보기가 그냥 심부름이라고 생각했는데 사실은 시간, 돈, 에너지를 어떻게 쓸지에 대한 주간 결정이더라.",
+                          "english":  "Grocery shopping isn\u0027t just an errand for me anymore. It\u0027s how I plan out the week.",
+                          "korean":  "장보는 이제 단순한 심부름이 아니야. 한 주를 어떻게 보낼지 정리하는 시간이야.",
                           "category":  "Daily life",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on everyday responsibilities."
+                          "situation":  "Use when talking about how grocery shopping fits into your routine."
                       },
                       {
                           "id":  541,
@@ -4461,11 +4461,11 @@
                       },
                       {
                           "id":  558,
-                          "english":  "I enjoy seeing people more when it feels like we\u0027re choosing the moment, not just filling a slot in the calendar.",
-                          "korean":  "단순히 빈 시간을 채우는 게 아니라 진짜 그 순간을 고른 느낌일 때 사람 만나는 게 더 좋아.",
+                          "english":  "I enjoy meeting people more when it doesn\u0027t feel forced.",
+                          "korean":  "내는 만남이 억지럽지 않을 때 더 즐겁더라.",
                           "category":  "Social",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about intentional plans."
+                          "situation":  "Use when talking about what makes social time enjoyable."
                       },
                       {
                           "id":  559,
@@ -4549,19 +4549,19 @@
                       },
                       {
                           "id":  569,
-                          "english":  "I value conversations that can hold both ordinary updates and the things we\u0027re not quite ready to say directly.",
-                          "korean":  "평범한 근황과 아직 직접적으로 말할 준비가 안 된 이야기 둘 다 담을 수 있는 대화를 나는 소중하게 생각해.",
+                          "english":  "I like conversations where we can talk about ordinary things and real things in the same breath.",
+                          "korean":  "일상 이야기도 하고 진짜 속이야기도 같이 할 수 있는 대화가 좋아.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about depth in communication."
+                          "situation":  "Use when describing the kind of conversation you value."
                       },
                       {
                           "id":  570,
-                          "english":  "Staying in touch matters more to me now that I\u0027ve realized how easily good relationships drift without intention.",
-                          "korean":  "좋은 관계도 의식하지 않으면 쉽게 멀어진다는 걸 알고 난 뒤로는 계속 연락을 주고받는 일이 더 중요해졌어.",
+                          "english":  "I care more about staying in touch now because I know how easy it is to drift apart.",
+                          "korean":  "사이가 멀어지는 건 정말 순식간이라 요즘은 연락을 더 의식하게 돼.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on maintaining relationships."
+                          "situation":  "Use when explaining why you try to maintain relationships."
                       },
                       {
                           "id":  571,
@@ -4613,11 +4613,11 @@
                       },
                       {
                           "id":  577,
-                          "english":  "A delayed decision is frustrating, but sometimes it\u0027s still better than a rushed one built on partial information.",
-                          "korean":  "결정이 늦어지는 건 답답하지만, 불완전한 정보로 서두른 결정하는 것보다는 나을 때가 있어.",
+                          "english":  "Putting off a decision is frustrating, but rushing it can be worse.",
+                          "korean":  "결정이 미루어지면 답답하지만 서두르면 더 크게 꼬일 수 있어.",
                           "category":  "Conversation",
                           "level":  "Advanced",
-                          "situation":  "Use when defending the value of waiting."
+                          "situation":  "Use when weighing delay against making a rushed decision."
                       },
                       {
                           "id":  578,
@@ -4797,11 +4797,11 @@
                       },
                       {
                           "id":  600,
-                          "english":  "I prepare carefully not because I expect problems, but because I want to stay calm if they happen.",
-                          "korean":  "문제가 생길 거라고 생각해서가 아니라, 생겼을 때 침착하고 싶어서 꼼꼼히 준비하는 거야.",
+                          "english":  "I prepare ahead of time because it helps me stay calm if something goes wrong.",
+                          "korean":  "미리 준비해 두면 무슨 일이 생겨도 덜 당황하게 돼.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Use when explaining the purpose of preparation."
+                          "situation":  "Use when explaining why you prepare carefully before a trip."
                       },
                       {
                           "id":  601,
@@ -4813,11 +4813,11 @@
                       },
                       {
                           "id":  602,
-                          "english":  "I need to finish this before lunch.",
-                          "korean":  "점심 전에 이걸 끝내야 해.",
+                          "english":  "I have to wrap this up before lunch.",
+                          "korean":  "점심 전에 이거 마무리해야 해.",
                           "category":  "Work",
                           "level":  "Beginner",
-                          "situation":  "Use when talking about a near-term deadline."
+                          "situation":  "Use when talking about something you need to finish before lunch."
                       },
                       {
                           "id":  603,
@@ -4877,11 +4877,11 @@
                       },
                       {
                           "id":  610,
-                          "english":  "The more people involved, the more important it becomes to make assumptions visible instead of leaving them implied.",
-                          "korean":  "관련된 사람이 많아질수록 암묵적으로 넘기지 말고 전제를 눈에 보이게 만드는 일이 중요해져.",
+                          "english":  "Once more people are involved, it\u0027s better to say assumptions out loud.",
+                          "korean":  "연관된 사람이 많아지면 가정하고 있던 건 아예 말로 꺼내는 게 좋아.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about communication in collaborative work."
+                          "situation":  "Use when saying that shared assumptions should be made explicit."
                       },
                       {
                           "id":  611,
@@ -4957,11 +4957,11 @@
                       },
                       {
                           "id":  620,
-                          "english":  "I\u0027ve learned that a responsible status update includes not only what changed, but also what remains uncertain.",
-                          "korean":  "책임 있는 진행 공유에는 바뀐 것뿐 아니라 아직 불확실한 부분도 함께 담겨야 한다는 걸 배웠어요.",
+                          "english":  "A good status update should cover both what changed and what\u0027s still unclear.",
+                          "korean":  "좋은 진행 공유는 바뀐 것과 아직 불확실한 부분을 다 포함해야 해요.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Use when describing mature communication at work."
+                          "situation":  "Use when explaining what makes a work update useful."
                       },
                       {
                           "id":  621,
@@ -4989,11 +4989,11 @@
                       },
                       {
                           "id":  624,
-                          "english":  "The discussion was useful, but I think we still need a clearer owner for the next step.",
-                          "korean":  "논의는 유익했지만 다음 단계의 담당자는 더 명확히 정해야 할 것 같아.",
+                          "english":  "The discussion was useful, but we still need a clearer owner for the next step.",
+                          "korean":  "논의는 유익했지만 다음 단계 담당자는 더 명확해야 해.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Use when pointing out what is still missing."
+                          "situation":  "Use when pointing out that responsibility is still unclear."
                       },
                       {
                           "id":  625,
@@ -5013,11 +5013,11 @@
                       },
                       {
                           "id":  627,
-                          "english":  "The conversation was thoughtful, but it kept circling the issue instead of resolving the tradeoff at the center of it.",
-                          "korean":  "대화는 깊이 있었지만 핵심 쟁점을 정리하기보다 주변을 맴도는 느낌이었어.",
+                          "english":  "The conversation was thoughtful, but we kept circling the issue instead of deciding anything.",
+                          "korean":  "대화 자체는 괜찮았는데 계속 그 문제 주변만 돌고 정작 결론은 못 냈어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Use when evaluating a discussion honestly."
+                          "situation":  "Use when a discussion was useful but still inconclusive."
                       },
                       {
                           "id":  628,
@@ -5029,11 +5029,11 @@
                       },
                       {
                           "id":  629,
-                          "english":  "What makes a decision difficult isn\u0027t always complexity; sometimes it\u0027s the cost of choosing one priority over another.",
-                          "korean":  "결정을 어렵게 만드는 건 언제나 복잡성만이 아니라 한 우선순위를 택하면서 다른 걸 포기해야 하는 대가일 때도 있어.",
+                          "english":  "A decision can be hard even when the options are simple.",
+                          "korean":  "선택지자체는 단순해도 결정 내리기 어려울 때가 있어.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Use when discussing tradeoffs."
+                          "situation":  "Use when saying that simple choices can still be difficult."
                       },
                       {
                           "id":  630,
@@ -5117,11 +5117,11 @@
                       },
                       {
                           "id":  640,
-                          "english":  "The strongest presentations usually feel simple only because someone spent a long time removing what was unnecessary.",
-                          "korean":  "가장 강한 발표가 단순해 보이는 건 누군가가 불필요한 걸 없애는 데 오랜 시간을 들였기 때문인 경우가 많아.",
+                          "english":  "The best presentations look simple because someone took the time to cut what didn\u0027t matter.",
+                          "korean":  "좋은 발표는 단순해 보이지만 그만큼 불필요한 걸 많이 덜어낸 거야.",
                           "category":  "Work",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about the hidden work behind clarity."
+                          "situation":  "Use when explaining why clear presentations take time."
                       },
                       {
                           "id":  641,
@@ -5189,19 +5189,19 @@
                       },
                       {
                           "id":  649,
-                          "english":  "The hardest part of studying is often not the material itself but the patience required to stay with confusion.",
-                          "korean":  "공부에서 가장 어려운 건 내용 자체보다 헷갈리는 상태를 견디는 인내심일 때가 많아.",
+                          "english":  "Studying gets hardest when I don\u0027t know whether my confusion is normal or if I\u0027m missing something basic.",
+                          "korean":  "공부가 가장 힘들 때는 헷갈리는 게 당연한 건지, 내가 아주 기본적인 걸 놓치고 있는 건지 구분이 안 될 때야.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on what learning really demands."
+                          "situation":  "Use when talking about uncertainty during learning."
                       },
                       {
                           "id":  650,
-                          "english":  "Real progress in learning is easy to miss because it often looks like slower, more careful thinking rather than sudden confidence.",
-                          "korean":  "배움의 진짜 진전은 갑작스러운 자신감보다 더 천천하고 신중한 사고처럼 보여서 놓치기 쉬워.",
+                          "english":  "Real progress doesn\u0027t always feel dramatic. Sometimes it just means thinking a little more carefully than before.",
+                          "korean":  "진짜 실력은 항상 크게 느껴지는 건 아니야. 전보다 조금 더 천천히 생각하게 되는 것일 때도 많아.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about the nature of progress."
+                          "situation":  "Use when explaining how progress can feel subtle."
                       },
                       {
                           "id":  651,
@@ -5253,11 +5253,11 @@
                       },
                       {
                           "id":  657,
-                          "english":  "The article wasn\u0027t difficult because of the vocabulary alone; it was difficult because every paragraph quietly shifted the argument.",
-                          "korean":  "그 글이 어려웠던 건 단어 때문만이 아니라 문단마다 논지의 방향이 미묘하게 달라졌기 때문이야.",
+                          "english":  "The article wasn\u0027t hard just because of the vocabulary. The writer kept shifting the point.",
+                          "korean":  "그 글이 어려웠던 건 단어 때문만은 아니었어. 글쓴이가 계속 논지를 살짝씩 옮기고 있었거든.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when explaining why a text felt challenging."
+                          "situation":  "Use when explaining why a text was difficult to follow."
                       },
                       {
                           "id":  658,
@@ -5269,19 +5269,19 @@
                       },
                       {
                           "id":  659,
-                          "english":  "Rereading becomes useful once I\u0027m paying attention to how the writer builds pressure rather than just what they state.",
-                          "korean":  "다시 읽기는 글쓴이가 무엇을 말했는지만이 아니라 어떻게 논리를 쌓아 가는지를 볼 때 훨씬 유용해져.",
+                          "english":  "Rereading helps once I stop chasing every sentence and start looking at the flow.",
+                          "korean":  "문장 하나하나에 매달리지 않고 흐름을 보기 시작하면 다시 읽는 게 훨씬 도움이 돼.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when reading more analytically."
+                          "situation":  "Use when explaining how rereading becomes useful."
                       },
                       {
                           "id":  660,
-                          "english":  "The more carefully I read, the more I notice that confusion often comes from what the text assumes rather than what it explains.",
-                          "korean":  "주의 깊게 읽을수록 헷갈림은 설명된 내용보다 당연하게 전제된 부분에서 오는 경우가 많다는 걸 느껴.",
+                          "english":  "The more carefully I read, the more I notice what the text assumes without saying.",
+                          "korean":  "천천히 읽을수록 글이 대놓고 말하지 않은 전제들이 더 보여.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on hidden complexity in texts."
+                          "situation":  "Use when noticing implied meaning in a text."
                       },
                       {
                           "id":  661,
@@ -5341,11 +5341,11 @@
                       },
                       {
                           "id":  668,
-                          "english":  "What improves my speaking most is not confidence alone, but repetition with enough feedback to notice what I\u0027m missing.",
-                          "korean":  "내 말하기를 가장 크게 향상시키는 건 단순한 자신감이 아니라 무엇을 놓치고 있는지 알아차릴 만큼의 피드백이 있는 반복이야.",
+                          "english":  "Confidence helps, but regular practice and honest feedback make a much bigger difference.",
+                          "korean":  "자신감도 도움이 되지만 꾸준한 연습과 솔직한 피드백이 훨씬 더 큰 도움이 돼.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about deliberate practice."
+                          "situation":  "Use when explaining what helps you improve your speaking."
                       },
                       {
                           "id":  669,
@@ -5357,19 +5357,19 @@
                       },
                       {
                           "id":  670,
-                          "english":  "Progress in listening and speaking is gradual enough that I have to notice it indirectly through what feels less exhausting than before.",
-                          "korean":  "듣기와 말하기의 진전은 너무 서서히 일어나서 예전보다 덜 지치는 부분을 통해 간접적으로 알아차려야 할 때가 많아.",
+                          "english":  "Listening and speaking improve so gradually that I only notice the change when things feel less tiring.",
+                          "korean":  "리스닝과 말하기는 천천히 늘어서 예전보다 덜 지치는 순간에서야 변화가 보여.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on subtle progress."
+                          "situation":  "Use when talking about slow but real progress in speaking and listening."
                       },
                       {
                           "id":  671,
-                          "english":  "I think small habits matter more than motivation.",
-                          "korean":  "동기보다 작은 습관이 더 중요하다고 생각해.",
+                          "english":  "Small habits matter more than motivation.",
+                          "korean":  "동기부여보다 작은 습관이 더 중요해.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Use when sharing a simple belief."
+                          "situation":  "Use when sharing a simple opinion about consistency."
                       },
                       {
                           "id":  672,
@@ -5405,19 +5405,19 @@
                       },
                       {
                           "id":  676,
-                          "english":  "I\u0027ve learned that progress becomes visible only after you keep going past the point where it still feels insignificant.",
-                          "korean":  "진전은 아직 별것 아닌 것처럼 느껴지는 지점을 지나서도 계속해야 비로소 눈에 보인다는 걸 배웠어.",
+                          "english":  "I\u0027ve realized small progress matters more than I thought.",
+                          "korean":  "생각해 보니 작은 진전이 정말 중요하더라.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Use when reflecting on persistence."
+                          "situation":  "Use when saying your view on progress has changed."
                       },
                       {
                           "id":  677,
-                          "english":  "A sustainable habit isn\u0027t the one that looks impressive for a week; it\u0027s the one that survives an ordinary Tuesday.",
-                          "korean":  "지속 가능한 습관은 일주일 동안 대단해 보이는 게 아니라 평범한 화요일에도 살아남는 습관이야.",
+                          "english":  "A habit only lasts if it still works on an ordinary day.",
+                          "korean":  "습관은 특별한 날이 아니라 평범한 날에도 돌아가야 오래 가.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Use when defining sustainability in a memorable way."
+                          "situation":  "Use when explaining what makes a habit sustainable."
                       },
                       {
                           "id":  678,
@@ -5437,11 +5437,11 @@
                       },
                       {
                           "id":  680,
-                          "english":  "The hardest part of building habits isn\u0027t knowing what to do; it\u0027s tolerating how unremarkable the process feels at first.",
-                          "korean":  "습관을 만드는 데서 가장 어려운 건 무엇을 해야 하는지 모르는 게 아니라 초반 과정이 얼마나 평범하게 느껴지는지를 견디는 일이야.",
+                          "english":  "Building a habit is hard because it feels boring before it feels rewarding.",
+                          "korean":  "습관을 만드는 게 힘든 건 효과를 느끼기 전에는 지루하게 느껴지기 때문이야.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on why habits are hard to sustain."
+                          "situation":  "Use when explaining why habits are hard to build at first."
                       },
                       {
                           "id":  681,
@@ -5501,27 +5501,27 @@
                       },
                       {
                           "id":  688,
-                          "english":  "A product can be full of features and still feel poorly designed if it constantly interrupts the user\u0027s intention.",
-                          "korean":  "기능이 많아도 사용자의 의도를 계속 끊는다면 잘 설계된 제품이라고 느껴지지 않아.",
+                          "english":  "A product can have lots of features and still feel badly designed.",
+                          "korean":  "기능이 많아도 사용하기 불편하면 설계가 좋다고 하기 어려워.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Use when critiquing design philosophy."
+                          "situation":  "Use when saying features alone do not make something well designed."
                       },
                       {
                           "id":  689,
-                          "english":  "I trust tools more when they make my behavior easier to understand instead of merely trying to capture more time from me.",
-                          "korean":  "내 시간을 더 오래 붙잡으려 하기보다 내 행동을 더 잘 이해하게 해 주는 도구를 나는 더 신뢰해.",
+                          "english":  "I trust tools more when they help me understand what I\u0027m doing.",
+                          "korean":  "내가 뭐를 하고 있는지 더 잘 보이게 해 주는 도구일수록 더 믿음이 가.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Use when comparing support and attention capture."
+                          "situation":  "Use when describing what makes a tool feel trustworthy."
                       },
                       {
                           "id":  690,
-                          "english":  "Good design often feels invisible because it lets the user stay focused on the purpose rather than the product itself.",
-                          "korean":  "좋은 디자인은 사용자가 제품 자체보다 목적에 집중하게 만들어서 오히려 잘 보이지 않는 경우가 많아.",
+                          "english":  "Good design feels almost invisible when everything just works.",
+                          "korean":  "잘 만든 디자인은 모든 게 자연스럽게 돌아갈 때 거의 티가 안 나.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on subtle design quality."
+                          "situation":  "Use when explaining why good design can feel effortless."
                       },
                       {
                           "id":  691,
@@ -5597,11 +5597,11 @@
                       },
                       {
                           "id":  700,
-                          "english":  "Sometimes the quietest part of an evening tells you the most about how comfortable people really feel together.",
-                          "korean":  "어떤 저녁의 가장 조용한 순간이 오히려 사람들이 얼마나 편한지 가장 잘 보여 줄 때가 있어.",
+                          "english":  "The quiet moments usually tell me the most.",
+                          "korean":  "조용한 순간에 오히려 많은 걸 느끼게 돼.",
                           "category":  "Social",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on group dynamics."
+                          "situation":  "Use when reflecting on a calm moment with other people."
                       },
                       {
                           "id":  701,
@@ -5653,27 +5653,27 @@
                       },
                       {
                           "id":  707,
-                          "english":  "A good trip doesn\u0027t have to be packed with activities if it gives you enough distance to notice your own thoughts again.",
-                          "korean":  "좋은 여행은 일정이 빼곡하지 않아도 다시 자기 생각을 들여다볼 만큼의 거리를 만들어 주면 충분해.",
+                          "english":  "A good trip doesn\u0027t need a packed schedule if it gives me room to reset.",
+                          "korean":  "좋은 여행은 일정이 빡빡하지 않아도 머리 식힐 여유만 있으면 충분해.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Use when talking about the deeper value of travel."
+                          "situation":  "Use when explaining what makes a trip feel worthwhile."
                       },
                       {
                           "id":  708,
-                          "english":  "What I look for in travel now is not constant excitement but a pace that lets my attention settle.",
-                          "korean":  "요즘 여행에서 내가 찾는 건 계속되는 자극이 아니라 내 주의가 가라앉을 수 있는 속도야.",
+                          "english":  "These days, I care more about a comfortable pace than nonstop excitement when I travel.",
+                          "korean":  "요즘은 여행할 때 끊임없는 자극보다 페이스가 편한 게 더 중요해.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Use when describing a more mature travel preference."
+                          "situation":  "Use when describing what you value more in travel now."
                       },
                       {
                           "id":  709,
-                          "english":  "The most restorative trips are often the ones that interrupt familiar patterns without overwhelming me with novelty.",
-                          "korean":  "가장 회복되는 여행은 익숙한 패턴은 끊어 주면서도 새로운 자극으로 나를 압도하지는 않는 여행인 것 같아.",
+                          "english":  "The trips that help me most are usually the ones that break my routine without exhausting me.",
+                          "korean":  "내게 가장 도움이 되는 여행은 보통 일상을 끊어 주지만 너무 지치게는 하지 않는 여행이야.",
                           "category":  "Travel",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on restorative travel."
+                          "situation":  "Use when explaining what kind of trip feels restorative."
                       },
                       {
                           "id":  710,
@@ -5757,11 +5757,11 @@
                       },
                       {
                           "id":  720,
-                          "english":  "I\u0027ve started to trust the kind of progress that looks almost invisible from day to day but becomes undeniable over months.",
-                          "korean":  "하루 단위로 보면 거의 보이지 않지만 몇 달이 지나면 분명해지는 그런 진전을 이제는 더 신뢰하게 됐어.",
+                          "english":  "I\u0027ve learned to trust progress that doesn\u0027t show up right away.",
+                          "korean":  "금방 티 나지 않더라도 천천히 쌓이는 진전을 믿게 됐어.",
                           "category":  "Study",
                           "level":  "Advanced",
-                          "situation":  "Use when reflecting on long-term growth."
+                          "situation":  "Use when talking about slow progress that becomes clear over time."
                       }
                   ]
 }
