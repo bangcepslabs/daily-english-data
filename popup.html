@@ -54,12 +54,32 @@
           </div>
         </div>
 
+        <div class="mode-switch" role="tablist" aria-label="Study modes">
+          <button type="button" class="secondary-button" data-action="mode-study">Study mode</button>
+          <button type="button" class="secondary-button" data-action="mode-review">Review mode</button>
+        </div>
+
         <div class="action-row">
           <button type="button" class="primary-button" data-action="next">Next</button>
           <button type="button" class="secondary-button" data-action="speak">Speak</button>
           <button type="button" class="secondary-button" data-action="review">Review</button>
           <button type="button" class="secondary-button" data-action="translation">Hide translation</button>
         </div>
+
+        <section class="review-panel" aria-label="Review queue">
+          <div class="review-panel-heading">
+            <div>
+              <p class="review-label">Review queue</p>
+              <h3>Saved sentences</h3>
+            </div>
+            <div class="review-panel-actions">
+              <button type="button" class="mini-button ghost" data-review-action="clear-all">Clear all</button>
+              <span class="pill" id="review-panel-count">0</span>
+            </div>
+          </div>
+          <p class="review-note" id="review-panel-note">Add sentences with the Review button to revisit them later.</p>
+          <div class="review-list" id="review-list" aria-live="polite"></div>
+        </section>
 
         <div class="footer">
           <p id="status-line" class="status-line" aria-live="polite"></p>

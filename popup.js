@@ -30,7 +30,9 @@
     view: {
       selectedCategory: "all",
       selectedLevel: "all",
-      showTranslation: true
+      showTranslation: true,
+      reviewShowTranslation: false,
+      mode: "study"
     },
     daily: { ...DEFAULT_DAILY },
     reviewIds: [],
@@ -56,6 +58,12 @@
     datasetLine: document.getElementById("dataset-line"),
     categoryFilter: document.getElementById("category-filter"),
     levelFilter: document.getElementById("level-filter"),
+    reviewButton: document.querySelector('[data-action="review"]'),
+    studyModeButton: document.querySelector('[data-action="mode-study"]'),
+    reviewModeButton: document.querySelector('[data-action="mode-review"]'),
+    reviewPanelCount: document.getElementById("review-panel-count"),
+    reviewPanelNote: document.getElementById("review-panel-note"),
+    reviewList: document.getElementById("review-list"),
     statusLine: document.getElementById("status-line"),
     themeRoot: document.documentElement
   };
@@ -93,6 +101,18 @@
     if (sentenceCard) {
       sentenceCard.setAttribute("aria-busy", isLoading ? "true" : "false");
     }
+  }
+
+  function isReviewMode() {
+    return state.view.mode === "review";
+  }
+
+  function shouldShowTranslation() {
+    return isReviewMode() ? Boolean(state.view.reviewShowTranslation) : Boolean(state.settings.showTranslation);
+  }
+
+  function setMode(mode) {
+    state.view.mode = mode === "review" ? "review" : "study";
   }
 
   function forcePopupWidth() {
@@ -142,7 +162,8 @@
     const categoryMatch =
       state.settings.selectedCategory === "all" || sentence.category === state.settings.selectedCategory;
     const levelMatch = state.settings.selectedLevel === "all" || sentence.level === state.settings.selectedLevel;
-    return categoryMatch && levelMatch;
+    const reviewMatch = !isReviewMode() || state.reviewIds.includes(sentence.id);
+    return categoryMatch && levelMatch && reviewMatch;
   }
 
   function normalizeSentenceList(data) {
@@ -215,6 +236,14 @@
       ...state.view,
       ...(stored[STORAGE_KEYS.view] || {})
     };
+    if (typeof stored[STORAGE_KEYS.view]?.mode === "string") {
+      setMode(stored[STORAGE_KEYS.view].mode);
+    } else if (typeof stored[STORAGE_KEYS.view]?.reviewOnly === "boolean") {
+      setMode(stored[STORAGE_KEYS.view].reviewOnly ? "review" : "study");
+    }
+    if (typeof state.view.reviewShowTranslation !== "boolean") {
+      state.view.reviewShowTranslation = false;
+    }
     state.settings.selectedCategory = state.view.selectedCategory || state.settings.selectedCategory || "all";
     state.settings.selectedLevel = state.view.selectedLevel || state.settings.selectedLevel || "all";
     state.settings.showTranslation =
@@ -308,8 +337,124 @@
       const categoryMatch =
         state.settings.selectedCategory === "all" || sentence.category === state.settings.selectedCategory;
       const levelMatch = state.settings.selectedLevel === "all" || sentence.level === state.settings.selectedLevel;
-      return categoryMatch && levelMatch;
+      const reviewMatch = !isReviewMode() || state.reviewIds.includes(sentence.id);
+      return categoryMatch && levelMatch && reviewMatch;
     });
+  }
+
+  function getSentenceById(id) {
+    const targetId = Number(id);
+    if (!Number.isFinite(targetId)) {
+      return null;
+    }
+
+    return state.sentences.find((sentence) => sentence.id === targetId) || null;
+  }
+
+  function getReviewSentences() {
+    const nextIds = [];
+    const nextSentences = [];
+
+    for (const id of state.reviewIds) {
+      const sentence = getSentenceById(id);
+      if (!sentence || nextIds.includes(sentence.id)) {
+        continue;
+      }
+
+      nextIds.push(sentence.id);
+      nextSentences.push(sentence);
+    }
+
+    const reviewIdsChanged =
+      nextIds.length !== state.reviewIds.length || nextIds.some((id, index) => id !== state.reviewIds[index]);
+
+    if (reviewIdsChanged) {
+      state.reviewIds = nextIds;
+      void persistReviewIds();
+    }
+
+    return nextSentences;
+  }
+
+  function renderReviewPanel() {
+    if (!els.reviewList) {
+      return;
+    }
+
+    const reviewSentences = getReviewSentences();
+
+    if (els.reviewPanelCount) {
+      els.reviewPanelCount.textContent = String(reviewSentences.length);
+    }
+
+    if (!reviewSentences.length) {
+      if (els.reviewPanelNote) {
+        els.reviewPanelNote.textContent = "Add sentences with the Review button to revisit them later.";
+      }
+      els.reviewList.innerHTML = '<p class="review-empty">No reviewed sentences yet.</p>';
+      return;
+    }
+
+    if (els.reviewPanelNote) {
+      els.reviewPanelNote.textContent = isReviewMode()
+        ? "Review mode is on. Open a sentence to move it to the top."
+        : "Tap Open to jump to any reviewed sentence.";
+    }
+
+    els.reviewList.innerHTML = reviewSentences
+      .map((sentence, index) => {
+        const selected = state.currentSentence && state.currentSentence.id === sentence.id;
+        return `
+          <article class="review-item${selected ? " is-active" : ""}">
+            <div class="review-item-copy">
+              <p class="review-item-title">${escapeHtml(sentence.english)}</p>
+              <p class="review-item-meta">${escapeHtml(sentence.category)} · ${escapeHtml(sentence.level)}</p>
+            </div>
+            <div class="review-item-actions">
+              <button type="button" class="mini-button" data-review-action="open" data-sentence-id="${sentence.id}">Open</button>
+              <button type="button" class="mini-button ghost" data-review-action="remove" data-sentence-id="${sentence.id}">Remove</button>
+            </div>
+          </article>
+        `;
+      })
+      .join("");
+  }
+
+  function updateModeUi() {
+    if (document.body) {
+      document.body.dataset.mode = isReviewMode() ? "review" : "study";
+    }
+
+    if (els.studyModeButton) {
+      const active = !isReviewMode();
+      els.studyModeButton.classList.toggle("is-active", active);
+      els.studyModeButton.setAttribute("aria-pressed", active ? "true" : "false");
+    }
+
+    if (els.reviewModeButton) {
+      const active = isReviewMode();
+      els.reviewModeButton.classList.toggle("is-active", active);
+      els.reviewModeButton.setAttribute("aria-pressed", active ? "true" : "false");
+    }
+  }
+
+  function updateTranslationButton() {
+    const button = document.querySelector('[data-action="translation"]');
+    if (!button) {
+      return;
+    }
+
+    button.textContent = shouldShowTranslation() ? "Hide translation" : "Show translation";
+  }
+
+  function updateReviewButton() {
+    if (!els.reviewButton) {
+      return;
+    }
+
+    const active = Boolean(state.currentSentence && state.reviewIds.includes(state.currentSentence.id));
+    els.reviewButton.classList.toggle("is-active", active);
+    els.reviewButton.setAttribute("aria-pressed", active ? "true" : "false");
   }
 
   function chooseSentence() {
@@ -334,18 +479,22 @@
   function renderSentence(sentence) {
     if (!sentence) {
       els.sentenceTitle.textContent = "No sentence available";
-      els.sentenceKorean.textContent = "No sentence matches the selected filters.";
+      els.sentenceKorean.textContent = isReviewMode()
+        ? "No reviewed sentence matches the selected filters."
+        : "No sentence matches the selected filters.";
       els.sentenceKorean.hidden = false;
       els.sentenceCategory.textContent = "Empty";
       els.sentenceLevel.textContent = "N/A";
+      updateReviewButton();
       return;
     }
 
     els.sentenceTitle.textContent = sentence.english;
     els.sentenceKorean.textContent = sentence.korean;
-    els.sentenceKorean.hidden = !state.settings.showTranslation;
+    els.sentenceKorean.hidden = !shouldShowTranslation();
     els.sentenceCategory.textContent = sentence.category;
     els.sentenceLevel.textContent = sentence.level;
+    updateReviewButton();
   }
 
   function updateDatasetLine() {
@@ -359,7 +508,84 @@
 
   function updateCounts() {
     els.dailyCount.textContent = String(state.daily.uniqueCount);
-    els.reviewCount.textContent = String(state.reviewIds.length);
+    els.reviewCount.textContent = String(getReviewSentences().length);
+  }
+
+  async function removeReviewSentence(id) {
+    const targetId = Number(id);
+    const index = state.reviewIds.indexOf(targetId);
+    if (index < 0) {
+      return;
+    }
+
+    state.reviewIds.splice(index, 1);
+    await persistReviewIds();
+    updateCounts();
+    renderReviewPanel();
+
+    if (isReviewMode()) {
+      buildFilteredSentences();
+      updateSentenceCard();
+    }
+  }
+
+  async function promoteReviewSentenceToTop(id) {
+    const targetId = Number(id);
+    const index = state.reviewIds.indexOf(targetId);
+    if (index < 0) {
+      return;
+    }
+
+    if (index > 0) {
+      state.reviewIds.splice(index, 1);
+      state.reviewIds.unshift(targetId);
+      await persistReviewIds();
+      renderReviewPanel();
+      updateCounts();
+    }
+  }
+
+  async function clearReviewQueue() {
+    if (!state.reviewIds.length) {
+      return;
+    }
+
+    const confirmed = window.confirm("Clear the entire review queue?");
+    if (!confirmed) {
+      return;
+    }
+
+    state.reviewIds = [];
+    await persistReviewIds();
+    updateCounts();
+    renderReviewPanel();
+    updateReviewButton();
+    setStatus("Review queue cleared.", "success");
+
+    if (isReviewMode()) {
+      buildFilteredSentences();
+      updateSentenceCard();
+    }
+  }
+
+  async function openReviewSentence(id) {
+    const sentence = getSentenceById(id);
+    if (!sentence) {
+      setStatus("That reviewed sentence is no longer available.", "warning");
+      return;
+    }
+
+    await promoteReviewSentenceToTop(sentence.id);
+    state.currentSentence = sentence;
+    state.daily.currentSentence = sentence;
+    state.lastSentence = sentence;
+    renderSentence(sentence);
+    updateReviewButton();
+    renderReviewPanel();
+    void persistDaily();
+    void persistLastSentence();
+    void persistView();
+    setStatus("Opened a reviewed sentence.", "success");
   }
 
   async function persistDaily() {
@@ -384,6 +610,8 @@
         selectedCategory: state.settings.selectedCategory || "all",
         selectedLevel: state.settings.selectedLevel || "all",
         showTranslation: Boolean(state.settings.showTranslation),
+        reviewShowTranslation: Boolean(state.view.reviewShowTranslation),
+        mode: state.view.mode || "study",
         lastSentence: state.currentSentence || state.lastSentence || null
       }
     });
@@ -401,6 +629,7 @@
 
     state.currentSentence = cachedSentence;
     renderSentence(cachedSentence);
+    renderReviewPanel();
     setStatus("");
     return true;
   }
@@ -421,8 +650,11 @@
     void persistDaily();
     void persistLastSentence();
     void persistView();
+    renderReviewPanel();
     if (sentence) {
       setStatus("");
+    } else if (isReviewMode() && !state.reviewIds.length) {
+      setStatus("Add a sentence to review first.", "warning");
     } else {
       setStatus("No sentence available.", "warning");
     }
@@ -471,15 +703,38 @@
 
     await persistReviewIds();
     updateCounts();
+    renderReviewPanel();
+    updateReviewButton();
   }
 
   async function toggleTranslation() {
-    state.settings.showTranslation = !state.settings.showTranslation;
+    if (isReviewMode()) {
+      state.view.reviewShowTranslation = !state.view.reviewShowTranslation;
+    } else {
+      state.settings.showTranslation = !state.settings.showTranslation;
+    }
     await persistSettings();
     await persistView();
     renderSentence(state.currentSentence);
-    const button = document.querySelector('[data-action="translation"]');
-    button.textContent = state.settings.showTranslation ? "Hide translation" : "Show translation";
+    updateTranslationButton();
+  }
+
+  async function setStudyMode() {
+    setMode("study");
+    await persistView();
+    buildFilteredSentences();
+    updateModeUi();
+    updateTranslationButton();
+    updateSentenceCard();
+  }
+
+  async function setReviewMode() {
+    setMode("review");
+    await persistView();
+    buildFilteredSentences();
+    updateModeUi();
+    updateTranslationButton();
+    updateSentenceCard();
   }
 
   async function changeFilter(kind, value) {
@@ -504,8 +759,29 @@
         speak();
       } else if (action === "review") {
         await toggleReview();
+      } else if (action === "mode-study") {
+        await setStudyMode();
+      } else if (action === "mode-review") {
+        await setReviewMode();
       } else if (action === "translation") {
         await toggleTranslation();
+      }
+    });
+
+    document.body.addEventListener("click", async (event) => {
+      const button = event.target.closest("[data-review-action]");
+      if (!button) {
+        return;
+      }
+
+      const sentenceId = Number(button.dataset.sentenceId);
+      const reviewAction = button.dataset.reviewAction;
+      if (reviewAction === "open") {
+        await openReviewSentence(sentenceId);
+      } else if (reviewAction === "remove") {
+        await removeReviewSentence(sentenceId);
+      } else if (reviewAction === "clear-all") {
+        await clearReviewQueue();
       }
     });
 
@@ -548,14 +824,19 @@
       await loadBootstrapState();
       attachEvents();
       applyTheme();
+      updateModeUi();
+      updateTranslationButton();
+      updateReviewButton();
+      renderReviewPanel();
 
       updateCounts();
       const showedCachedSentence = renderCachedSentence();
       setLoading(!showedCachedSentence);
 
       void datasetPromise
-        .then(() => {
+      .then(() => {
           refreshDatasetUi();
+          renderReviewPanel();
           setStatus("Synced automatically from GitHub.", "success");
           setLoading(false);
           void requestLatestDataset();
