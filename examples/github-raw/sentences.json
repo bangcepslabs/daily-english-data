@@ -1,7 +1,7 @@
 {
-    "version":  "2026.07.28.1",
+    "version":  "2026.07.28.3",
     "updatedAt":  "2026-07-28T00:00:00Z",
-    "count":  820,
+    "count":  1020,
     "sentences":  [
                       {
                           "id":  1,
@@ -93,11 +93,11 @@
                       },
                       {
                           "id":  12,
-                          "english":  "The meeting has been moved to tomorrow morning.",
-                          "korean":  "회의가 내일 아침으로 옮겨졌어.",
+                          "english":  "The meeting has been moved to Thursday at 3:30.",
+                          "korean":  "회의가 목요일 3시 30분으로 옮겨졌어.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "A practical update about schedule changes."
+                          "situation":  "Use when a meeting time changes."
                       },
                       {
                           "id":  13,
@@ -669,11 +669,11 @@
                       },
                       {
                           "id":  84,
-                          "english":  "The weather looks perfect for a walk.",
-                          "korean":  "산책하기 딱 좋은 날씨야.",
+                          "english":  "The weather looks perfect for a short bike ride.",
+                          "korean":  "자전거 타기 딱 좋은 날씨야.",
                           "category":  "Daily life",
                           "level":  "Beginner",
-                          "situation":  "Use when the weather feels ideal."
+                          "situation":  "Use when the weather feels ideal for a short ride."
                       },
                       {
                           "id":  85,
@@ -3141,19 +3141,19 @@
                       },
                       {
                           "id":  393,
-                          "english":  "It might be better to change now.",
-                          "korean":  "지금 바꾸하는 게 더 나을지도 몰라.",
+                          "english":  "It might be better to test a different option.",
+                          "korean":  "다른 선택지를 먼저 시험해 보는 게 더 나을지도 몰라.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when you want to suggest trying another option."
                       },
                       {
                           "id":  394,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the layout choice.",
+                          "korean":  "그 배치 선택에 동의해.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you want to agree with a layout choice."
                       },
                       {
                           "id":  395,
@@ -3189,11 +3189,11 @@
                       },
                       {
                           "id":  399,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the pacing.",
+                          "korean":  "그 진행 속도에 동의해.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you want to agree with the pacing."
                       },
                       {
                           "id":  400,
@@ -3229,11 +3229,11 @@
                       },
                       {
                           "id":  404,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the proposed change.",
+                          "korean":  "제안한 변경에 동의해.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you support a proposed change."
                       },
                       {
                           "id":  405,
@@ -3269,11 +3269,11 @@
                       },
                       {
                           "id":  409,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the smaller scope.",
+                          "korean":  "더 작은 범위에 동의해.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you prefer a smaller scope."
                       },
                       {
                           "id":  410,
@@ -3309,11 +3309,11 @@
                       },
                       {
                           "id":  414,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the wording here.",
+                          "korean":  "여기 표현에 동의해.",
                           "category":  "Opinion",
                           "level":  "Advanced",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you agree with the wording."
                       },
                       {
                           "id":  415,
@@ -3349,11 +3349,11 @@
                       },
                       {
                           "id":  419,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the logic here.",
+                          "korean":  "여기 논리에는 동의해.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you agree with the logic."
                       },
                       {
                           "id":  420,
@@ -3381,19 +3381,19 @@
                       },
                       {
                           "id":  423,
-                          "english":  "It might be better to change now.",
-                          "korean":  "지금 바꾸하는 게 더 나을지도 몰라.",
+                          "english":  "It might be better to pause before acting.",
+                          "korean":  "바로 움직이기 전에 잠깐 멈추는 게 더 나을지도 몰라.",
                           "category":  "Opinion",
                           "level":  "Beginner",
-                          "situation":  "Useful when making a gentle suggestion."
+                          "situation":  "Use when you think a pause is wiser."
                       },
                       {
                           "id":  424,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the overall direction.",
+                          "korean":  "전체 방향에는 동의해.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you agree with the overall direction."
                       },
                       {
                           "id":  425,
@@ -3429,11 +3429,11 @@
                       },
                       {
                           "id":  429,
-                          "english":  "I agree with your point.",
-                          "korean":  "네 의견에 동의해.",
+                          "english":  "I agree with the risk assessment.",
+                          "korean":  "위험 평가에 동의해.",
                           "category":  "Opinion",
                           "level":  "Intermediate",
-                          "situation":  "Useful when you want to support a point."
+                          "situation":  "Use when you agree with the risk assessment."
                       },
                       {
                           "id":  430,
@@ -3734,10 +3734,10 @@
                       {
                           "id":  467,
                           "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "korean":  "이야기 나눠서 정말 반가웠어요.",
                           "category":  "Social",
                           "level":  "Beginner",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when ending a conversation warmly."
                       },
                       {
                           "id":  468,
@@ -3765,11 +3765,11 @@
                       },
                       {
                           "id":  471,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "It was nice seeing you after the workshop.",
+                          "korean":  "워크숍 끝나고 만나서 반가웠어요.",
                           "category":  "Social",
                           "level":  "Intermediate",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when ending a conversation after an event."
                       },
                       {
                           "id":  472,
@@ -3797,11 +3797,11 @@
                       },
                       {
                           "id":  475,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "Take care and let me know how it goes.",
+                          "korean":  "잘 지내고 어떻게 되는지 알려 줘요.",
                           "category":  "Social",
                           "level":  "Advanced",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when saying goodbye and staying connected."
                       },
                       {
                           "id":  476,
@@ -3829,11 +3829,11 @@
                       },
                       {
                           "id":  479,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "Thanks for making time to chat.",
+                          "korean":  "시간 내서 이야기해 줘서 고마워요.",
                           "category":  "Social",
                           "level":  "Beginner",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when thanking someone for a chat."
                       },
                       {
                           "id":  480,
@@ -3861,11 +3861,11 @@
                       },
                       {
                           "id":  483,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "I enjoyed our conversation today.",
+                          "korean":  "오늘 대화가 즐거웠어요.",
                           "category":  "Social",
                           "level":  "Intermediate",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when a conversation went well."
                       },
                       {
                           "id":  484,
@@ -3893,11 +3893,11 @@
                       },
                       {
                           "id":  487,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "I should let you get back to work.",
+                          "korean":  "이제 다시 일하셔야겠네요.",
                           "category":  "Social",
                           "level":  "Advanced",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when politely ending a conversation."
                       },
                       {
                           "id":  488,
@@ -3925,11 +3925,11 @@
                       },
                       {
                           "id":  491,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "Have a smooth rest of the afternoon.",
+                          "korean":  "오후 남은 시간도 잘 보내세요.",
                           "category":  "Social",
                           "level":  "Advanced",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when offering a friendly closing."
                       },
                       {
                           "id":  492,
@@ -3957,11 +3957,11 @@
                       },
                       {
                           "id":  495,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "It was great seeing you again today.",
+                          "korean":  "오늘 다시 만나서 정말 반가웠어요.",
                           "category":  "Social",
                           "level":  "Advanced",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when you meet someone again."
                       },
                       {
                           "id":  496,
@@ -3989,11 +3989,11 @@
                       },
                       {
                           "id":  499,
-                          "english":  "It was nice talking to you.",
-                          "korean":  "이야기해서 정말 반가웠어.",
+                          "english":  "Thanks for talking things through with me.",
+                          "korean":  "함께 차근차근 이야기해 줘서 고마워요.",
                           "category":  "Social",
                           "level":  "Beginner",
-                          "situation":  "Useful when ending a conversation warmly."
+                          "situation":  "Use when thanking someone for discussing details."
                       },
                       {
                           "id":  500,
@@ -4741,11 +4741,11 @@
                       },
                       {
                           "id":  793,
-                          "english":  "The meeting has been moved to tomorrow morning.",
-                          "korean":  "회의가 내일 아침으로 옮겨졌어.",
+                          "english":  "The meeting has been moved to Friday at 9:00.",
+                          "korean":  "회의가 금요일 9시로 옮겨졌어.",
                           "category":  "Work",
                           "level":  "Intermediate",
-                          "situation":  "Use when a meeting has been rescheduled."
+                          "situation":  "Use when a meeting time changes."
                       },
                       {
                           "id":  794,
@@ -6562,6 +6562,1606 @@
                           "category":  "Opinion",
                           "level":  "Intermediate",
                           "situation":  "Use when you are uncertain about sufficiency."
+                      },
+                      {
+                          "id":  1021,
+                          "english":  "I’m sorting receipts for tax time.",
+                          "korean":  "세금 준비하려고 영수증을 정리하고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are organizing receipts."
+                      },
+                      {
+                          "id":  1022,
+                          "english":  "I need to label these boxes.",
+                          "korean":  "이 상자들에 라벨을 붙여야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to mark boxes."
+                      },
+                      {
+                          "id":  1023,
+                          "english":  "The dryer stopped halfway through.",
+                          "korean":  "건조기가 중간에 멈췄어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when an appliance stops working."
+                      },
+                      {
+                          "id":  1024,
+                          "english":  "I need to replace the lightbulb.",
+                          "korean":  "전구를 갈아야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when a bulb needs replacing."
+                      },
+                      {
+                          "id":  1025,
+                          "english":  "I’m taping the box shut.",
+                          "korean":  "상자를 테이프로 닫고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are sealing a box."
+                      },
+                      {
+                          "id":  1026,
+                          "english":  "I forgot to bring my headphones.",
+                          "korean":  "이어폰을 안 가져왔어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you realize you forgot your headphones."
+                      },
+                      {
+                          "id":  1027,
+                          "english":  "The freezer door is stuck again.",
+                          "korean":  "냉동실 문이 또 안 열려.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when the freezer door is stuck."
+                      },
+                      {
+                          "id":  1028,
+                          "english":  "I left my keys on the table.",
+                          "korean":  "열쇠를 테이블 위에 두고 왔어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you realize you left your keys somewhere."
+                      },
+                      {
+                          "id":  1029,
+                          "english":  "I’m moving the laundry basket.",
+                          "korean":  "빨래 바구니를 옮기고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are moving a laundry basket."
+                      },
+                      {
+                          "id":  1030,
+                          "english":  "I’m watering the basil.",
+                          "korean":  "바질에 물을 주고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are caring for a plant."
+                      },
+                      {
+                          "id":  1031,
+                          "english":  "The kitchen timer is still running.",
+                          "korean":  "주방 타이머가 아직 돌아가고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when a timer has not been turned off."
+                      },
+                      {
+                          "id":  1032,
+                          "english":  "I need to wipe the desk first.",
+                          "korean":  "먼저 책상을 닦아야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to clean a desk."
+                      },
+                      {
+                          "id":  1033,
+                          "english":  "I’m clearing space on the shelf.",
+                          "korean":  "선반 위 공간을 비우고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are making room on a shelf."
+                      },
+                      {
+                          "id":  1034,
+                          "english":  "I need to wash the travel mug.",
+                          "korean":  "텀블러를 씻어야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when a travel mug needs cleaning."
+                      },
+                      {
+                          "id":  1035,
+                          "english":  "I’m charging the spare battery.",
+                          "korean":  "예비 배터리를 충전하고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are preparing a backup battery."
+                      },
+                      {
+                          "id":  1036,
+                          "english":  "I need to restock the paper towels.",
+                          "korean":  "종이타월을 다시 채워야 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when supplies are running low."
+                      },
+                      {
+                          "id":  1037,
+                          "english":  "The hallway light is flickering.",
+                          "korean":  "복도 불이 깜빡거리고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a light is unstable."
+                      },
+                      {
+                          "id":  1038,
+                          "english":  "I’m folding the clean towels.",
+                          "korean":  "깨끗한 수건을 개고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are putting away towels."
+                      },
+                      {
+                          "id":  1039,
+                          "english":  "I need to sweep the entryway.",
+                          "korean":  "현관을 쓸어야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to clean the entrance."
+                      },
+                      {
+                          "id":  1040,
+                          "english":  "I’m putting the tools back.",
+                          "korean":  "공구를 다시 제자리에 두고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are tidying tools."
+                      },
+                      {
+                          "id":  1041,
+                          "english":  "I need to bag the recycling.",
+                          "korean":  "재활용품을 봉투에 담아야 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are preparing recycling."
+                      },
+                      {
+                          "id":  1042,
+                          "english":  "The rug is still damp.",
+                          "korean":  "러그가 아직 젖어 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when a rug has not dried yet."
+                      },
+                      {
+                          "id":  1043,
+                          "english":  "I’m emptying the trash bin.",
+                          "korean":  "쓰레기통을 비우고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are taking out trash."
+                      },
+                      {
+                          "id":  1044,
+                          "english":  "I need to spray the window.",
+                          "korean":  "창문에 세정제를 뿌려야 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are cleaning glass."
+                      },
+                      {
+                          "id":  1045,
+                          "english":  "The faucet is dripping again.",
+                          "korean":  "수도꼭지가 또 물방울을 떨어뜨려.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a faucet is leaking."
+                      },
+                      {
+                          "id":  1046,
+                          "english":  "I’m checking the smoke alarm.",
+                          "korean":  "화재 경보기를 확인하고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are testing the alarm."
+                      },
+                      {
+                          "id":  1047,
+                          "english":  "I need to close the balcony door.",
+                          "korean":  "발코니 문을 닫아야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to shut the balcony door."
+                      },
+                      {
+                          "id":  1048,
+                          "english":  "I’m lining up tomorrow’s clothes.",
+                          "korean":  "내일 입을 옷을 미리 챙겨 두고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are preparing clothes in advance."
+                      },
+                      {
+                          "id":  1049,
+                          "english":  "The sink is full of dishes.",
+                          "korean":  "싱크대가 그릇으로 가득해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when dishes are piled up."
+                      },
+                      {
+                          "id":  1050,
+                          "english":  "I need to tidy the cables.",
+                          "korean":  "케이블을 정리해야 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when cords are messy."
+                      },
+                      {
+                          "id":  1051,
+                          "english":  "I’m putting fresh water in the vase.",
+                          "korean":  "꽃병에 새 물을 채우고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are refreshing water in a vase."
+                      },
+                      {
+                          "id":  1052,
+                          "english":  "I need to find the missing remote.",
+                          "korean":  "사라진 리모컨을 찾아야 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you cannot find the remote."
+                      },
+                      {
+                          "id":  1053,
+                          "english":  "The desk drawer is jammed.",
+                          "korean":  "책상 서랍이 걸렸어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a drawer will not open smoothly."
+                      },
+                      {
+                          "id":  1054,
+                          "english":  "I’m sorting the mail by hand.",
+                          "korean":  "우편물을 손으로 분류하고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are organizing mail."
+                      },
+                      {
+                          "id":  1055,
+                          "english":  "I need to move the chair aside.",
+                          "korean":  "의자를 옆으로 치워야 해.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need more space."
+                      },
+                      {
+                          "id":  1056,
+                          "english":  "The kettle is still hot.",
+                          "korean":  "주전자가 아직 뜨거워.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when a kettle has not cooled down."
+                      },
+                      {
+                          "id":  1057,
+                          "english":  "I’m washing the fruit before lunch.",
+                          "korean":  "점심 전에 과일을 씻고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are preparing fruit."
+                      },
+                      {
+                          "id":  1058,
+                          "english":  "I need to set out clean napkins.",
+                          "korean":  "깨끗한 냅킨을 꺼내 둬야 해.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are preparing the table."
+                      },
+                      {
+                          "id":  1059,
+                          "english":  "The window screen has a tear.",
+                          "korean":  "방충망에 찢어진 곳이 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a screen is damaged."
+                      },
+                      {
+                          "id":  1060,
+                          "english":  "I’m making room for the delivery.",
+                          "korean":  "배달 올 자리를 비워 두고 있어.",
+                          "category":  "Daily life",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are clearing space for a delivery."
+                      },
+                      {
+                          "id":  1061,
+                          "english":  "The PDF export cut off the footer.",
+                          "korean":  "PDF 내보내기에서 바닥글이 잘렸어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when an export trims part of the page."
+                      },
+                      {
+                          "id":  1062,
+                          "english":  "I need to send the signed copy.",
+                          "korean":  "서명된 사본을 보내야 해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you must send a signed document."
+                      },
+                      {
+                          "id":  1063,
+                          "english":  "Please merge these comments into one draft.",
+                          "korean":  "이 의견들을 하나의 초안으로 합쳐 주세요.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when you want comments combined."
+                      },
+                      {
+                          "id":  1064,
+                          "english":  "The vendor quote came in late.",
+                          "korean":  "업체 견적이 늦게 도착했어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a supplier replied late."
+                      },
+                      {
+                          "id":  1065,
+                          "english":  "I’m updating the release notes.",
+                          "korean":  "릴리스 노트를 업데이트하고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are writing release notes."
+                      },
+                      {
+                          "id":  1066,
+                          "english":  "We need a cleaner handoff between teams.",
+                          "korean":  "팀 간 인수인계를 더 깔끔하게 해야 해.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when you want smoother team handoff."
+                      },
+                      {
+                          "id":  1067,
+                          "english":  "Please mark anything that looks off.",
+                          "korean":  "이상해 보이는 부분은 표시해 주세요.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want problems highlighted."
+                      },
+                      {
+                          "id":  1068,
+                          "english":  "The spreadsheet formula broke again.",
+                          "korean":  "스프레드시트 수식이 또 깨졌어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a formula stops working."
+                      },
+                      {
+                          "id":  1069,
+                          "english":  "I’m waiting for legal review.",
+                          "korean":  "법무 검토를 기다리고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are waiting for legal approval."
+                      },
+                      {
+                          "id":  1070,
+                          "english":  "Could you move this call to next Wednesday?",
+                          "korean":  "이 통화를 다음 주 수요일로 옮겨 주실래요?",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need to reschedule a call."
+                      },
+                      {
+                          "id":  1071,
+                          "english":  "The slide deck needs stronger examples.",
+                          "korean":  "슬라이드 자료에는 더 강한 예시가 필요해.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when a presentation needs better examples."
+                      },
+                      {
+                          "id":  1072,
+                          "english":  "I need to fix the page numbering.",
+                          "korean":  "페이지 번호를 고쳐야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when page numbers are wrong."
+                      },
+                      {
+                          "id":  1073,
+                          "english":  "The draft still has placeholder text.",
+                          "korean":  "초안에 아직 임시 문구가 남아 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a draft still contains filler text."
+                      },
+                      {
+                          "id":  1074,
+                          "english":  "I’m checking the version history.",
+                          "korean":  "버전 기록을 확인하고 있어.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to review changes."
+                      },
+                      {
+                          "id":  1075,
+                          "english":  "We should archive the old files.",
+                          "korean":  "오래된 파일은 보관해야 해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to store old files away."
+                      },
+                      {
+                          "id":  1076,
+                          "english":  "The client wants a shorter summary.",
+                          "korean":  "고객은 더 짧은 요약을 원해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a client wants brevity."
+                      },
+                      {
+                          "id":  1077,
+                          "english":  "I need to confirm the delivery address.",
+                          "korean":  "배송 주소를 확인해야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when a shipping address must be checked."
+                      },
+                      {
+                          "id":  1078,
+                          "english":  "Could you resend the signed form?",
+                          "korean":  "서명한 양식을 다시 보내 주실래요?",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a signed form needs to be resent."
+                      },
+                      {
+                          "id":  1079,
+                          "english":  "The meeting notes are missing action items.",
+                          "korean":  "회의 메모에 할 일이 빠져 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when notes need action items added."
+                      },
+                      {
+                          "id":  1080,
+                          "english":  "I’m pulling together the final checklist.",
+                          "korean":  "최종 체크리스트를 정리하고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are preparing a final list."
+                      },
+                      {
+                          "id":  1081,
+                          "english":  "We need a clearer timeline.",
+                          "korean":  "더 분명한 일정표가 필요해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when the schedule needs clarity."
+                      },
+                      {
+                          "id":  1082,
+                          "english":  "The attachment is too large to send.",
+                          "korean":  "첨부 파일이 너무 커서 보낼 수 없어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a file exceeds email limits."
+                      },
+                      {
+                          "id":  1083,
+                          "english":  "I’m waiting for the budget approval.",
+                          "korean":  "예산 승인을 기다리고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when approval is still pending."
+                      },
+                      {
+                          "id":  1084,
+                          "english":  "Please highlight the main change.",
+                          "korean":  "가장 큰 변경점은 표시해 주세요.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want the key change marked."
+                      },
+                      {
+                          "id":  1085,
+                          "english":  "The report needs a better title.",
+                          "korean":  "보고서 제목을 더 좋게 바꿔야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when a report title needs improvement."
+                      },
+                      {
+                          "id":  1086,
+                          "english":  "I’m separating the urgent items.",
+                          "korean":  "급한 항목들을 따로 나누고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are sorting priorities."
+                      },
+                      {
+                          "id":  1087,
+                          "english":  "Could you review the revised layout?",
+                          "korean":  "수정된 구성을 검토해 주실래요?",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want feedback on layout."
+                      },
+                      {
+                          "id":  1088,
+                          "english":  "The numbers don’t match the last file.",
+                          "korean":  "숫자가 마지막 파일과 맞지 않아.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when data differs from the previous file."
+                      },
+                      {
+                          "id":  1089,
+                          "english":  "I need to update the contact list.",
+                          "korean":  "연락처 목록을 업데이트해야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when contact information changed."
+                      },
+                      {
+                          "id":  1090,
+                          "english":  "We should keep the old draft for comparison.",
+                          "korean":  "비교할 수 있게 옛 초안은 남겨 두자.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when you want to compare versions."
+                      },
+                      {
+                          "id":  1091,
+                          "english":  "The workflow is still not documented.",
+                          "korean":  "작업 흐름이 아직 문서화되지 않았어.",
+                          "category":  "Work",
+                          "level":  "Advanced",
+                          "situation":  "Use when a process has not been written down."
+                      },
+                      {
+                          "id":  1092,
+                          "english":  "I’m drafting a quick status update.",
+                          "korean":  "간단한 진행 상황 보고를 작성하고 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are writing a status note."
+                      },
+                      {
+                          "id":  1093,
+                          "english":  "Please save a copy before editing.",
+                          "korean":  "수정하기 전에 복사본을 저장해 주세요.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want a backup copy."
+                      },
+                      {
+                          "id":  1094,
+                          "english":  "I need to check the page limit.",
+                          "korean":  "페이지 제한을 확인해야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to verify a length limit."
+                      },
+                      {
+                          "id":  1095,
+                          "english":  "The client prefers a softer tone.",
+                          "korean":  "고객은 더 부드러운 표현을 선호해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a client wants gentler wording."
+                      },
+                      {
+                          "id":  1096,
+                          "english":  "I’m cleaning up the shared folder.",
+                          "korean":  "공유 폴더를 정리하고 있어.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when a shared folder needs tidying."
+                      },
+                      {
+                          "id":  1097,
+                          "english":  "We need to decide on the file format.",
+                          "korean":  "파일 형식을 정해야 해.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you must choose a file type."
+                      },
+                      {
+                          "id":  1098,
+                          "english":  "Could you send the corrected attachment?",
+                          "korean":  "수정된 첨부 파일을 보내 주실래요?",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need the corrected file."
+                      },
+                      {
+                          "id":  1099,
+                          "english":  "The handoff is scheduled for Monday.",
+                          "korean":  "인수인계는 월요일로 잡혀 있어.",
+                          "category":  "Work",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are talking about a handoff date."
+                      },
+                      {
+                          "id":  1100,
+                          "english":  "I need to sync with the designer.",
+                          "korean":  "디자이너와 맞춰 봐야 해.",
+                          "category":  "Work",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to coordinate with a designer."
+                      },
+                      {
+                          "id":  1101,
+                          "english":  "I’m drilling the pronunciation of this word.",
+                          "korean":  "이 단어 발음을 계속 연습하고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are practicing pronunciation."
+                      },
+                      {
+                          "id":  1102,
+                          "english":  "The answer key helped me spot the pattern.",
+                          "korean":  "정답지가 패턴을 찾는 데 도움이 됐어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when an answer key reveals a pattern."
+                      },
+                      {
+                          "id":  1103,
+                          "english":  "I need to rewrite this in simpler grammar.",
+                          "korean":  "이걸 더 쉬운 문법으로 다시 써야 해.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want simpler grammar."
+                      },
+                      {
+                          "id":  1104,
+                          "english":  "Could you check if my summary sounds natural?",
+                          "korean":  "내 요약이 자연스러운지 봐 주실래요?",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want feedback on a summary."
+                      },
+                      {
+                          "id":  1105,
+                          "english":  "I keep mixing up the past tense forms.",
+                          "korean":  "과거형을 계속 헷갈려.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when verb forms are confusing."
+                      },
+                      {
+                          "id":  1106,
+                          "english":  "I’m listening to the passage one more time.",
+                          "korean":  "지문을 한 번 더 듣고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need another listening round."
+                      },
+                      {
+                          "id":  1107,
+                          "english":  "The glossary is helping me a lot.",
+                          "korean":  "용어집이 큰 도움이 되고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when a glossary supports learning."
+                      },
+                      {
+                          "id":  1108,
+                          "english":  "I need to copy the example sentence.",
+                          "korean":  "예문을 그대로 적어야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to copy an example."
+                      },
+                      {
+                          "id":  1109,
+                          "english":  "I’m reviewing the lecture slide by slide.",
+                          "korean":  "강의 슬라이드를 한 장씩 다시 보고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you review lecture slides carefully."
+                      },
+                      {
+                          "id":  1110,
+                          "english":  "I need a quieter corner to read.",
+                          "korean":  "조용한 구석에서 읽고 싶어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need a quiet place to read."
+                      },
+                      {
+                          "id":  1111,
+                          "english":  "The practice test feels a little easier now.",
+                          "korean":  "모의고사가 이제 조금 더 쉬워 보여.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when practice feels more manageable."
+                      },
+                      {
+                          "id":  1112,
+                          "english":  "I’m marking the words I don’t know.",
+                          "korean":  "모르는 단어에 표시하고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are highlighting unknown words."
+                      },
+                      {
+                          "id":  1113,
+                          "english":  "I need to recite the paragraph aloud.",
+                          "korean":  "문단을 소리 내서 외워야 해.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to practice speaking or memorizing."
+                      },
+                      {
+                          "id":  1114,
+                          "english":  "The workbook has too many errors.",
+                          "korean":  "워크북에 오류가 너무 많아.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a workbook contains mistakes."
+                      },
+                      {
+                          "id":  1115,
+                          "english":  "I’m comparing my notes with yours.",
+                          "korean":  "내 메모를 네 메모와 비교하고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you compare study notes."
+                      },
+                      {
+                          "id":  1116,
+                          "english":  "I need to rewrite the answer in full sentences.",
+                          "korean":  "답을 완전한 문장으로 다시 써야 해.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to write out a full answer."
+                      },
+                      {
+                          "id":  1117,
+                          "english":  "The chart is clearer after the explanation.",
+                          "korean":  "설명하고 나니 차트가 더 잘 보여.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when an explanation makes a chart clearer."
+                      },
+                      {
+                          "id":  1118,
+                          "english":  "I’m focusing on the first half only.",
+                          "korean":  "일단 앞부분에만 집중하고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are studying part by part."
+                      },
+                      {
+                          "id":  1119,
+                          "english":  "I need to practice this dialogue again.",
+                          "korean":  "이 대화를 다시 연습해야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to repeat a dialogue."
+                      },
+                      {
+                          "id":  1120,
+                          "english":  "The textbook example finally makes sense.",
+                          "korean":  "교과서 예시가 이제야 이해돼.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when an example finally becomes clear."
+                      },
+                      {
+                          "id":  1121,
+                          "english":  "I’m using a highlighter for the keywords.",
+                          "korean":  "핵심 단어에는 형광펜을 쓰고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are marking keywords."
+                      },
+                      {
+                          "id":  1122,
+                          "english":  "I need to check the pronunciation guide.",
+                          "korean":  "발음 안내를 확인해야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to verify pronunciation."
+                      },
+                      {
+                          "id":  1123,
+                          "english":  "I’m writing the formulas on one page.",
+                          "korean":  "공식을 한 페이지에 정리하고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are organizing formulas."
+                      },
+                      {
+                          "id":  1124,
+                          "english":  "The lecture notes are a little messy.",
+                          "korean":  "강의 메모가 좀 지저분해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when notes are not organized."
+                      },
+                      {
+                          "id":  1125,
+                          "english":  "I need to read the instructions twice.",
+                          "korean":  "안내문을 두 번 읽어야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when instructions need another look."
+                      },
+                      {
+                          "id":  1126,
+                          "english":  "I’m turning each mistake into a note.",
+                          "korean":  "틀린 문제마다 메모를 남기고 있어.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when you learn from each mistake."
+                      },
+                      {
+                          "id":  1127,
+                          "english":  "The sample response sounds more natural.",
+                          "korean":  "예시 답안이 더 자연스럽게 들려.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a sample answer sounds better."
+                      },
+                      {
+                          "id":  1128,
+                          "english":  "I need to finish this worksheet tonight.",
+                          "korean":  "이 활동지는 오늘 밤에 끝내야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when a worksheet has a deadline."
+                      },
+                      {
+                          "id":  1129,
+                          "english":  "I’m timing myself for the reading section.",
+                          "korean":  "독해 시간은 따로 재고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are practicing with a timer."
+                      },
+                      {
+                          "id":  1130,
+                          "english":  "The vocabulary review is taking longer than expected.",
+                          "korean":  "단어 복습이 생각보다 더 오래 걸리고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a review session takes time."
+                      },
+                      {
+                          "id":  1131,
+                          "english":  "I need to ask about this grammar point.",
+                          "korean":  "이 문법은 질문해야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need clarification on grammar."
+                      },
+                      {
+                          "id":  1132,
+                          "english":  "I’m listening for the stressed syllables.",
+                          "korean":  "강세가 있는 음절을 들으려고 해.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when you are training listening skills."
+                      },
+                      {
+                          "id":  1133,
+                          "english":  "The model answer gives me a better idea.",
+                          "korean":  "모범 답안을 보니 감이 더 와.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when an example answer helps."
+                      },
+                      {
+                          "id":  1134,
+                          "english":  "I need to separate the easy questions.",
+                          "korean":  "쉬운 문제는 따로 분류해야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are organizing questions by difficulty."
+                      },
+                      {
+                          "id":  1135,
+                          "english":  "I’m practicing the opening sentence.",
+                          "korean":  "첫 문장을 연습하고 있어.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are practicing how to start."
+                      },
+                      {
+                          "id":  1136,
+                          "english":  "The reading passage is full of details.",
+                          "korean":  "읽기 지문에 세부 내용이 많아.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a passage has many details."
+                      },
+                      {
+                          "id":  1137,
+                          "english":  "I need to summarize the main argument.",
+                          "korean":  "핵심 주장을 요약해야 해.",
+                          "category":  "Study",
+                          "level":  "Advanced",
+                          "situation":  "Use when you need to condense the main point."
+                      },
+                      {
+                          "id":  1138,
+                          "english":  "I’m checking whether my answer is too short.",
+                          "korean":  "내 답이 너무 짧은지 확인하고 있어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to see if an answer needs more detail."
+                      },
+                      {
+                          "id":  1139,
+                          "english":  "The teacher’s example clarified the difference.",
+                          "korean":  "선생님 예시 덕분에 차이가 분명해졌어.",
+                          "category":  "Study",
+                          "level":  "Intermediate",
+                          "situation":  "Use when an example clears up a difference."
+                      },
+                      {
+                          "id":  1140,
+                          "english":  "I need to memorize the key dates.",
+                          "korean":  "중요한 날짜를 외워야 해.",
+                          "category":  "Study",
+                          "level":  "Beginner",
+                          "situation":  "Use when dates are important to remember."
+                      },
+                      {
+                          "id":  1141,
+                          "english":  "The boarding gate changed from B12 to B18.",
+                          "korean":  "탑승구가 B12에서 B18로 바뀌었어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when your gate changes."
+                      },
+                      {
+                          "id":  1142,
+                          "english":  "My luggage tag came off in transit.",
+                          "korean":  "이동 중에 짐표가 떨어졌어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a luggage tag is lost."
+                      },
+                      {
+                          "id":  1143,
+                          "english":  "I need to reprint the boarding pass.",
+                          "korean":  "탑승권을 다시 출력해야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need a new boarding pass."
+                      },
+                      {
+                          "id":  1144,
+                          "english":  "The tram is faster than the bus today.",
+                          "korean":  "오늘은 트램이 버스보다 더 빨라.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when comparing transport options."
+                      },
+                      {
+                          "id":  1145,
+                          "english":  "The hotel said early check-in is unavailable.",
+                          "korean":  "호텔에서 얼리 체크인은 안 된다고 했어.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when early check-in is not possible."
+                      },
+                      {
+                          "id":  1146,
+                          "english":  "I need to confirm the shuttle stop.",
+                          "korean":  "셔틀 정류장을 확인해야 해.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need to verify a pickup spot."
+                      },
+                      {
+                          "id":  1147,
+                          "english":  "The platform is on the upper level.",
+                          "korean":  "플랫폼은 위층에 있어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when explaining where the platform is."
+                      },
+                      {
+                          "id":  1148,
+                          "english":  "Could you point me toward the baggage claim?",
+                          "korean":  "수하물 찾는 곳이 어디인지 알려 주실래요?",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need help finding baggage claim."
+                      },
+                      {
+                          "id":  1149,
+                          "english":  "I’m looking for the rental car desk.",
+                          "korean":  "렌터카 창구를 찾고 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are looking for a car rental desk."
+                      },
+                      {
+                          "id":  1150,
+                          "english":  "The train platform is farther than I thought.",
+                          "korean":  "기차 승강장이 생각보다 더 멀어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a place is farther away than expected."
+                      },
+                      {
+                          "id":  1151,
+                          "english":  "I need to charge my phone before boarding.",
+                          "korean":  "탑승 전에 휴대폰을 충전해야 해.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when your phone needs charging before a trip."
+                      },
+                      {
+                          "id":  1152,
+                          "english":  "The ferry terminal is across the street.",
+                          "korean":  "여객선 터미널은 길 건너편에 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when giving directions to a terminal."
+                      },
+                      {
+                          "id":  1153,
+                          "english":  "I missed the connection by five minutes.",
+                          "korean":  "연결편을 5분 차이로 놓쳤어.",
+                          "category":  "Travel",
+                          "level":  "Advanced",
+                          "situation":  "Use when you miss a transfer by a small margin."
+                      },
+                      {
+                          "id":  1154,
+                          "english":  "I need to change the return date.",
+                          "korean":  "돌아오는 날짜를 바꿔야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need to reschedule a return trip."
+                      },
+                      {
+                          "id":  1155,
+                          "english":  "The tour guide is waiting near the entrance.",
+                          "korean":  "투어 가이드는 입구 근처에서 기다리고 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when someone is waiting at an entrance."
+                      },
+                      {
+                          "id":  1156,
+                          "english":  "I’m checking the departure board again.",
+                          "korean":  "출발 안내판을 다시 보고 있어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are checking travel information again."
+                      },
+                      {
+                          "id":  1157,
+                          "english":  "Could you show me where the taxi stand is?",
+                          "korean":  "택시 승강장이 어디인지 알려 주실래요?",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need directions to a taxi stand."
+                      },
+                      {
+                          "id":  1158,
+                          "english":  "I need to store my suitcase for a few hours.",
+                          "korean":  "캐리어를 몇 시간 맡겨야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need short-term luggage storage."
+                      },
+                      {
+                          "id":  1159,
+                          "english":  "The mountain road is closed for repairs.",
+                          "korean":  "산길이 공사 때문에 막혔어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a road is closed for maintenance."
+                      },
+                      {
+                          "id":  1160,
+                          "english":  "I’m taking the scenic route home.",
+                          "korean":  "집에 갈 때 경치 좋은 길로 가고 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you choose a scenic route."
+                      },
+                      {
+                          "id":  1161,
+                          "english":  "The hotel lobby is on the second floor.",
+                          "korean":  "호텔 로비는 2층에 있어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when giving the location of a lobby."
+                      },
+                      {
+                          "id":  1162,
+                          "english":  "I need to ask about late checkout.",
+                          "korean":  "늦은 체크아웃이 되는지 물어봐야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to stay longer."
+                      },
+                      {
+                          "id":  1163,
+                          "english":  "The bus driver said to tap the card here.",
+                          "korean":  "버스 기사님이 여기서 카드를 찍으라고 했어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need to tap a transit card."
+                      },
+                      {
+                          "id":  1164,
+                          "english":  "I’m trying to find gate number 24.",
+                          "korean":  "24번 탑승구를 찾고 있어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are looking for a gate number."
+                      },
+                      {
+                          "id":  1165,
+                          "english":  "The station staff were very helpful.",
+                          "korean":  "역 직원분들이 정말 친절했어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to describe helpful staff."
+                      },
+                      {
+                          "id":  1166,
+                          "english":  "I need to switch to a local SIM card.",
+                          "korean":  "현지 SIM 카드로 바꿔야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need a local phone plan."
+                      },
+                      {
+                          "id":  1167,
+                          "english":  "The city map includes a walking route.",
+                          "korean":  "도시 지도에 도보 경로도 나와 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a map includes walking directions."
+                      },
+                      {
+                          "id":  1168,
+                          "english":  "I’m waiting near the arrival gate.",
+                          "korean":  "도착 게이트 근처에서 기다리고 있어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are waiting for someone at arrivals."
+                      },
+                      {
+                          "id":  1169,
+                          "english":  "The road signs are easier to follow now.",
+                          "korean":  "이제 도로 표지판을 따라가기 더 쉬워.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when signs are clearer."
+                      },
+                      {
+                          "id":  1170,
+                          "english":  "I need to check the weather at the destination.",
+                          "korean":  "도착지 날씨를 확인해야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when weather may affect your trip."
+                      },
+                      {
+                          "id":  1171,
+                          "english":  "The train car is almost full.",
+                          "korean":  "열차 칸이 거의 다 찼어.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when a train is crowded."
+                      },
+                      {
+                          "id":  1172,
+                          "english":  "I’m keeping my passport in the front pocket.",
+                          "korean":  "여권은 앞주머니에 넣어 두고 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to keep a passport safe."
+                      },
+                      {
+                          "id":  1173,
+                          "english":  "I need to ask where the platform ends.",
+                          "korean":  "승강장 끝이 어디인지 물어봐야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need to find the platform end."
+                      },
+                      {
+                          "id":  1174,
+                          "english":  "The museum closes earlier on Sundays.",
+                          "korean":  "박물관은 일요일에 더 일찍 닫아.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when opening hours are different on Sundays."
+                      },
+                      {
+                          "id":  1175,
+                          "english":  "I’m booking a room with a balcony.",
+                          "korean":  "발코니 있는 방을 예약하고 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want a balcony room."
+                      },
+                      {
+                          "id":  1176,
+                          "english":  "I need to buy a one-day transit pass.",
+                          "korean":  "1일 교통권을 사야 해.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you need a day pass."
+                      },
+                      {
+                          "id":  1177,
+                          "english":  "The airport lounge is near gate C7.",
+                          "korean":  "공항 라운지는 C7 게이트 근처에 있어.",
+                          "category":  "Travel",
+                          "level":  "Intermediate",
+                          "situation":  "Use when giving directions inside an airport."
+                      },
+                      {
+                          "id":  1178,
+                          "english":  "I’m heading to the information desk.",
+                          "korean":  "안내 데스크로 가는 중이야.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are going to an information desk."
+                      },
+                      {
+                          "id":  1179,
+                          "english":  "I need to print the map before we go.",
+                          "korean":  "출발하기 전에 지도를 출력해야 해.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need a paper map."
+                      },
+                      {
+                          "id":  1180,
+                          "english":  "The night bus leaves in twenty minutes.",
+                          "korean":  "야간버스가 20분 뒤에 출발해.",
+                          "category":  "Travel",
+                          "level":  "Beginner",
+                          "situation":  "Use when a bus is about to leave."
+                      },
+                      {
+                          "id":  1181,
+                          "english":  "I can probably make it after seven.",
+                          "korean":  "7시 이후면 아마 갈 수 있어.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you can likely attend after seven."
+                      },
+                      {
+                          "id":  1182,
+                          "english":  "I’m not in a rush either way.",
+                          "korean":  "어느 쪽이든 급하지 않아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are not pressed for time."
+                      },
+                      {
+                          "id":  1183,
+                          "english":  "Let’s park that for the moment.",
+                          "korean":  "일단 그건 잠시 미뤄 두자.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to set something aside."
+                      },
+                      {
+                          "id":  1184,
+                          "english":  "I’d rather not decide on the spot.",
+                          "korean":  "그 자리에서 바로 결정하고 싶지는 않아.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when you want more time to decide."
+                      },
+                      {
+                          "id":  1185,
+                          "english":  "That would make things simpler.",
+                          "korean":  "그렇게 하면 일이 더 단순해질 거야.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you think an option reduces complexity."
+                      },
+                      {
+                          "id":  1186,
+                          "english":  "I’m happy to go with your choice.",
+                          "korean":  "네 선택대로 가도 괜찮아.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you are fine with someone else\u0027s choice."
+                      },
+                      {
+                          "id":  1187,
+                          "english":  "I see why you prefer that.",
+                          "korean":  "네가 왜 그걸 더 좋아하는지 알겠어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you understand someone’s preference."
+                      },
+                      {
+                          "id":  1188,
+                          "english":  "I don’t feel strongly about it.",
+                          "korean":  "그건 딱히 강한 생각은 없어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you have no strong preference."
+                      },
+                      {
+                          "id":  1189,
+                          "english":  "That leaves us with a clear choice.",
+                          "korean":  "그러면 선택이 더 분명해지네.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when options become clearer."
+                      },
+                      {
+                          "id":  1190,
+                          "english":  "Could you walk me through your thinking?",
+                          "korean":  "생각한 과정을 차근차근 설명해 주실래요?",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when you want to hear someone\u0027s reasoning."
+                      },
+                      {
+                          "id":  1191,
+                          "english":  "I’m open to either option.",
+                          "korean":  "어느 쪽이든 괜찮아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are willing to accept either choice."
+                      },
+                      {
+                          "id":  1192,
+                          "english":  "Let’s keep the conversation going later.",
+                          "korean":  "이야기는 나중에 계속하자.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to continue later."
+                      },
+                      {
+                          "id":  1193,
+                          "english":  "I need a minute to think it over.",
+                          "korean":  "잠깐 생각할 시간이 필요해.",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need a short pause before answering."
+                      },
+                      {
+                          "id":  1194,
+                          "english":  "That seems worth trying.",
+                          "korean":  "그건 한번 해볼 만해 보여.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you think something is worth a try."
+                      },
+                      {
+                          "id":  1195,
+                          "english":  "I can see the appeal of that.",
+                          "korean":  "그게 왜 끌리는지 알 것 같아.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when you understand why something is attractive."
+                      },
+                      {
+                          "id":  1196,
+                          "english":  "I’m leaning toward the smaller version.",
+                          "korean":  "나는 더 작은 버전 쪽으로 기울고 있어.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when you are favoring a smaller option."
+                      },
+                      {
+                          "id":  1197,
+                          "english":  "We should probably hear one more opinion.",
+                          "korean":  "아마 의견을 하나 더 들어보는 게 좋겠어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when another perspective would help."
+                      },
+                      {
+                          "id":  1198,
+                          "english":  "I’d like to hear the other side too.",
+                          "korean":  "반대 의견도 들어보고 싶어.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want both sides."
+                      },
+                      {
+                          "id":  1199,
+                          "english":  "That’s a fair point.",
+                          "korean":  "그 말은 일리가 있어.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you think a point is reasonable."
+                      },
+                      {
+                          "id":  1200,
+                          "english":  "I’m okay with waiting a bit longer.",
+                          "korean":  "조금 더 기다려도 괜찮아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when waiting a little longer is acceptable."
+                      },
+                      {
+                          "id":  1201,
+                          "english":  "Could you say that one more time?",
+                          "korean":  "그걸 한 번만 더 말해 주실래요?",
+                          "category":  "Conversation",
+                          "level":  "Beginner",
+                          "situation":  "Use when you need something repeated."
+                      },
+                      {
+                          "id":  1202,
+                          "english":  "I’d prefer to keep it private.",
+                          "korean":  "그건 비공개로 두고 싶어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to keep something private."
+                      },
+                      {
+                          "id":  1203,
+                          "english":  "I’m fine either way.",
+                          "korean":  "어느 쪽이든 괜찮아.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you have no strong preference."
+                      },
+                      {
+                          "id":  1204,
+                          "english":  "That feels like the safer choice.",
+                          "korean":  "그쪽이 더 안전한 선택 같아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you think one option is safer."
+                      },
+                      {
+                          "id":  1205,
+                          "english":  "I’m not ready to commit yet.",
+                          "korean":  "아직 확답할 준비가 안 됐어.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when you are not ready to commit."
+                      },
+                      {
+                          "id":  1206,
+                          "english":  "I’d rather keep it flexible.",
+                          "korean":  "좀 더 유연하게 두는 편이 좋아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want room to adjust."
+                      },
+                      {
+                          "id":  1207,
+                          "english":  "That answer gives me enough to go on.",
+                          "korean":  "그 답이면 일단 판단하기에 충분해.",
+                          "category":  "Conversation",
+                          "level":  "Advanced",
+                          "situation":  "Use when you have enough information to continue."
+                      },
+                      {
+                          "id":  1208,
+                          "english":  "I’d like to sleep on it.",
+                          "korean":  "하루 정도 더 생각해 보고 싶어.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want more time to decide."
+                      },
+                      {
+                          "id":  1209,
+                          "english":  "We may want to simplify this.",
+                          "korean":  "이건 좀 더 단순하게 하는 게 좋을 수도 있어.",
+                          "category":  "Opinion",
+                          "level":  "Advanced",
+                          "situation":  "Use when you suggest simplifying something."
+                      },
+                      {
+                          "id":  1210,
+                          "english":  "I’m comfortable with that approach.",
+                          "korean":  "그 방식이면 괜찮아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you are satisfied with an approach."
+                      },
+                      {
+                          "id":  1211,
+                          "english":  "I think the timing is better now.",
+                          "korean":  "이제는 타이밍이 더 나은 것 같아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when timing seems better than before."
+                      },
+                      {
+                          "id":  1212,
+                          "english":  "I’d rather skip this one.",
+                          "korean":  "이건 건너뛰는 게 좋겠어.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you want to pass on something."
+                      },
+                      {
+                          "id":  1213,
+                          "english":  "Thanks for making the time.",
+                          "korean":  "시간 내줘서 고마워.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when thanking someone for their time."
+                      },
+                      {
+                          "id":  1214,
+                          "english":  "I’m glad we sorted it out.",
+                          "korean":  "잘 정리돼서 다행이야.",
+                          "category":  "Social",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a problem has been resolved."
+                      },
+                      {
+                          "id":  1215,
+                          "english":  "Let’s circle back tomorrow.",
+                          "korean":  "내일 다시 이어서 보자.",
+                          "category":  "Conversation",
+                          "level":  "Intermediate",
+                          "situation":  "Use when you want to revisit the topic later."
+                      },
+                      {
+                          "id":  1216,
+                          "english":  "I appreciate how clear that was.",
+                          "korean":  "그렇게 분명하게 말해 줘서 고마워.",
+                          "category":  "Social",
+                          "level":  "Advanced",
+                          "situation":  "Use when you appreciate a clear explanation."
+                      },
+                      {
+                          "id":  1217,
+                          "english":  "I’m going to pass this time.",
+                          "korean":  "이번에는 사양할게.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when politely declining."
+                      },
+                      {
+                          "id":  1218,
+                          "english":  "That’s a relief.",
+                          "korean":  "그나마 다행이야.",
+                          "category":  "Social",
+                          "level":  "Beginner",
+                          "situation":  "Use when you feel relieved."
+                      },
+                      {
+                          "id":  1219,
+                          "english":  "I think we’re close to a decision.",
+                          "korean":  "이제 거의 결정할 수 있을 것 같아.",
+                          "category":  "Opinion",
+                          "level":  "Intermediate",
+                          "situation":  "Use when a decision is nearly ready."
+                      },
+                      {
+                          "id":  1220,
+                          "english":  "Let’s go with the simpler option.",
+                          "korean":  "더 단순한 쪽으로 가자.",
+                          "category":  "Opinion",
+                          "level":  "Beginner",
+                          "situation":  "Use when you prefer the simpler choice."
                       }
                   ]
 }
