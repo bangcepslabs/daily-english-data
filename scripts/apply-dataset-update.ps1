@@ -1,10 +1,10 @@
-$ErrorActionPreference = "Stop"
-
 param(
   [string]$UpdateFile = "scripts/dataset-update-2026-07-24.tsv",
   [string]$Version = "2026.07.24.3",
   [string]$UpdatedAt = "2026-07-24T15:30:00Z"
 )
+
+$ErrorActionPreference = "Stop"
 
 $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 
