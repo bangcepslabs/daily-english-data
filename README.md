@@ -19,12 +19,14 @@ This repository stores the sentence data used by the Daily English Tab browser e
 1. Edit `data/sentences.json`
 2. Mirror the same content to `examples/github-raw/sentences.json`
 3. Update `examples/github-raw/sentences.meta.json`
-4. Push to `main`
-5. The extension uses the built-in raw URL by default, so no user setup is needed
+4. Run `scripts/validate-sentences.ps1`
+5. Push to `main`
+6. The extension uses the built-in raw URL by default, so no user setup is needed
 
 Detailed checklist:
 
 - See `docs/dataset-update-guide.md`
+- See `docs/sentence-quality-rules.md`
 
 ## Raw URL example
 
@@ -61,6 +63,7 @@ The raw file can be either:
 - Keep `id` values unique and stable
 - Keep `english` and `korean` non-empty
 - Use the same category and level labels consistently
+- Run the validation script before every push
 - Bump `version` whenever you publish a meaningful update
 - Leave the app to read the latest cached dataset automatically
 
@@ -95,6 +98,12 @@ If you want to test the extension with this repo:
 3. The extension will use the built-in raw JSON URL automatically
 4. Auto update is enabled by default
 5. Click `Sync now` only if you want to force an immediate refresh during development
+
+Validation command:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\validate-sentences.ps1
+```
 
 ## Notes
 

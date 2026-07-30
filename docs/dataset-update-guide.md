@@ -32,7 +32,7 @@ If you only change sentence data and push the JSON files, the published extensio
 4. Update `version` and `updatedAt` in:
    - `examples/github-raw/sentences.json`
    - `examples/github-raw/sentences.meta.json`
-5. Validate the JSON files.
+5. Run the validation script.
 6. Commit the changes.
 7. Push to `main`.
 8. Open the extension popup and confirm that the new remote data is visible.
@@ -51,6 +51,7 @@ Check every update for the following:
 - Korean sounds like natural spoken Korean, not a literal translation
 - Nearby entries do not repeat the same sentence frame too often
 - There are no broken quotes or malformed JSON escapes
+- Run `scripts/validate-sentences.ps1` and clear every error before push
 
 ## Difficulty rule
 
@@ -98,6 +99,18 @@ After pushing new data, confirm these points in the extension:
 3. The displayed update date changed.
 4. A few recently changed sentences actually appear.
 5. If needed, close and reopen the popup to force a fresh fetch.
+
+## Local validation command
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\validate-sentences.ps1
+```
+
+If you want warnings to fail too:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts\validate-sentences.ps1 -FailOnWarning
+```
 
 ## Practical release rule
 

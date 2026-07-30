@@ -961,7 +961,7 @@
     },
     {
         "id":  121,
-        "english":  "I need to check my bag before before lunch.",
+        "english":  "I need to check my bag before lunch.",
         "korean":  "점심 전에 내 가방을 확인해야 해.",
         "category":  "Daily life",
         "level":  "Beginner",
@@ -1033,8 +1033,8 @@
     },
     {
         "id":  130,
-        "english":  "I want to tidy after after work.",
-        "korean":  "퇴근 후 후에 정리하고 싶어.",
+        "english":  "I want to tidy up after work.",
+        "korean":  "퇴근 후에 정리하고 싶어.",
         "category":  "Daily life",
         "level":  "Beginner",
         "situation":  "A simple plan for later in the day."
@@ -1201,8 +1201,8 @@
     },
     {
         "id":  151,
-        "english":  "I need to pack my charger before before I leave.",
-        "korean":  "나가기 전에 전에 내 충전기를 챙겨해야 해.",
+        "english":  "I need to pack my charger before I leave.",
+        "korean":  "나가기 전에 충전기를 챙겨야 해.",
         "category":  "Daily life",
         "level":  "Beginner",
         "situation":  "Useful when you need to get one small task done first."
@@ -1289,11 +1289,11 @@
     },
     {
         "id":  162,
-        "english":  "The keys seems missing.",
-        "korean":  "내 열쇠가 안 보여 보여.",
+        "english":  "The keys seem to be missing.",
+        "korean":  "내 열쇠가 안 보여.",
         "category":  "Daily life",
         "level":  "Intermediate",
-        "situation":  "Useful when something appears a certain way."
+        "situation":  "Useful when something appears to be missing."
     },
     {
         "id":  163,
@@ -1345,8 +1345,8 @@
     },
     {
         "id":  169,
-        "english":  "I need to organize my clothes before before the trip.",
-        "korean":  "여행 전에 전에 내 옷을 정돈해야 해.",
+        "english":  "I need to organize my clothes before the trip.",
+        "korean":  "여행 전에 내 옷을 정돈해야 해.",
         "category":  "Daily life",
         "level":  "Beginner",
         "situation":  "Useful when you need to get one small task done first."
@@ -1417,8 +1417,8 @@
     },
     {
         "id":  178,
-        "english":  "I want to wipe after after dinner.",
-        "korean":  "저녁 후 후에 닦아하고 싶어.",
+        "english":  "I want to wipe the table after dinner.",
+        "korean":  "저녁 먹고 나서 식탁을 닦고 싶어.",
         "category":  "Daily life",
         "level":  "Beginner",
         "situation":  "A simple plan for later in the day."
@@ -3329,8 +3329,8 @@
     },
     {
         "id":  417,
-        "english":  "This feels more better than before.",
-        "korean":  "이건 전보다 더 더 나아.",
+        "english":  "This seems better than before.",
+        "korean":  "이건 전보다 더 나아 보여.",
         "category":  "Opinion",
         "level":  "Beginner",
         "situation":  "Useful when your opinion changes."
@@ -15266,10 +15266,10 @@
     {
         "id":  2109,
         "english":  "I am trying to make space in the laundry area.",
-        "korean":  "세탁 공간을 공간을 만들려고 해.",
+        "korean":  "세탁 공간에 자리를 좀 만들려고 해.",
         "category":  "Home",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when saying you are clearing room in a laundry area."
     },
     {
         "id":  2110,
@@ -16013,7 +16013,7 @@
         "korean":  "아직 감당 가능한 동안 수정 전에 복사본을 저장하는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when suggesting saving a backup before editing before the situation gets hectic."
+        "situation":  "Use when suggesting saving a backup before editing while the work still feels manageable."
     },
     {
         "id":  2203,
