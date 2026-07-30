@@ -3073,67 +3073,67 @@
     },
     {
         "id":  385,
-        "english":  "I think the plan is good.",
-        "korean":  "나는 그 계획이 좋아.",
+        "english":  "I think the plan looks solid.",
+        "korean":  "그 계획은 꽤 탄탄해 보여.",
         "category":  "Opinion",
-        "level":  "Beginner",
-        "situation":  "Useful when sharing a judgment."
+        "level":  "Intermediate",
+        "situation":  "Use when you want to say a plan seems reliable."
     },
     {
         "id":  386,
-        "english":  "I prefer tea over coffee.",
-        "korean":  "나는 차보다 커피이 더 좋아.",
+        "english":  "I prefer tea to coffee.",
+        "korean":  "나는 커피보다 차가 더 좋아.",
         "category":  "Opinion",
-        "level":  "Intermediate",
-        "situation":  "Useful for expressing a preference."
+        "level":  "Beginner",
+        "situation":  "Use when you are sharing a simple preference."
     },
     {
         "id":  387,
-        "english":  "This feels more good than before.",
-        "korean":  "이건 전보다 더 좋아.",
+        "english":  "This feels better than before.",
+        "korean":  "이건 전보다 더 괜찮게 느껴져.",
         "category":  "Opinion",
-        "level":  "Advanced",
-        "situation":  "Useful when your opinion changes."
+        "level":  "Intermediate",
+        "situation":  "Use when something feels improved."
     },
     {
         "id":  388,
-        "english":  "It might be better to wait now.",
-        "korean":  "지금 기다리하는 게 더 나을지도 몰라.",
+        "english":  "It might be better to wait a little longer.",
+        "korean":  "조금 더 기다리는 게 나을지도 몰라.",
         "category":  "Opinion",
-        "level":  "Beginner",
-        "situation":  "Useful when making a gentle suggestion."
+        "level":  "Intermediate",
+        "situation":  "Use when you think waiting may help."
     },
     {
         "id":  389,
         "english":  "I agree with your point.",
-        "korean":  "네 의견에 동의해.",
+        "korean":  "네 말에 동의해.",
         "category":  "Opinion",
         "level":  "Intermediate",
-        "situation":  "Useful when you want to support a point."
+        "situation":  "Use when you want to agree with someone\u0027s point."
     },
     {
         "id":  390,
         "english":  "I think the idea is interesting.",
-        "korean":  "나는 그 아이디어가 흥미로워.",
+        "korean":  "그 아이디어는 흥미로운 것 같아.",
         "category":  "Opinion",
-        "level":  "Advanced",
-        "situation":  "Useful when sharing a judgment."
+        "level":  "Intermediate",
+        "situation":  "Use when you want to say an idea is interesting."
     },
     {
         "id":  391,
-        "english":  "I prefer today over tomorrow.",
-        "korean":  "나는 오늘보다 내일이 더 좋아.",
+        "english":  "I would rather do it today than tomorrow.",
+        "korean":  "내일보다는 오늘 하는 편이 좋겠어.",
         "category":  "Opinion",
-        "level":  "Beginner",
-        "situation":  "Useful for expressing a preference."
+        "level":  "Intermediate",
+        "situation":  "Use when you prefer today over tomorrow."
     },
     {
         "id":  392,
         "english":  "This feels more interesting than before.",
-        "korean":  "이건 전보다 더 흥미로워.",
+        "korean":  "이건 전보다 더 흥미롭게 느껴져.",
         "category":  "Opinion",
         "level":  "Intermediate",
-        "situation":  "Useful when your opinion changes."
+        "situation":  "Use when something feels more interesting now."
     },
     {
         "id":  393,
@@ -3148,16 +3148,16 @@
         "english":  "I agree with the layout choice.",
         "korean":  "그 배치 선택에 동의해.",
         "category":  "Opinion",
-        "level":  "Beginner",
-        "situation":  "Use when you want to agree with a layout choice."
+        "level":  "Intermediate",
+        "situation":  "Use when you want to agree with a layout decision."
     },
     {
         "id":  395,
         "english":  "I think the result is surprising.",
-        "korean":  "나는 그 결과가 놀라워.",
+        "korean":  "그 결과는 꽤 의외인 것 같아.",
         "category":  "Opinion",
         "level":  "Intermediate",
-        "situation":  "Useful when sharing a judgment."
+        "situation":  "Use when the result feels surprising."
     },
     {
         "id":  396,
@@ -3489,11 +3489,11 @@
     },
     {
         "id":  437,
-        "english":  "The subway leaves at rush hour.",
-        "korean":  "지하철이 출퇴근 시간에 출발해.",
+        "english":  "The subway is crowded at rush hour.",
+        "korean":  "출퇴근 시간에는 지하철이 붐벼.",
         "category":  "Travel",
         "level":  "Beginner",
-        "situation":  "Useful for common transit talk."
+        "situation":  "Use when talking about a crowded subway during rush hour."
     },
     {
         "id":  438,
@@ -3513,11 +3513,11 @@
     },
     {
         "id":  440,
-        "english":  "The taxi leaves at late at night.",
-        "korean":  "택시가 늦은 밤에 출발해.",
+        "english":  "It is harder to catch a taxi late at night.",
+        "korean":  "늦은 밤에는 택시 잡기가 더 어려워.",
         "category":  "Travel",
-        "level":  "Beginner",
-        "situation":  "Useful for common transit talk."
+        "level":  "Intermediate",
+        "situation":  "Use when it is difficult to find a taxi late at night."
     },
     {
         "id":  441,
@@ -3546,10 +3546,10 @@
     {
         "id":  444,
         "english":  "Could you tell me where the port is?",
-        "korean":  "항구은 어디인지 알려주실 수 있나요?",
+        "korean":  "항구가 어디인지 알려주실 수 있나요?",
         "category":  "Travel",
         "level":  "Intermediate",
-        "situation":  "Useful when asking for directions."
+        "situation":  "Use when asking for the location of the port."
     },
     {
         "id":  445,
@@ -3561,11 +3561,11 @@
     },
     {
         "id":  446,
-        "english":  "The plane leaves at early morning.",
+        "english":  "The plane leaves early in the morning.",
         "korean":  "비행기가 이른 아침에 출발해.",
         "category":  "Travel",
         "level":  "Beginner",
-        "situation":  "Useful for common transit talk."
+        "situation":  "Use when talking about an early morning flight."
     },
     {
         "id":  447,
@@ -3580,24 +3580,24 @@
         "english":  "The airport was busier than I expected.",
         "korean":  "공항이 생각보다 더 붐볐어.",
         "category":  "Travel",
-        "level":  "Beginner",
-        "situation":  "Useful when describing a crowded place."
+        "level":  "Intermediate",
+        "situation":  "Use when the airport felt busier than expected."
     },
     {
         "id":  449,
-        "english":  "The car leaves at after lunch.",
-        "korean":  "차가 점심 후에 출발해.",
+        "english":  "The car leaves after lunch.",
+        "korean":  "차가 점심 먹고 출발해.",
         "category":  "Travel",
-        "level":  "Intermediate",
-        "situation":  "Useful for common transit talk."
+        "level":  "Beginner",
+        "situation":  "Use when a car departs after lunch."
     },
     {
         "id":  450,
         "english":  "Could you tell me where the parking lot is?",
-        "korean":  "주차장은 어디인지 알려주실 수 있나요?",
+        "korean":  "주차장이 어디인지 알려주실 수 있나요?",
         "category":  "Travel",
-        "level":  "Beginner",
-        "situation":  "Useful when asking for directions."
+        "level":  "Intermediate",
+        "situation":  "Use when asking for the parking lot."
     },
     {
         "id":  451,
@@ -3605,23 +3605,23 @@
         "korean":  "주차장이 생각보다 더 붐볐어.",
         "category":  "Travel",
         "level":  "Intermediate",
-        "situation":  "Useful when describing a crowded place."
+        "situation":  "Use when the parking lot felt busier than expected."
     },
     {
         "id":  452,
-        "english":  "The tram leaves at this afternoon.",
+        "english":  "The tram leaves this afternoon.",
         "korean":  "트램이 오늘 오후에 출발해.",
         "category":  "Travel",
         "level":  "Beginner",
-        "situation":  "Useful for common transit talk."
+        "situation":  "Use when talking about a tram leaving this afternoon."
     },
     {
         "id":  453,
-        "english":  "Could you tell me where the downtown is?",
-        "korean":  "시내은 어디인지 알려주실 수 있나요?",
+        "english":  "Could you tell me where downtown is?",
+        "korean":  "시내가 어디인지 알려주실 수 있나요?",
         "category":  "Travel",
         "level":  "Intermediate",
-        "situation":  "Useful when asking for directions."
+        "situation":  "Use when asking for the downtown area."
     },
     {
         "id":  454,
@@ -3716,16 +3716,16 @@
         "english":  "Are you free this evening?",
         "korean":  "오늘 저녁 시간 괜찮아?",
         "category":  "Social",
-        "level":  "Intermediate",
-        "situation":  "Useful when checking availability."
+        "level":  "Beginner",
+        "situation":  "Use when asking if someone is free in the evening."
     },
     {
         "id":  466,
-        "english":  "I had a great time with you at the cafe.",
-        "korean":  "카페에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you at the cafe.",
+        "korean":  "카페에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful for a friendly follow-up."
+        "level":  "Intermediate",
+        "situation":  "Use when you enjoyed talking with someone at a cafe."
     },
     {
         "id":  467,
@@ -3738,26 +3738,26 @@
     {
         "id":  468,
         "english":  "Let\u0027s meet at the restaurant after work.",
-        "korean":  "퇴근 후 식당에서 만나자.",
+        "korean":  "퇴근 후에 식당에서 만나자.",
         "category":  "Social",
-        "level":  "Intermediate",
-        "situation":  "Useful for making a casual plan."
+        "level":  "Beginner",
+        "situation":  "Use when suggesting a meeting after work."
     },
     {
         "id":  469,
         "english":  "Are you free after work?",
         "korean":  "퇴근 후 시간 괜찮아?",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful when checking availability."
+        "level":  "Beginner",
+        "situation":  "Use when asking if someone is free after work."
     },
     {
         "id":  470,
-        "english":  "I had a great time with you at the restaurant.",
-        "korean":  "식당에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you at the restaurant.",
+        "korean":  "식당에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Useful for a friendly follow-up."
+        "level":  "Intermediate",
+        "situation":  "Use when you enjoyed talking with someone at a restaurant."
     },
     {
         "id":  471,
@@ -3770,10 +3770,10 @@
     {
         "id":  472,
         "english":  "Let\u0027s meet at the park this weekend.",
-        "korean":  "이번 주말 공원에서 만나자.",
+        "korean":  "이번 주말에 공원에서 만나자.",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful for making a casual plan."
+        "level":  "Beginner",
+        "situation":  "Use when suggesting a weekend meeting at the park."
     },
     {
         "id":  473,
@@ -3785,11 +3785,11 @@
     },
     {
         "id":  474,
-        "english":  "I had a great time with you at the park.",
-        "korean":  "공원에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you at the park.",
+        "korean":  "공원에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
         "level":  "Intermediate",
-        "situation":  "Useful for a friendly follow-up."
+        "situation":  "Use when you enjoyed talking with someone at the park."
     },
     {
         "id":  475,
@@ -3812,16 +3812,16 @@
         "english":  "Are you free tomorrow?",
         "korean":  "내일 시간 괜찮아?",
         "category":  "Social",
-        "level":  "Intermediate",
-        "situation":  "Useful when checking availability."
+        "level":  "Beginner",
+        "situation":  "Use when asking if someone is free tomorrow."
     },
     {
         "id":  478,
-        "english":  "I had a great time with you at the library.",
-        "korean":  "도서관에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you at the library.",
+        "korean":  "도서관에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful for a friendly follow-up."
+        "level":  "Intermediate",
+        "situation":  "Use when you enjoyed talking with someone at the library."
     },
     {
         "id":  479,
@@ -3833,27 +3833,27 @@
     },
     {
         "id":  480,
-        "english":  "Let\u0027s meet at the museum Saturday.",
-        "korean":  "토요일 박물관에서 만나자.",
+        "english":  "Let\u0027s meet at the museum on Saturday.",
+        "korean":  "토요일에 박물관에서 만나자.",
         "category":  "Social",
-        "level":  "Intermediate",
-        "situation":  "Useful for making a casual plan."
+        "level":  "Beginner",
+        "situation":  "Use when suggesting a meeting at the museum on Saturday."
     },
     {
         "id":  481,
-        "english":  "Are you free Saturday?",
+        "english":  "Are you free on Saturday?",
         "korean":  "토요일 시간 괜찮아?",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful when checking availability."
+        "level":  "Beginner",
+        "situation":  "Use when asking if someone is free on Saturday."
     },
     {
         "id":  482,
-        "english":  "I had a great time with you at the museum.",
-        "korean":  "박물관에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you at the museum.",
+        "korean":  "박물관에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Useful for a friendly follow-up."
+        "level":  "Intermediate",
+        "situation":  "Use when you enjoyed talking with someone at the museum."
     },
     {
         "id":  483,
@@ -3866,10 +3866,10 @@
     {
         "id":  484,
         "english":  "Let\u0027s meet at the mall this afternoon.",
-        "korean":  "오늘 오후 쇼핑몰에서 만나자.",
+        "korean":  "오늘 오후에 쇼핑몰에서 만나자.",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful for making a casual plan."
+        "level":  "Beginner",
+        "situation":  "Use when suggesting a meeting at the mall this afternoon."
     },
     {
         "id":  485,
@@ -3881,11 +3881,11 @@
     },
     {
         "id":  486,
-        "english":  "I had a great time with you at the mall.",
-        "korean":  "쇼핑몰에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you at the mall.",
+        "korean":  "쇼핑몰에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
         "level":  "Intermediate",
-        "situation":  "Useful for a friendly follow-up."
+        "situation":  "Use when you enjoyed talking with someone at the mall."
     },
     {
         "id":  487,
@@ -3897,27 +3897,27 @@
     },
     {
         "id":  488,
-        "english":  "Let\u0027s meet at the rooftop at sunset.",
-        "korean":  "해질 무렵 옥상에서 만나자.",
+        "english":  "Let\u0027s meet at the rooftop around sunset.",
+        "korean":  "해 질 무렵에 옥상에서 만나자.",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Useful for making a casual plan."
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting a rooftop meeting around sunset."
     },
     {
         "id":  489,
-        "english":  "Are you free at sunset?",
-        "korean":  "해질 무렵 시간 괜찮아?",
+        "english":  "Are you free around sunset?",
+        "korean":  "해 질 무렵 시간 괜찮아?",
         "category":  "Social",
-        "level":  "Advanced",
-        "situation":  "Useful when checking availability."
+        "level":  "Intermediate",
+        "situation":  "Use when asking if someone is free around sunset."
     },
     {
         "id":  490,
-        "english":  "I had a great time with you at the rooftop.",
-        "korean":  "옥상에서 같이 있어서 정말 좋았어.",
+        "english":  "I had a great time talking with you on the rooftop.",
+        "korean":  "옥상에서 이야기 나눠서 정말 좋았어.",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Useful for a friendly follow-up."
+        "level":  "Intermediate",
+        "situation":  "Use when you enjoyed talking with someone on the rooftop."
     },
     {
         "id":  491,
@@ -6465,11 +6465,11 @@
     },
     {
         "id":  1009,
-        "english":  "It might be better to wait a little longer.",
-        "korean":  "조금 더 기다리는 게 나을 수도 있어.",
+        "english":  "It may be better to wait a bit longer.",
+        "korean":  "조금 더 기다리는 편이 나을 수도 있어.",
         "category":  "Opinion",
         "level":  "Intermediate",
-        "situation":  "Use when you think waiting may be wiser."
+        "situation":  "Use when suggesting that waiting a little longer may lead to a better outcome."
     },
     {
         "id":  1010,
@@ -11724,40 +11724,40 @@
         "english":  "Would you like to catch up properly tomorrow?",
         "korean":  "내일 제대로 이야기 나눌래요?",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Use when asking something politely in a practical situation."
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting a proper catch-up instead of a quick hello."
     },
     {
         "id":  1667,
         "english":  "Would you like to catch up properly this weekend?",
         "korean":  "이번 주말에 제대로 이야기 나눌래요?",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Use when asking something politely in a practical situation."
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting a proper catch-up instead of a quick hello."
     },
     {
         "id":  1668,
         "english":  "Would you like to catch up properly after work?",
         "korean":  "퇴근 후에 제대로 이야기 나눌래요?",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Use when asking something politely in a practical situation."
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting a proper catch-up instead of a quick hello."
     },
     {
         "id":  1669,
         "english":  "Would you like to catch up properly sometime next week?",
         "korean":  "다음 주 중에 제대로 이야기 나눌래요?",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Use when asking something politely in a practical situation."
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting a proper catch-up instead of a quick hello."
     },
     {
         "id":  1670,
         "english":  "Would you like to catch up properly when you are free?",
         "korean":  "시간 괜찮을 때 제대로 이야기 나눌래요?",
         "category":  "Social",
-        "level":  "Beginner",
-        "situation":  "Use when asking something politely in a practical situation."
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting a proper catch-up instead of a quick hello."
     },
     {
         "id":  1671,
@@ -12177,11 +12177,11 @@
     },
     {
         "id":  1723,
-        "english":  "I should drink more water before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 물을 좀 더 마셔야 해.",
+        "english":  "I should drink more water before I get a headache.",
+        "korean":  "두통이 오기 전에 물을 좀 더 마셔야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about preventing dehydration before symptoms get worse."
     },
     {
         "id":  1724,
@@ -12217,11 +12217,11 @@
     },
     {
         "id":  1728,
-        "english":  "I should stretch my shoulders before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 어깨를 풀어 줘야 해.",
+        "english":  "I should stretch my shoulders before the tension gets worse.",
+        "korean":  "뻐근함이 더 심해지기 전에 어깨를 풀어 줘야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about easing shoulder tension before it builds up."
     },
     {
         "id":  1729,
@@ -12249,19 +12249,19 @@
     },
     {
         "id":  1732,
-        "english":  "I should go to bed earlier after lunch.",
-        "korean":  "점심 먹고 나서는 더 일찍 자야 해.",
+        "english":  "I should go to bed earlier tonight.",
+        "korean":  "오늘은 더 일찍 자야 해.",
         "category":  "Health",
         "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when reminding yourself to sleep earlier that night."
     },
     {
         "id":  1733,
-        "english":  "I should go to bed earlier before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 더 일찍 자야 해.",
+        "english":  "I should go to bed earlier before I get too worn out.",
+        "korean":  "너무 지치기 전에 더 일찍 자야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about resting earlier before fatigue builds up."
     },
     {
         "id":  1734,
@@ -12297,11 +12297,11 @@
     },
     {
         "id":  1738,
-        "english":  "I should take a short walk before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 짧게 걸어야 해.",
+        "english":  "I should take a short walk before I feel too sluggish.",
+        "korean":  "너무 처지기 전에 잠깐 걸어야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about moving a little before your body feels heavy."
     },
     {
         "id":  1739,
@@ -12337,11 +12337,11 @@
     },
     {
         "id":  1743,
-        "english":  "I should cut back on sugar before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 당분을 좀 줄여야 해.",
+        "english":  "I should cut back on sugar before I feel worse.",
+        "korean":  "상태가 더 안 좋아지기 전에 당분을 좀 줄여야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about reducing sugar before it affects how you feel."
     },
     {
         "id":  1744,
@@ -12377,11 +12377,11 @@
     },
     {
         "id":  1748,
-        "english":  "I should slow down a little before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 조금 속도를 늦춰야 해.",
+        "english":  "I should slow down a little before I burn out.",
+        "korean":  "번아웃이 오기 전에 조금 속도를 늦춰야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about easing your pace before you get exhausted."
     },
     {
         "id":  1749,
@@ -12417,11 +12417,11 @@
     },
     {
         "id":  1753,
-        "english":  "I should rest my eyes before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 눈을 쉬게 해야 해.",
+        "english":  "I should rest my eyes before the strain gets worse.",
+        "korean":  "눈의 피로가 더 심해지기 전에 눈을 쉬게 해야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about resting your eyes before strain builds up."
     },
     {
         "id":  1754,
@@ -12457,11 +12457,11 @@
     },
     {
         "id":  1758,
-        "english":  "I should eat something light before the headache gets worse.",
-        "korean":  "두통이 더 심해지기 전에 가볍게 뭘 좀 먹어야 해.",
+        "english":  "I should eat something light before I feel sick.",
+        "korean":  "속이 더 불편해지기 전에 가볍게 뭘 좀 먹어야 해.",
         "category":  "Health",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when talking about eating lightly before you feel unwell."
     },
     {
         "id":  1759,
@@ -12617,11 +12617,11 @@
     },
     {
         "id":  1778,
-        "english":  "I feel better when I take a short break when I am stressed.",
-        "korean":  "스트레스를 받을 때는 짧게 쉬면 더 괜찮아져.",
+        "english":  "I feel better when I take a short break when I am under stress.",
+        "korean":  "스트레스를 받을 때는 잠깐 쉬면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how short breaks help you when stress builds up."
     },
     {
         "id":  1779,
@@ -12657,11 +12657,11 @@
     },
     {
         "id":  1783,
-        "english":  "I feel better when I keep a steady routine when I am stressed.",
+        "english":  "I feel better when I keep a steady routine when I am under stress.",
         "korean":  "스트레스를 받을 때는 생활 리듬을 일정하게 유지하면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how routines help you stay balanced under stress."
     },
     {
         "id":  1784,
@@ -12697,11 +12697,11 @@
     },
     {
         "id":  1788,
-        "english":  "I feel better when I drink warm tea when I am stressed.",
+        "english":  "I feel better when I drink warm tea when I am under stress.",
         "korean":  "스트레스를 받을 때는 따뜻한 차를 마시면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a small habit that helps when you feel stressed."
     },
     {
         "id":  1789,
@@ -12721,43 +12721,43 @@
     },
     {
         "id":  1791,
-        "english":  "I feel better when I sleep a little longer in the afternoon.",
-        "korean":  "오후에는 조금 더 자면 더 괜찮아져.",
+        "english":  "I feel better when I get a little more sleep on weekends.",
+        "korean":  "주말에 잠을 조금 더 자면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how extra rest on weekends helps you recover."
     },
     {
         "id":  1792,
-        "english":  "I feel better when I sleep a little longer after a long meeting.",
-        "korean":  "긴 회의 뒤에는 조금 더 자면 더 괜찮아져.",
+        "english":  "I feel better when I get a little more sleep after a long week.",
+        "korean":  "한 주가 길게 느껴진 뒤에는 잠을 조금 더 자면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how extra sleep helps after a tiring week."
     },
     {
         "id":  1793,
-        "english":  "I feel better when I sleep a little longer when I am stressed.",
-        "korean":  "스트레스를 받을 때는 조금 더 자면 더 괜찮아져.",
+        "english":  "I feel better when I get a little more sleep when I am under stress.",
+        "korean":  "스트레스를 받을 때는 잠을 조금 더 자면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how extra sleep helps you cope with stress."
     },
     {
         "id":  1794,
-        "english":  "I feel better when I sleep a little longer on rainy days.",
-        "korean":  "비 오는 날에는 조금 더 자면 더 괜찮아져.",
+        "english":  "I feel better when I get a little more sleep on rainy days.",
+        "korean":  "비 오는 날에는 잠을 조금 더 자면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how extra sleep can help on low-energy days."
     },
     {
         "id":  1795,
-        "english":  "I feel better when I sleep a little longer after using the computer for hours.",
-        "korean":  "오랫동안 컴퓨터를 쓴 뒤에는 조금 더 자면 더 괜찮아져.",
+        "english":  "I feel better when I get a little more sleep after staying up too late.",
+        "korean":  "늦게까지 깨어 있었던 뒤에는 잠을 조금 더 자면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how catching up on sleep helps after a late night."
     },
     {
         "id":  1796,
@@ -12801,43 +12801,43 @@
     },
     {
         "id":  1801,
-        "english":  "I feel better when I avoid late-night snacks in the afternoon.",
-        "korean":  "오후에는 밤늦게 간식을 안 먹으면 더 괜찮아져.",
+        "english":  "I feel better when I avoid sugary snacks in the afternoon.",
+        "korean":  "오후에는 단 간식을 피하면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how avoiding sugary snacks helps your energy in the afternoon."
     },
     {
         "id":  1802,
-        "english":  "I feel better when I avoid late-night snacks after a long meeting.",
-        "korean":  "긴 회의 뒤에는 밤늦게 간식을 안 먹으면 더 괜찮아져.",
+        "english":  "I feel better when I avoid sugary snacks after a long meeting.",
+        "korean":  "긴 회의 뒤에는 단 간식을 피하면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how avoiding sugary snacks helps after mental fatigue."
     },
     {
         "id":  1803,
-        "english":  "I feel better when I avoid late-night snacks when I am stressed.",
-        "korean":  "스트레스를 받을 때는 밤늦게 간식을 안 먹으면 더 괜찮아져.",
+        "english":  "I feel better when I avoid sugary snacks when I am under stress.",
+        "korean":  "스트레스를 받을 때는 단 간식을 피하면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how avoiding sugary snacks helps when stress affects your habits."
     },
     {
         "id":  1804,
-        "english":  "I feel better when I avoid late-night snacks on rainy days.",
-        "korean":  "비 오는 날에는 밤늦게 간식을 안 먹으면 더 괜찮아져.",
+        "english":  "I feel better when I avoid sugary snacks on rainy days.",
+        "korean":  "비 오는 날에는 단 간식을 피하면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how avoiding sugary snacks helps on low-energy days."
     },
     {
         "id":  1805,
-        "english":  "I feel better when I avoid late-night snacks after using the computer for hours.",
-        "korean":  "오랫동안 컴퓨터를 쓴 뒤에는 밤늦게 간식을 안 먹으면 더 괜찮아져.",
+        "english":  "I feel better when I avoid sugary snacks after using the computer for hours.",
+        "korean":  "오랫동안 컴퓨터를 쓴 뒤에는 단 간식을 피하면 더 괜찮아져.",
         "category":  "Health",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing how avoiding sugary snacks helps after long screen time."
     },
     {
         "id":  1806,
@@ -12994,10 +12994,10 @@
     {
         "id":  1825,
         "english":  "I am looking for a lightweight jacket with a simple design.",
-        "korean":  "디자인이 단순한 가벼운 재킷을 찾고 있어.",
+        "korean":  "디자인이 깔끔한 가벼운 재킷을 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a simple lightweight jacket."
     },
     {
         "id":  1826,
@@ -13034,10 +13034,10 @@
     {
         "id":  1830,
         "english":  "I am looking for a plain notebook with a simple design.",
-        "korean":  "디자인이 단순한 심플한 노트를 찾고 있어.",
+        "korean":  "디자인이 깔끔한 심플한 노트를 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a simple notebook."
     },
     {
         "id":  1831,
@@ -13074,10 +13074,10 @@
     {
         "id":  1835,
         "english":  "I am looking for a larger tote bag with a simple design.",
-        "korean":  "디자인이 단순한 좀 더 큰 토트백을 찾고 있어.",
+        "korean":  "디자인이 깔끔한 큰 토트백을 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a large tote bag with a simple design."
     },
     {
         "id":  1836,
@@ -13114,10 +13114,10 @@
     {
         "id":  1840,
         "english":  "I am looking for a travel-size bottle with a simple design.",
-        "korean":  "디자인이 단순한 여행용 병을 찾고 있어.",
+        "korean":  "디자인이 깔끔한 여행용 병을 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a travel-size bottle with a simple design."
     },
     {
         "id":  1841,
@@ -13153,11 +13153,11 @@
     },
     {
         "id":  1845,
-        "english":  "I am looking for a simple desk lamp with a simple design.",
-        "korean":  "디자인이 단순한 심플한 책상 조명을 찾고 있어.",
+        "english":  "I am looking for a desk lamp with a simple design.",
+        "korean":  "디자인이 깔끔한 책상 조명을 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when asking for a desk lamp with a clean and simple look."
     },
     {
         "id":  1846,
@@ -13194,10 +13194,10 @@
     {
         "id":  1850,
         "english":  "I am looking for a softer blanket with a simple design.",
-        "korean":  "디자인이 단순한 더 부드러운 담요를 찾고 있어.",
+        "korean":  "디자인이 깔끔한 부드러운 담요를 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a blanket with a cleaner design."
     },
     {
         "id":  1851,
@@ -13234,10 +13234,10 @@
     {
         "id":  1855,
         "english":  "I am looking for a smaller backpack with a simple design.",
-        "korean":  "디자인이 단순한 좀 더 작은 백팩을 찾고 있어.",
+        "korean":  "디자인이 깔끔한 작은 백팩을 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a smaller backpack with a simple design."
     },
     {
         "id":  1856,
@@ -13274,10 +13274,10 @@
     {
         "id":  1860,
         "english":  "I am looking for a waterproof pouch with a simple design.",
-        "korean":  "디자인이 단순한 방수 파우치를 찾고 있어.",
+        "korean":  "디자인이 깔끔한 방수 파우치를 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a waterproof pouch with a cleaner design."
     },
     {
         "id":  1861,
@@ -13314,10 +13314,10 @@
     {
         "id":  1865,
         "english":  "I am looking for a reusable container with a simple design.",
-        "korean":  "디자인이 단순한 재사용 가능한 용기를 찾고 있어.",
+        "korean":  "디자인이 깔끔한 재사용 용기를 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a reusable container with a simple design."
     },
     {
         "id":  1866,
@@ -13354,10 +13354,10 @@
     {
         "id":  1870,
         "english":  "I am looking for a sturdy phone stand with a simple design.",
-        "korean":  "디자인이 단순한 튼튼한 휴대폰 거치대를 찾고 있어.",
+        "korean":  "디자인이 깔끔한 튼튼한 휴대폰 거치대를 찾고 있어.",
         "category":  "Shopping",
-        "level":  "Beginner",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "level":  "Intermediate",
+        "situation":  "Use when looking for a sturdy phone stand with a simple design."
     },
     {
         "id":  1871,
@@ -13521,43 +13521,43 @@
     },
     {
         "id":  1891,
-        "english":  "Could you show me a umbrella that is easier to carry?",
+        "english":  "Could you show me an umbrella that is easier to carry?",
         "korean":  "좀 더 들고 다니기 쉬운 우산을 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for an umbrella that feels more convenient to carry."
     },
     {
         "id":  1892,
-        "english":  "Could you show me a umbrella that feels a little lighter?",
+        "english":  "Could you show me an umbrella that feels a little lighter?",
         "korean":  "조금 더 가벼운 느낌의 우산을 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for a lighter umbrella option."
     },
     {
         "id":  1893,
-        "english":  "Could you show me a umbrella for everyday use?",
+        "english":  "Could you show me an umbrella for everyday use?",
         "korean":  "평소에 쓰기 좋은 우산을 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for an umbrella suited to daily use."
     },
     {
         "id":  1894,
-        "english":  "Could you show me a umbrella with a cleaner design?",
+        "english":  "Could you show me an umbrella with a cleaner design?",
         "korean":  "디자인이 더 깔끔한 우산을 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for an umbrella with a more minimal design."
     },
     {
         "id":  1895,
-        "english":  "Could you show me a umbrella that takes up less space?",
+        "english":  "Could you show me an umbrella that takes up less space?",
         "korean":  "공간을 덜 차지하는 우산을 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for a more compact umbrella."
     },
     {
         "id":  1896,
@@ -13721,19 +13721,19 @@
     },
     {
         "id":  1916,
-        "english":  "Could you show me a pair of sneakers that is easier to carry?",
+        "english":  "Could you show me a pair of sneakers that are easier to carry?",
         "korean":  "좀 더 들고 다니기 쉬운 운동화를 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for sneakers that feel less bulky to carry."
     },
     {
         "id":  1917,
-        "english":  "Could you show me a pair of sneakers that feels a little lighter?",
+        "english":  "Could you show me a pair of sneakers that feel a little lighter?",
         "korean":  "조금 더 가벼운 느낌의 운동화를 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for lighter sneakers."
     },
     {
         "id":  1918,
@@ -13741,7 +13741,7 @@
         "korean":  "평소에 쓰기 좋은 운동화를 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for sneakers suited to daily use."
     },
     {
         "id":  1919,
@@ -13749,15 +13749,15 @@
         "korean":  "디자인이 더 깔끔한 운동화를 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for sneakers with a simpler design."
     },
     {
         "id":  1920,
-        "english":  "Could you show me a pair of sneakers that takes up less space?",
+        "english":  "Could you show me a pair of sneakers that take up less space?",
         "korean":  "공간을 덜 차지하는 운동화를 보여 주실 수 있나요?",
         "category":  "Shopping",
         "level":  "Intermediate",
-        "situation":  "Use when asking something politely in a practical situation."
+        "situation":  "Use when asking for sneakers that are easier to pack or store."
     },
     {
         "id":  1921,
@@ -14161,403 +14161,403 @@
     },
     {
         "id":  1971,
-        "english":  "The laptop keeps freezing when I open it.",
-        "korean":  "노트북이 열자마자 멈춰.",
+        "english":  "The laptop keeps freezing when I open too many tabs.",
+        "korean":  "탭을 너무 많이 열면 노트북이 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a laptop that slows down or freezes under a heavy load."
     },
     {
         "id":  1972,
-        "english":  "The laptop keeps disconnecting at random.",
-        "korean":  "노트북이 중간중간 연결이 끊겨.",
+        "english":  "The laptop keeps disconnecting from Wi-Fi at random.",
+        "korean":  "노트북이 와이파이 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a laptop with unstable wireless connection."
     },
     {
         "id":  1973,
-        "english":  "The laptop keeps asking me to sign in again.",
-        "korean":  "노트북이 자꾸 다시 로그인하라고 해.",
+        "english":  "The laptop keeps asking me to sign in again after sleep mode.",
+        "korean":  "노트북이 절전 모드 후에 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated sign-in prompts after sleep mode."
     },
     {
         "id":  1974,
-        "english":  "The laptop keeps running more slowly than usual.",
-        "korean":  "노트북이 평소보다 느리게 돌아가.",
+        "english":  "The laptop keeps running more slowly than usual after the update.",
+        "korean":  "업데이트 후에 노트북이 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a noticeable slowdown after a software update."
     },
     {
         "id":  1975,
-        "english":  "The laptop keeps failing to save the latest change.",
-        "korean":  "노트북이 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The laptop keeps failing to save the latest changes.",
+        "korean":  "노트북에서 마지막 변경 내용이 자꾸 저장되지 않아.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated save failures on a laptop."
     },
     {
         "id":  1976,
-        "english":  "The tablet keeps freezing when I open it.",
-        "korean":  "태블릿이 열자마자 멈춰.",
+        "english":  "The tablet keeps freezing when I switch between apps.",
+        "korean":  "앱을 왔다 갔다 하면 태블릿이 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a tablet that freezes during multitasking."
     },
     {
         "id":  1977,
-        "english":  "The tablet keeps disconnecting at random.",
-        "korean":  "태블릿이 중간중간 연결이 끊겨.",
+        "english":  "The tablet keeps disconnecting from Bluetooth at random.",
+        "korean":  "태블릿이 블루투스 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing unstable Bluetooth connection on a tablet."
     },
     {
         "id":  1978,
-        "english":  "The tablet keeps asking me to sign in again.",
-        "korean":  "태블릿이 자꾸 다시 로그인하라고 해.",
+        "english":  "The tablet keeps asking me to sign in again after every restart.",
+        "korean":  "태블릿이 다시 켤 때마다 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated sign-in prompts after restarting a tablet."
     },
     {
         "id":  1979,
-        "english":  "The tablet keeps running more slowly than usual.",
-        "korean":  "태블릿이 평소보다 느리게 돌아가.",
+        "english":  "The tablet keeps running more slowly than usual when the storage is almost full.",
+        "korean":  "저장 공간이 거의 찼을 때 태블릿이 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a tablet slowing down because storage is nearly full."
     },
     {
         "id":  1980,
-        "english":  "The tablet keeps failing to save the latest change.",
-        "korean":  "태블릿이 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The tablet keeps failing to upload the latest photo.",
+        "korean":  "태블릿에서 마지막 사진이 자꾸 업로드되지 않아.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated upload failures on a tablet."
     },
     {
         "id":  1981,
-        "english":  "The browser keeps freezing when I open it.",
-        "korean":  "브라우저가 열자마자 멈춰.",
+        "english":  "The browser keeps freezing when I open a heavy website.",
+        "korean":  "무거운 웹사이트를 열면 브라우저가 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a browser freezing on resource-heavy websites."
     },
     {
         "id":  1982,
-        "english":  "The browser keeps disconnecting at random.",
-        "korean":  "브라우저가 중간중간 연결이 끊겨.",
+        "english":  "The browser keeps signing me out at random.",
+        "korean":  "브라우저가 자꾸 중간에 로그아웃돼.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a browser session that unexpectedly signs out."
     },
     {
         "id":  1983,
-        "english":  "The browser keeps asking me to sign in again.",
-        "korean":  "브라우저가 자꾸 다시 로그인하라고 해.",
+        "english":  "The browser keeps asking me to sign in again on the same site.",
+        "korean":  "같은 사이트에서 브라우저가 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated sign-in prompts in the browser."
     },
     {
         "id":  1984,
-        "english":  "The browser keeps running more slowly than usual.",
-        "korean":  "브라우저가 평소보다 느리게 돌아가.",
+        "english":  "The browser keeps running more slowly than usual with too many extensions on.",
+        "korean":  "확장 프로그램이 너무 많으면 브라우저가 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing browser slowdown caused by too many extensions."
     },
     {
         "id":  1985,
-        "english":  "The browser keeps failing to save the latest change.",
-        "korean":  "브라우저가 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The browser keeps failing to load the latest page properly.",
+        "korean":  "브라우저가 마지막으로 연 페이지를 자꾸 제대로 불러오지 못해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated page loading problems in the browser."
     },
     {
         "id":  1986,
-        "english":  "The printer keeps freezing when I open it.",
-        "korean":  "프린터가 열자마자 멈춰.",
+        "english":  "The printer keeps freezing when I send a large file.",
+        "korean":  "용량이 큰 파일을 보내면 프린터가 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a printer that freezes on large print jobs."
     },
     {
         "id":  1987,
-        "english":  "The printer keeps disconnecting at random.",
-        "korean":  "프린터가 중간중간 연결이 끊겨.",
+        "english":  "The printer keeps disconnecting from the network at random.",
+        "korean":  "프린터가 네트워크 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a printer with unstable network connection."
     },
     {
         "id":  1988,
-        "english":  "The printer keeps asking me to sign in again.",
-        "korean":  "프린터가 자꾸 다시 로그인하라고 해.",
+        "english":  "The printer keeps asking me to sign in again on the admin page.",
+        "korean":  "프린터 관리 페이지에서 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated sign-in prompts on a printer admin page."
     },
     {
         "id":  1989,
-        "english":  "The printer keeps running more slowly than usual.",
-        "korean":  "프린터가 평소보다 느리게 돌아가.",
+        "english":  "The printer keeps running more slowly than usual with color prints.",
+        "korean":  "컬러 인쇄를 하면 프린터가 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing slow printer performance during color printing."
     },
     {
         "id":  1990,
-        "english":  "The printer keeps failing to save the latest change.",
-        "korean":  "프린터가 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The printer keeps failing to print the last page.",
+        "korean":  "프린터가 마지막 페이지를 자꾸 출력하지 못해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated printing failures on the last page."
     },
     {
         "id":  1991,
-        "english":  "The router keeps freezing when I open it.",
-        "korean":  "공유기가 열자마자 멈춰.",
+        "english":  "The router keeps freezing after running for a few hours.",
+        "korean":  "몇 시간 켜 두면 공유기가 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a router that becomes unresponsive after a while."
     },
     {
         "id":  1992,
-        "english":  "The router keeps disconnecting at random.",
-        "korean":  "공유기가 중간중간 연결이 끊겨.",
+        "english":  "The router keeps disconnecting at random in the evening.",
+        "korean":  "저녁만 되면 공유기 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing random evening disconnections on a router."
     },
     {
         "id":  1993,
-        "english":  "The router keeps asking me to sign in again.",
-        "korean":  "공유기가 자꾸 다시 로그인하라고 해.",
+        "english":  "The router keeps asking me to sign in again on the settings page.",
+        "korean":  "설정 페이지에서 공유기가 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated sign-in prompts on router settings."
     },
     {
         "id":  1994,
-        "english":  "The router keeps running more slowly than usual.",
-        "korean":  "공유기가 평소보다 느리게 돌아가.",
+        "english":  "The router keeps running more slowly than usual when too many devices are connected.",
+        "korean":  "기기가 너무 많이 연결되면 공유기가 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing router slowdown under a heavy connection load."
     },
     {
         "id":  1995,
-        "english":  "The router keeps failing to save the latest change.",
-        "korean":  "공유기가 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The router keeps failing to save the new settings.",
+        "korean":  "공유기가 새 설정을 자꾸 저장하지 못해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated failures to save router settings."
     },
     {
         "id":  1996,
-        "english":  "The camera app keeps freezing when I open it.",
-        "korean":  "카메라 앱이 열자마자 멈춰.",
+        "english":  "The camera app keeps freezing when I switch to video mode.",
+        "korean":  "동영상 모드로 바꾸면 카메라 앱이 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a camera app that freezes when changing modes."
     },
     {
         "id":  1997,
-        "english":  "The camera app keeps disconnecting at random.",
-        "korean":  "카메라 앱이 중간중간 연결이 끊겨.",
+        "english":  "The camera app keeps disconnecting from cloud backup at random.",
+        "korean":  "카메라 앱이 클라우드 백업 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing unstable cloud backup in a camera app."
     },
     {
         "id":  1998,
-        "english":  "The camera app keeps asking me to sign in again.",
-        "korean":  "카메라 앱이 자꾸 다시 로그인하라고 해.",
+        "english":  "The camera app keeps asking me to sign in again after each update.",
+        "korean":  "업데이트할 때마다 카메라 앱이 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated sign-in prompts after camera app updates."
     },
     {
         "id":  1999,
-        "english":  "The camera app keeps running more slowly than usual.",
-        "korean":  "카메라 앱이 평소보다 느리게 돌아가.",
+        "english":  "The camera app keeps running more slowly than usual when the gallery is full.",
+        "korean":  "갤러리가 가득 차 있으면 카메라 앱이 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing camera app slowdown when storage is crowded."
     },
     {
         "id":  2000,
-        "english":  "The camera app keeps failing to save the latest change.",
-        "korean":  "카메라 앱이 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The camera app keeps failing to save the latest photo.",
+        "korean":  "카메라 앱이 마지막 사진을 자꾸 저장하지 못해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated photo save failures in a camera app."
     },
     {
         "id":  2001,
-        "english":  "The headset keeps freezing when I open it.",
-        "korean":  "헤드셋이 열자마자 멈춰.",
+        "english":  "The headset keeps cutting out during calls.",
+        "korean":  "통화 중에 헤드셋 소리가 자꾸 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing audio interruptions with a headset during calls."
     },
     {
         "id":  2002,
-        "english":  "The headset keeps disconnecting at random.",
-        "korean":  "헤드셋이 중간중간 연결이 끊겨.",
+        "english":  "The headset keeps disconnecting from Bluetooth at random.",
+        "korean":  "헤드셋이 블루투스 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing unstable Bluetooth connection on a headset."
     },
     {
         "id":  2003,
-        "english":  "The headset keeps asking me to sign in again.",
-        "korean":  "헤드셋이 자꾸 다시 로그인하라고 해.",
+        "english":  "The headset keeps asking me to pair it again.",
+        "korean":  "헤드셋이 자꾸 다시 페어링하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a headset that repeatedly loses its pairing."
     },
     {
         "id":  2004,
-        "english":  "The headset keeps running more slowly than usual.",
-        "korean":  "헤드셋이 평소보다 느리게 돌아가.",
+        "english":  "The headset keeps running out of battery faster than usual.",
+        "korean":  "헤드셋 배터리가 평소보다 빨리 닳아.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing unusually fast battery drain in a headset."
     },
     {
         "id":  2005,
-        "english":  "The headset keeps failing to save the latest change.",
-        "korean":  "헤드셋이 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The headset keeps failing to connect to one side.",
+        "korean":  "헤드셋 한쪽이 자꾸 연결되지 않아.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing one side of a headset failing to connect."
     },
     {
         "id":  2006,
-        "english":  "The charging cable keeps freezing when I open it.",
-        "korean":  "충전 케이블이 열자마자 멈춰.",
+        "english":  "The charging cable keeps slipping out of the port.",
+        "korean":  "충전 케이블이 포트에서 자꾸 빠져.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a charging cable that does not stay connected firmly."
     },
     {
         "id":  2007,
         "english":  "The charging cable keeps disconnecting at random.",
-        "korean":  "충전 케이블이 중간중간 연결이 끊겨.",
+        "korean":  "충전 케이블 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing an unstable charging connection."
     },
     {
         "id":  2008,
-        "english":  "The charging cable keeps asking me to sign in again.",
-        "korean":  "충전 케이블이 자꾸 다시 로그인하라고 해.",
+        "english":  "The charging cable keeps charging only at a certain angle.",
+        "korean":  "충전 케이블이 특정 각도에서만 충전돼.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a cable that only works in a limited position."
     },
     {
         "id":  2009,
-        "english":  "The charging cable keeps running more slowly than usual.",
-        "korean":  "충전 케이블이 평소보다 느리게 돌아가.",
+        "english":  "The charging cable keeps working more slowly than usual.",
+        "korean":  "충전 케이블이 평소보다 느리게 충전돼.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing unusually slow charging speed."
     },
     {
         "id":  2010,
-        "english":  "The charging cable keeps failing to save the latest change.",
-        "korean":  "충전 케이블이 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The charging cable keeps failing to charge the device fully.",
+        "korean":  "충전 케이블로 기기가 끝까지 충전되지 않아.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing incomplete charging caused by a cable issue."
     },
     {
         "id":  2011,
-        "english":  "The cloud sync keeps freezing when I open it.",
-        "korean":  "클라우드 동기화가 열자마자 멈춰.",
+        "english":  "The cloud sync keeps freezing when I upload a large folder.",
+        "korean":  "큰 폴더를 올리면 클라우드 동기화가 자꾸 멈춰.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing cloud sync freezing during large uploads."
     },
     {
         "id":  2012,
         "english":  "The cloud sync keeps disconnecting at random.",
-        "korean":  "클라우드 동기화가 중간중간 연결이 끊겨.",
+        "korean":  "클라우드 동기화 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing an unstable cloud sync connection."
     },
     {
         "id":  2013,
-        "english":  "The cloud sync keeps asking me to sign in again.",
-        "korean":  "클라우드 동기화가 자꾸 다시 로그인하라고 해.",
+        "english":  "The cloud sync keeps asking me to sign in again after a password change.",
+        "korean":  "비밀번호를 바꾼 뒤에 클라우드 동기화가 자꾸 다시 로그인하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated cloud sync sign-in prompts after changing a password."
     },
     {
         "id":  2014,
-        "english":  "The cloud sync keeps running more slowly than usual.",
-        "korean":  "클라우드 동기화가 평소보다 느리게 돌아가.",
+        "english":  "The cloud sync keeps running more slowly than usual today.",
+        "korean":  "오늘은 클라우드 동기화가 평소보다 느리게 돌아가.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing noticeably slow cloud sync performance."
     },
     {
         "id":  2015,
-        "english":  "The cloud sync keeps failing to save the latest change.",
-        "korean":  "클라우드 동기화가 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The cloud sync keeps failing to upload the latest files.",
+        "korean":  "클라우드 동기화가 마지막 파일들을 자꾸 업로드하지 못해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated failures to upload recent files."
     },
     {
         "id":  2016,
-        "english":  "The speaker keeps freezing when I open it.",
-        "korean":  "스피커가 열자마자 멈춰.",
+        "english":  "The speaker keeps cutting out at higher volume.",
+        "korean":  "볼륨을 높이면 스피커 소리가 자꾸 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing audio cutting out at higher speaker volume."
     },
     {
         "id":  2017,
-        "english":  "The speaker keeps disconnecting at random.",
-        "korean":  "스피커가 중간중간 연결이 끊겨.",
+        "english":  "The speaker keeps disconnecting from Bluetooth at random.",
+        "korean":  "스피커가 블루투스 연결이 자꾸 중간에 끊겨.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing unstable Bluetooth connection on a speaker."
     },
     {
         "id":  2018,
-        "english":  "The speaker keeps asking me to sign in again.",
-        "korean":  "스피커가 자꾸 다시 로그인하라고 해.",
+        "english":  "The speaker keeps asking me to pair it again.",
+        "korean":  "스피커가 자꾸 다시 페어링하라고 해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing a speaker that repeatedly forgets its pairing."
     },
     {
         "id":  2019,
-        "english":  "The speaker keeps running more slowly than usual.",
-        "korean":  "스피커가 평소보다 느리게 돌아가.",
+        "english":  "The speaker keeps sounding quieter than usual.",
+        "korean":  "스피커 소리가 평소보다 작게 들려.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing noticeably lower speaker volume than usual."
     },
     {
         "id":  2020,
-        "english":  "The speaker keeps failing to save the latest change.",
-        "korean":  "스피커가 마지막 변경 내용을 저장하지 못해.",
+        "english":  "The speaker keeps failing to play the next track.",
+        "korean":  "스피커가 다음 곡을 자꾸 재생하지 못해.",
         "category":  "Technology",
         "level":  "Intermediate",
-        "situation":  "Use when saying something natural in an everyday situation."
+        "situation":  "Use when describing repeated playback problems with the next track."
     },
     {
         "id":  2021,
@@ -15769,11 +15769,11 @@
     },
     {
         "id":  2172,
-        "english":  "It seems wiser to double-check the details before things get rushed.",
-        "korean":  "급해지기 전에 세부 내용을 다시 확인하는 게 더 현명해 보여.",
+        "english":  "It seems wiser to double-check the details while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 세부 내용을 다시 확인하는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting a careful review before a situation becomes hard to manage."
     },
     {
         "id":  2173,
@@ -15809,11 +15809,11 @@
     },
     {
         "id":  2177,
-        "english":  "It seems wiser to slow the pace a little before things get rushed.",
-        "korean":  "급해지기 전에 속도를 조금 늦추는 게 더 현명해 보여.",
+        "english":  "It seems wiser to slow the pace a little while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 속도를 조금 늦추는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting slowing down before a situation becomes hard to manage."
     },
     {
         "id":  2178,
@@ -15849,11 +15849,11 @@
     },
     {
         "id":  2182,
-        "english":  "It seems wiser to hear everyone\u0027s view before things get rushed.",
-        "korean":  "급해지기 전에 각자 의견을 들어보는 게 더 현명해 보여.",
+        "english":  "It seems wiser to hear everyone\u0027s view while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 각자 의견을 들어보는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting listening to everyone before the situation gets harder to manage."
     },
     {
         "id":  2183,
@@ -15889,11 +15889,11 @@
     },
     {
         "id":  2187,
-        "english":  "It seems wiser to keep the deadline realistic before things get rushed.",
-        "korean":  "급해지기 전에 마감 일정을 현실적으로 잡는 게 더 현명해 보여.",
+        "english":  "It seems wiser to keep the deadline realistic while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 마감 일정을 현실적으로 잡는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting a realistic deadline before pressure builds further."
     },
     {
         "id":  2188,
@@ -15929,11 +15929,11 @@
     },
     {
         "id":  2192,
-        "english":  "It seems wiser to split the work into steps before things get rushed.",
-        "korean":  "급해지기 전에 일을 단계별로 나누는 게 더 현명해 보여.",
+        "english":  "It seems wiser to split the work into steps while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 일을 단계별로 나누는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting breaking work into steps before it becomes harder to manage."
     },
     {
         "id":  2193,
@@ -15969,11 +15969,11 @@
     },
     {
         "id":  2197,
-        "english":  "It seems wiser to test the easier option first before things get rushed.",
-        "korean":  "급해지기 전에 더 쉬운 선택지를 먼저 시험해 보는 게 더 현명해 보여.",
+        "english":  "It seems wiser to test the easier option first while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 더 쉬운 선택지를 먼저 시험해 보는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting trying the simpler option first before pressure rises."
     },
     {
         "id":  2198,
@@ -16009,11 +16009,11 @@
     },
     {
         "id":  2202,
-        "english":  "It seems wiser to save a copy before editing before things get rushed.",
-        "korean":  "급해지기 전에 수정 전에 복사본을 저장하는 게 더 현명해 보여.",
+        "english":  "It seems wiser to save a copy before editing while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 수정 전에 복사본을 저장하는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting saving a backup before editing before the situation gets hectic."
     },
     {
         "id":  2203,
@@ -16049,11 +16049,11 @@
     },
     {
         "id":  2207,
-        "english":  "It seems wiser to leave the final call for tomorrow before things get rushed.",
-        "korean":  "급해지기 전에 최종 결정은 내일로 미루는 게 더 현명해 보여.",
+        "english":  "It seems wiser to leave the final call for tomorrow while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 최종 결정은 내일로 미루는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting postponing the final decision before pressure builds further."
     },
     {
         "id":  2208,
@@ -16089,11 +16089,11 @@
     },
     {
         "id":  2212,
-        "english":  "It seems wiser to focus on the main issue before things get rushed.",
-        "korean":  "급해지기 전에 핵심 문제에 집중하는 게 더 현명해 보여.",
+        "english":  "It seems wiser to focus on the main issue while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 핵심 문제에 집중하는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting focusing on the core issue before things become harder to manage."
     },
     {
         "id":  2213,
@@ -16129,11 +16129,11 @@
     },
     {
         "id":  2217,
-        "english":  "It seems wiser to cut the extra part before things get rushed.",
-        "korean":  "급해지기 전에 불필요한 부분을 덜어내는 게 더 현명해 보여.",
+        "english":  "It seems wiser to cut the extra part while things are still manageable.",
+        "korean":  "아직 감당 가능한 동안 불필요한 부분을 덜어내는 게 더 현명해 보여.",
         "category":  "Opinion",
         "level":  "Advanced",
-        "situation":  "Use when sharing a preference or judgment in a natural way."
+        "situation":  "Use when suggesting trimming unnecessary parts before things become harder to manage."
     },
     {
         "id":  2218,
