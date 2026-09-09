@@ -16158,5 +16158,405 @@
         "category":  "Opinion",
         "level":  "Advanced",
         "situation":  "Use when sharing a preference or judgment in a natural way."
+    },
+    {
+        "id":  2221,
+        "english":  "I left the window open, so the room got cold.",
+        "korean":  "창문을 열어 둬서 방이 추워졌어.",
+        "category":  "Daily life",
+        "level":  "Beginner",
+        "situation":  "Use when explaining why a room suddenly feels cold."
+    },
+    {
+        "id":  2222,
+        "english":  "Could you remind me to water the plants tonight?",
+        "korean":  "오늘 밤에 식물에 물 주라고 알려 줄래?",
+        "category":  "Daily life",
+        "level":  "Beginner",
+        "situation":  "Use when asking someone to help you remember a small task."
+    },
+    {
+        "id":  2223,
+        "english":  "I will sort the laundry after I finish this.",
+        "korean":  "이거 끝내고 빨래를 분류할게.",
+        "category":  "Daily life",
+        "level":  "Beginner",
+        "situation":  "Use when putting off a simple chore for a short time."
+    },
+    {
+        "id":  2224,
+        "english":  "The drawer is stuck because something is blocking it.",
+        "korean":  "뭔가 걸려 있어서 서랍이 안 열려.",
+        "category":  "Daily life",
+        "level":  "Intermediate",
+        "situation":  "Use when explaining why a drawer will not open."
+    },
+    {
+        "id":  2225,
+        "english":  "I have been trying to use up the food in the fridge.",
+        "korean":  "냉장고에 있는 음식을 다 먹으려고 하고 있어.",
+        "category":  "Daily life",
+        "level":  "Intermediate",
+        "situation":  "Use when talking about reducing food waste at home."
+    },
+    {
+        "id":  2226,
+        "english":  "I did not realize how much time had passed.",
+        "korean":  "시간이 그렇게 많이 지난 줄 몰랐어.",
+        "category":  "Daily life",
+        "level":  "Intermediate",
+        "situation":  "Use when you are surprised that an activity took so long."
+    },
+    {
+        "id":  2227,
+        "english":  "Let us leave a little earlier in case traffic is heavy.",
+        "korean":  "차가 막힐 수도 있으니 조금 일찍 출발하자.",
+        "category":  "Daily life",
+        "level":  "Intermediate",
+        "situation":  "Use when suggesting extra travel time as a precaution."
+    },
+    {
+        "id":  2228,
+        "english":  "I need a quiet place to clear my head.",
+        "korean":  "생각을 정리할 조용한 곳이 필요해.",
+        "category":  "Daily life",
+        "level":  "Intermediate",
+        "situation":  "Use when you need a calm place after a busy day."
+    },
+    {
+        "id":  2229,
+        "english":  "The package was delivered to the wrong building.",
+        "korean":  "택배가 다른 건물로 잘못 배달됐어.",
+        "category":  "Shopping",
+        "level":  "Beginner",
+        "situation":  "Use when reporting a delivery problem."
+    },
+    {
+        "id":  2230,
+        "english":  "Could I exchange this for a different size?",
+        "korean":  "이거 다른 사이즈로 교환할 수 있을까요?",
+        "category":  "Shopping",
+        "level":  "Intermediate",
+        "situation":  "Use when asking a store to exchange clothing or another item."
+    },
+    {
+        "id":  2231,
+        "english":  "The price includes delivery, right?",
+        "korean":  "배송비가 포함된 가격 맞죠?",
+        "category":  "Shopping",
+        "level":  "Beginner",
+        "situation":  "Use when checking whether delivery is included in the listed price."
+    },
+    {
+        "id":  2232,
+        "english":  "I am comparing a few options before I decide.",
+        "korean":  "결정하기 전에 몇 가지 선택지를 비교하고 있어.",
+        "category":  "Shopping",
+        "level":  "Intermediate",
+        "situation":  "Use when explaining that you are still considering a purchase."
+    },
+    {
+        "id":  2233,
+        "english":  "This one looks practical, but it is a little expensive.",
+        "korean":  "이건 실용적으로 보이지만 조금 비싸.",
+        "category":  "Shopping",
+        "level":  "Intermediate",
+        "situation":  "Use when weighing usefulness against price."
+    },
+    {
+        "id":  2234,
+        "english":  "Do you have anything similar in a darker color?",
+        "korean":  "좀 더 어두운 색으로 비슷한 제품이 있나요?",
+        "category":  "Shopping",
+        "level":  "Intermediate",
+        "situation":  "Use when asking for a similar item in another color."
+    },
+    {
+        "id":  2235,
+        "english":  "The meeting can start once everyone joins the call.",
+        "korean":  "모두 통화에 들어오면 회의를 시작할 수 있어.",
+        "category":  "Work",
+        "level":  "Intermediate",
+        "situation":  "Use when explaining what needs to happen before a meeting starts."
+    },
+    {
+        "id":  2236,
+        "english":  "I will send a short summary after the meeting.",
+        "korean":  "회의 후에 간단한 요약을 보낼게.",
+        "category":  "Work",
+        "level":  "Beginner",
+        "situation":  "Use when promising to share the main points later."
+    },
+    {
+        "id":  2237,
+        "english":  "Could we move this discussion to the afternoon?",
+        "korean":  "이 논의를 오후로 미룰 수 있을까요?",
+        "category":  "Work",
+        "level":  "Intermediate",
+        "situation":  "Use when politely requesting a different discussion time."
+    },
+    {
+        "id":  2238,
+        "english":  "I need a little more context before I can comment.",
+        "korean":  "의견을 말하려면 상황을 조금 더 알아야 해.",
+        "category":  "Work",
+        "level":  "Advanced",
+        "situation":  "Use when you need more background before giving an opinion."
+    },
+    {
+        "id":  2239,
+        "english":  "The deadline is still possible, but we need to stay focused.",
+        "korean":  "마감일을 맞출 수는 있지만 집중해서 진행해야 해.",
+        "category":  "Work",
+        "level":  "Advanced",
+        "situation":  "Use when a deadline is achievable but requires discipline."
+    },
+    {
+        "id":  2240,
+        "english":  "I will flag the main risk in the next update.",
+        "korean":  "다음 업데이트에서 주요 위험 요소를 짚을게.",
+        "category":  "Work",
+        "level":  "Advanced",
+        "situation":  "Use when promising to point out an important concern."
+    },
+    {
+        "id":  2241,
+        "english":  "I missed the announcement because my notifications were off.",
+        "korean":  "알림을 꺼 둬서 공지를 놓쳤어.",
+        "category":  "Technology",
+        "level":  "Intermediate",
+        "situation":  "Use when explaining why you did not see a notification."
+    },
+    {
+        "id":  2242,
+        "english":  "The app keeps logging me out.",
+        "korean":  "이 앱은 자꾸 로그아웃돼.",
+        "category":  "Technology",
+        "level":  "Beginner",
+        "situation":  "Use when an app repeatedly ends your session."
+    },
+    {
+        "id":  2243,
+        "english":  "I backed up the files before changing the settings.",
+        "korean":  "설정을 바꾸기 전에 파일을 백업했어.",
+        "category":  "Technology",
+        "level":  "Intermediate",
+        "situation":  "Use when describing a precaution before making a technical change."
+    },
+    {
+        "id":  2244,
+        "english":  "The screen is brighter than I expected.",
+        "korean":  "화면이 생각보다 더 밝아.",
+        "category":  "Technology",
+        "level":  "Beginner",
+        "situation":  "Use when describing an unexpectedly bright display."
+    },
+    {
+        "id":  2245,
+        "english":  "Could you share the link in the group chat?",
+        "korean":  "그 링크를 단체 채팅방에 공유해 줄래?",
+        "category":  "Technology",
+        "level":  "Beginner",
+        "situation":  "Use when asking someone to post a link for everyone."
+    },
+    {
+        "id":  2246,
+        "english":  "I would rather update the software when I have more time.",
+        "korean":  "시간이 좀 더 있을 때 소프트웨어를 업데이트하고 싶어.",
+        "category":  "Technology",
+        "level":  "Advanced",
+        "situation":  "Use when postponing a software update until you are less busy."
+    },
+    {
+        "id":  2247,
+        "english":  "The train was delayed, but I still arrived on time.",
+        "korean":  "기차가 지연됐지만 그래도 제시간에 도착했어.",
+        "category":  "Travel",
+        "level":  "Intermediate",
+        "situation":  "Use when describing a delay that did not make you late."
+    },
+    {
+        "id":  2248,
+        "english":  "Is this seat available, or is someone sitting here?",
+        "korean":  "이 자리 비어 있나요, 아니면 누가 앉는 자리인가요?",
+        "category":  "Travel",
+        "level":  "Beginner",
+        "situation":  "Use when checking whether you can take a seat."
+    },
+    {
+        "id":  2249,
+        "english":  "I would like to check in one bag.",
+        "korean":  "가방 하나를 부치고 싶어요.",
+        "category":  "Travel",
+        "level":  "Beginner",
+        "situation":  "Use when checking one bag at an airport."
+    },
+    {
+        "id":  2250,
+        "english":  "We took the wrong turn near the station.",
+        "korean":  "역 근처에서 길을 잘못 들었어.",
+        "category":  "Travel",
+        "level":  "Beginner",
+        "situation":  "Use when explaining that you went the wrong way."
+    },
+    {
+        "id":  2251,
+        "english":  "Could you tell me which platform the train leaves from?",
+        "korean":  "기차가 어느 승강장에서 출발하는지 알려 주시겠어요?",
+        "category":  "Travel",
+        "level":  "Intermediate",
+        "situation":  "Use when asking for a train platform."
+    },
+    {
+        "id":  2252,
+        "english":  "The view was worth the long ride.",
+        "korean":  "오래 이동한 보람이 있을 만큼 경치가 좋았어.",
+        "category":  "Travel",
+        "level":  "Advanced",
+        "situation":  "Use when saying that a view justified a tiring journey."
+    },
+    {
+        "id":  2253,
+        "english":  "I have been drinking more water lately.",
+        "korean":  "요즘 물을 더 많이 마시고 있어.",
+        "category":  "Health",
+        "level":  "Beginner",
+        "situation":  "Use when describing a recent healthy habit."
+    },
+    {
+        "id":  2254,
+        "english":  "My shoulders feel tight after sitting all day.",
+        "korean":  "하루 종일 앉아 있었더니 어깨가 뻐근해.",
+        "category":  "Health",
+        "level":  "Intermediate",
+        "situation":  "Use when describing stiffness after prolonged sitting."
+    },
+    {
+        "id":  2255,
+        "english":  "I am going to take a short walk before dinner.",
+        "korean":  "저녁 먹기 전에 잠깐 산책할 거야.",
+        "category":  "Health",
+        "level":  "Beginner",
+        "situation":  "Use when talking about a light activity before a meal."
+    },
+    {
+        "id":  2256,
+        "english":  "I should probably get more sleep this week.",
+        "korean":  "이번 주에는 아무래도 잠을 더 자야 할 것 같아.",
+        "category":  "Health",
+        "level":  "Intermediate",
+        "situation":  "Use when recognizing that you have not been sleeping enough."
+    },
+    {
+        "id":  2257,
+        "english":  "The headache is mild, so I am going to rest for now.",
+        "korean":  "두통이 심하지 않아서 일단 쉬려고 해.",
+        "category":  "Health",
+        "level":  "Intermediate",
+        "situation":  "Use when describing a mild symptom and a simple plan."
+    },
+    {
+        "id":  2258,
+        "english":  "I feel better when I keep a regular schedule.",
+        "korean":  "규칙적인 생활을 하면 몸 상태가 더 좋아.",
+        "category":  "Health",
+        "level":  "Advanced",
+        "situation":  "Use when explaining why a consistent routine helps you."
+    },
+    {
+        "id":  2259,
+        "english":  "It was nice talking with you after such a long time.",
+        "korean":  "정말 오랜만에 이야기해서 좋았어.",
+        "category":  "Social",
+        "level":  "Beginner",
+        "situation":  "Use when ending a pleasant conversation after a long time apart."
+    },
+    {
+        "id":  2260,
+        "english":  "I am glad we finally found time to meet.",
+        "korean":  "드디어 만날 시간을 내서 다행이야.",
+        "category":  "Social",
+        "level":  "Intermediate",
+        "situation":  "Use when expressing happiness about meeting after delays."
+    },
+    {
+        "id":  2261,
+        "english":  "Would you like to join us for a casual dinner?",
+        "korean":  "우리랑 편하게 저녁 먹으러 갈래?",
+        "category":  "Social",
+        "level":  "Beginner",
+        "situation":  "Use when inviting someone to an informal dinner."
+    },
+    {
+        "id":  2262,
+        "english":  "I do not want to put you on the spot.",
+        "korean":  "너를 곤란한 입장에 세우고 싶지는 않아.",
+        "category":  "Social",
+        "level":  "Advanced",
+        "situation":  "Use when avoiding pressure on someone to answer immediately."
+    },
+    {
+        "id":  2263,
+        "english":  "Let me know if you would rather keep it low-key.",
+        "korean":  "조용하고 편하게 하고 싶다면 알려 줘.",
+        "category":  "Social",
+        "level":  "Advanced",
+        "situation":  "Use when offering a less elaborate social plan."
+    },
+    {
+        "id":  2264,
+        "english":  "I appreciate you checking in on me.",
+        "korean":  "내 안부를 물어봐 줘서 고마워.",
+        "category":  "Social",
+        "level":  "Intermediate",
+        "situation":  "Use when thanking someone for showing concern."
+    },
+    {
+        "id":  2265,
+        "english":  "I think the simpler approach will be easier to maintain.",
+        "korean":  "더 단순한 방식이 유지하기 쉬울 것 같아.",
+        "category":  "Opinion",
+        "level":  "Advanced",
+        "situation":  "Use when recommending a practical approach that can last."
+    },
+    {
+        "id":  2266,
+        "english":  "I am not completely convinced that this is necessary.",
+        "korean":  "이게 꼭 필요한지는 완전히 확신이 안 서.",
+        "category":  "Opinion",
+        "level":  "Advanced",
+        "situation":  "Use when expressing polite doubt about a proposal."
+    },
+    {
+        "id":  2267,
+        "english":  "That sounds reasonable, given the time we have.",
+        "korean":  "우리에게 주어진 시간을 생각하면 합리적으로 들려.",
+        "category":  "Opinion",
+        "level":  "Advanced",
+        "situation":  "Use when agreeing with a plan in light of a time limit."
+    },
+    {
+        "id":  2268,
+        "english":  "I would keep the original plan unless something changes.",
+        "korean":  "뭔가 바뀌지 않는 한 원래 계획대로 할 것 같아.",
+        "category":  "Opinion",
+        "level":  "Advanced",
+        "situation":  "Use when favoring an existing plan while remaining flexible."
+    },
+    {
+        "id":  2269,
+        "english":  "The main issue is not the cost but the timing.",
+        "korean":  "가장 큰 문제는 비용이 아니라 시기야.",
+        "category":  "Opinion",
+        "level":  "Intermediate",
+        "situation":  "Use when clarifying what the real concern is."
+    },
+    {
+        "id":  2270,
+        "english":  "It may be worth trying once before we rule it out.",
+        "korean":  "제외하기 전에 한 번쯤 시도해 볼 가치는 있을 것 같아.",
+        "category":  "Opinion",
+        "level":  "Advanced",
+        "situation":  "Use when suggesting a fair trial before rejecting an idea."
     }
 ]
